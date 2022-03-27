@@ -2,7 +2,7 @@
 Team: Anshika Patel, Amy Phan, and Parth Patel.
 
 ### Introduction:
-DonationHub, a new statistical webpage, is similar in nature to statistical dashboard produce by Feeding America's [data page](https://www.google.com/url?sa=D&q=https://map.feedingamerica.org/%3F_ga%3D2.10632375.2037159941.1647393264-2115671929.1647393264&ust=1648349280000000&usg=AOvVaw2dKWdVCliQINm6QsQwM_M2&hl=en&source=gmail). DonationHub includes various data such as population information of counties and states, rates of poverty and homelessness, list of official donation organizations and charities, and personal income info on a county level. More specifically, DonationHub will show data of each state and county in the United States and display the appropriate data categories for each. Additionally it will allow the user to filter through the data and have it calculate statistical data for them to view.
+DonationHub, a statistical dashboard integrated into a webpage, is similar in nature to statistical dashboard on Feeding America's [data page](https://www.google.com/url?sa=D&q=https://map.feedingamerica.org/%3F_ga%3D2.10632375.2037159941.1647393264-2115671929.1647393264&ust=1648349280000000&usg=AOvVaw2dKWdVCliQINm6QsQwM_M2&hl=en&source=gmail). DonationHub includes various data such as population information of counties and states, rates of poverty and homelessness, list of official donation organizations and charities, and personal income info on a county level. More specifically, DonationHub will show data of each state and county in the United States and display the appropriate data categories for each. Additionally it will allow the user to filter through the data and have it calculate statistical data for them to view.
 
 ## Data Set Sources:
 
