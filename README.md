@@ -1,10 +1,11 @@
 <h1>DonationHub</h1>
-Team: Anshika Patel, Amy Phan, and Parth Patel.
+Team: Anishika Patel, Amy Phan, and Parth Patel.
 
 ### Introduction:
-DonationHub, a statistical dashboard integrated into a webpage, is similar in nature to statistical dashboard on Feeding America's [data page](https://www.google.com/url?sa=D&q=https://map.feedingamerica.org/%3F_ga%3D2.10632375.2037159941.1647393264-2115671929.1647393264&ust=1648349280000000&usg=AOvVaw2dKWdVCliQINm6QsQwM_M2&hl=en&source=gmail). DonationHub includes various data such as population information of counties and states, rates of poverty and homelessness, list of official donation organizations and charities, and personal income info on a county level. More specifically, DonationHub will show data of each state and county in the United States and display the appropriate data categories for each. Additionally it will allow the user to filter through the data and have it calculate statistical data for them to view.
+DonationHub strives to increase efforts to help out the people in need with various sorts of donations and aid programs. Assuming this is a real company client, DonationHub has requested us a new statistical webpage integration for their audience to view. They want a similar statistical dashboard as Feeding America’s [data page](https://www.google.com/url?sa=D&q=https://map.feedingamerica.org/%3F_ga%3D2.10632375.2037159941.1647393264-2115671929.1647393264&ust=1648349280000000&usg=AOvVaw2dKWdVCliQINm6QsQwM_M2&hl=en&source=gmail). However, DonationHub will include various data including population information of counties and states, rates of poverty and homelessness, list of official donation organizations and charities, and personal income info on a county level. More specifically, DonationHub will show data of each state and county in the United States and display the appropriate data categories for each. Additionally it will allow the user to filter through the data and have it calculate statistical data for them to view.
 
 ## Data Set Sources:
+
 
 **Income**
 - https://www.bea.gov/data/income-saving personal-income-county-metro-and-other-areas
@@ -28,9 +29,15 @@ DonationHub, a statistical dashboard integrated into a webpage, is similar in na
 **Languages and Tools:**
 <p> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://d2knvm16wkt3ia.cloudfront.net/assets/svg-icon/flask.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
-(HTML5/CSS3/Bootstrap/Flask/Python)
+(HTML5/CSS3/Bootstrap/Flask/Python/MySQL)
 
 ## Installation:
+
+### Built With
+
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+* [SQLAlchemy](https://www.sqlalchemy.org/)
 
 Go to our GitHub page and export our project files (clone/downloading the zip) into a workspace folder: 
 
@@ -38,7 +45,15 @@ https://github.com/UMBC-CMSC461-SP2022/project-donationshub
  
 Through terminal (or VSCode’s terminal), move into the workspace folder. From there, you can do the following steps to install the virtual environment and the rest of the dependents. From there you should be able to run the site: 
 
+**Tested out with MySQL, ran into various issues**
 You can refer to this [tutorial page](https://www.google.com/amp/s/www.geeksforgeeks.org/profile-application-using-python-flask-and-mysql/amp/) for more details, but below are the simplified steps for the installations.
+
+
+### Flask and Python
+
+<i>To learn more about Flask, [here](https://www.askpython.com/python-modules/flask/create-hello-world-in-flask) is a tutorial of how to setup and create a Hello World app in flask (This is not required for this project, but will help you understand flask).</i> Otherwise just ignore and follow the next few steps to install + setup for this project. 
+
+If you're using Vscode,  please install the <i>sqlite</i> extension.
 
 **Windows:**
 
@@ -58,17 +73,23 @@ Call venv\Scripts\activate
 3. Install the extensions 
 ```
 py -m pip install flask 
+py -m pip install flask-sqlalchemy 
+py -m pip install requests 
 ```
 
 4. Once you’ve installed these dependents, create a flask command that will be used to specify how to load the application (assuming you’re using bash, otherwise check out the flask site): 
 ```
-// activate the python environment 
-$ set FLASK_APP=run.py 
-$ flask run 
+set FLASK_APP=run.py 
+flask run 
 ```
-(Make sure you’re within the project foldeeer) 
+(Make sure you’re within the project folder) 
 
 5. You should be able to run and open the application now. 
+
+6. To deactivate the virtual environment, just type:
+```
+deactivate
+```
 
 **Mac:**
 
@@ -96,15 +117,37 @@ source <name of environment>/bin/activate
 
 ```
 python -m pip install flask
+python -m pip install flask-sqlalchemy
+python -m pip install requests
 ```
 4. Once you've installed these dependents, create a flask command that will be used to specify how to load the application <i>(assuming you're using bash, otherwise check out the [flask site](https://flask.palletsprojects.com/en/2.0.x/cli/)</i>:
 ```
-$ export FLASK_APP=run
-$ flask run
+export FLASK_APP=app.py
+flask run
 ```
 (Make sure you’re within the project folder)
 
 5. You should be able to run and open the application now.
 
+6. To deactivate the virtual environment, just type:
+```
+deactivate
+```
+
+## Q&A
+
+2. SQLite Extension
+https://youtu.be/bKixKfb1J1o
+
+tutorial
+
+https://youtu.be/IBgWKTaG_Bs
+
+## Importing Data into the Database
+
+N/A
+
+## Table functions
+https://youtu.be/IsuhCAptNbg 
 
 ####
