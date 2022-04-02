@@ -64,12 +64,11 @@ py –version
 ```
 2. Install and set up a virtualenv: 
 ```
-sudo py –m pip install virtualenv 
-mkdir <project name> 
-cd<project name> 
+py –m pip install virtualenv 
 py –m venv venv 
-Call venv\Scripts\activate
+. venv\scripts\activate
 ```
+
 
 3. Install the extensions 
 ```
@@ -80,7 +79,7 @@ py -m pip install requests
 
 4. Once you’ve installed these dependents, create a flask command that will be used to specify how to load the application (assuming you’re using bash, otherwise check out the flask site): 
 ```
-set FLASK_APP=run.py 
+set FLASK_APP=app.py 
 flask run 
 ```
 (Make sure you’re within the DonationHub folder that has app.py)
@@ -107,9 +106,7 @@ If it lists out a python version less than 3.6+, then check out this page and fo
 
 2. Instal and activate virtualenv to check if you have correctly downloaded it:
 ```
-sudo python3 -m pip install virtualenv
-mkdir <project name>
-cd <project name>
+python3 -m pip install virtualenv
 python3 -m venv <name of environment>
 source <name of environment>/bin/activate
 ```
