@@ -1,7 +1,8 @@
 <h1>DonationHub</h1>
 Team: Anishika Patel, Amy Phan, and Parth Patel.
 
-### Introduction:
+## Introduction:
+
 DonationHub strives to increase efforts to help out the people in need with various sorts of donations and aid programs. Assuming this is a real company client, DonationHub has requested us a new statistical webpage integration for their audience to view. They want a similar statistical dashboard as Feeding America’s [data page](https://www.google.com/url?sa=D&q=https://map.feedingamerica.org/%3F_ga%3D2.10632375.2037159941.1647393264-2115671929.1647393264&ust=1648349280000000&usg=AOvVaw2dKWdVCliQINm6QsQwM_M2&hl=en&source=gmail). However, DonationHub will include various data including population information of counties and states, rates of poverty and homelessness, list of official donation organizations and charities, and personal income info on a county level. More specifically, DonationHub will show data of each state and county in the United States and display the appropriate data categories for each. Additionally it will allow the user to filter through the data and have it calculate statistical data for them to view.
 
 ## Data Set Sources:
@@ -27,28 +28,22 @@ DonationHub strives to increase efforts to help out the people in need with vari
 <i>You can use a windows or mac device for this application. </i>
 
 **Languages and Tools:**
+
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+* [SQLAlchemy](https://www.sqlalchemy.org/)
+
 <p> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://d2knvm16wkt3ia.cloudfront.net/assets/svg-icon/flask.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a> </a></p>
 
 (HTML5/CSS3/Bootstrap/Flask/Python/SQLite)
 
 ## Installation:
 
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-* [SQLAlchemy](https://www.sqlalchemy.org/)
-
 Go to our GitHub page and export our project files (clone/downloading the zip) into a workspace folder: 
 
 https://github.com/UMBC-CMSC461-SP2022/project-donationshub 
  
 Through terminal (or VSCode’s terminal), move into the workspace folder. From there, you can do the following steps to install the virtual environment and the rest of the dependents. From there you should be able to run the site: 
-
-**Tested out with MySQL, ran into various issues so switched back to SQLite**
-
-You can refer to this [tutorial page](https://www.google.com/amp/s/www.geeksforgeeks.org/profile-application-using-python-flask-and-mysql/amp/) for more details, but below are the simplified steps for the installations.
-
 
 ### Flask and Python
 
@@ -133,6 +128,8 @@ deactivate
 
 ## Q&A
 
+(Unfinished)
+
 1. SQLite Extension
 
     https://youtu.be/bKixKfb1J1o
@@ -143,9 +140,14 @@ deactivate
 
 ## Importing Data into the Database
 
+(Unfinished)
+
 N/A
 
 ## Table functions
+
+(Unfinished)
+
 https://youtu.be/IsuhCAptNbg 
 
 ####
