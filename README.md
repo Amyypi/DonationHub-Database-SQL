@@ -18,7 +18,7 @@ DonationHub strives to increase efforts to help out the people in need with vari
 - [Example-dataset-file-provided](https://docs.google.com/spreadsheets/d/1OZzh2ByZRDAfWtM55pKj4VhBUfwvjn1z/edit?usp=sharing&amp;ouid=117748847086221195801&amp;rtpof=true&amp;sd=true)
 
 **List of U.S. Charities**
-- [Example-dataset-file-provided](https://docs.google.com/spreadsheets/d/1OZzh2ByZRDAfWtM55pKj4VhBUfwvjn1z/edit?usp=sharing&amp;ouid=117748847086221195801&amp;rtpof=true&amp;sd=true)
+- [Example-dataset-file-provided](https://www.kaggle.com/crawford/us-charities-and-nonprofits?select=eo2.csv)
 
 **State and country population**
 - state: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html 
