@@ -69,7 +69,6 @@ py –m venv venv
 . venv\scripts\activate
 ```
 
-
 3. Install the extensions 
 ```
 py -m pip install flask 
