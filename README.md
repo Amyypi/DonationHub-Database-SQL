@@ -27,9 +27,9 @@ DonationHub strives to increase efforts to help out the people in need with vari
 <i>You can use a windows or mac device for this application. </i>
 
 **Languages and Tools:**
-<p> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://d2knvm16wkt3ia.cloudfront.net/assets/svg-icon/flask.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
+<p> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://d2knvm16wkt3ia.cloudfront.net/assets/svg-icon/flask.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a> </a></p>
 
-(HTML5/CSS3/Bootstrap/Flask/Python/MySQL)
+(HTML5/CSS3/Bootstrap/Flask/Python/SQLite)
 
 ## Installation:
 
@@ -45,7 +45,8 @@ https://github.com/UMBC-CMSC461-SP2022/project-donationshub
  
 Through terminal (or VSCode’s terminal), move into the workspace folder. From there, you can do the following steps to install the virtual environment and the rest of the dependents. From there you should be able to run the site: 
 
-**Tested out with MySQL, ran into various issues**
+**Tested out with MySQL, ran into various issues so switched back to SQLite**
+
 You can refer to this [tutorial page](https://www.google.com/amp/s/www.geeksforgeeks.org/profile-application-using-python-flask-and-mysql/amp/) for more details, but below are the simplified steps for the installations.
 
 
@@ -53,7 +54,7 @@ You can refer to this [tutorial page](https://www.google.com/amp/s/www.geeksforg
 
 <i>To learn more about Flask, [here](https://www.askpython.com/python-modules/flask/create-hello-world-in-flask) is a tutorial of how to setup and create a Hello World app in flask (This is not required for this project, but will help you understand flask).</i> Otherwise just ignore and follow the next few steps to install + setup for this project. 
 
-If you're using Vscode,  please install the <i>sqlite</i> extension.
+If you're using Vscode,  please install the <i>sqlite</i> extension for better view of the database tables.
 
 **Windows:**
 
@@ -82,7 +83,7 @@ py -m pip install requests
 set FLASK_APP=run.py 
 flask run 
 ```
-(Make sure you’re within the project folder) 
+(Make sure you’re within the DonationHub folder that has app.py)
 
 5. You should be able to run and open the application now. 
 
@@ -125,7 +126,7 @@ python -m pip install requests
 export FLASK_APP=app.py
 flask run
 ```
-(Make sure you’re within the project folder)
+(Make sure you’re within the DonationHub folder that has app.py)
 
 5. You should be able to run and open the application now.
 
@@ -136,12 +137,13 @@ deactivate
 
 ## Q&A
 
-2. SQLite Extension
-https://youtu.be/bKixKfb1J1o
+1. SQLite Extension
 
-tutorial
+    https://youtu.be/bKixKfb1J1o
 
-https://youtu.be/IBgWKTaG_Bs
+    tutorial
+
+    https://youtu.be/IBgWKTaG_Bs
 
 ## Importing Data into the Database
 
