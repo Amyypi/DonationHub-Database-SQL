@@ -24,7 +24,7 @@ DonationHub strives to increase efforts to help out the people in need with vari
     - state_FIPS, only 2 characters long (first 2 num the 5 digit code (if state_FIPS and county_FIPS are combined))
 - [County - overall](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html)
 - [County - dataset 2017](https://drive.google.com/file/d/15A4ZxKIeYrG7b28WTACp8liX7oCviimu/view?usp=sharing)
-    - (ZIP + CODE columns = 5 digit code (what we will use for <i>county_FIPS</i>, otherwise we will have duplicates)
+    - (STATE (2 digits) + COUNTY (3 digits) columns = 5 digit code (what we will use for <i>county_FIPS</i>, otherwise we will have duplicates)
 
 ## Project Installations
 <i>You can use a windows or mac device for this application. </i>
