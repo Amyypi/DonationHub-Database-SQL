@@ -10,19 +10,18 @@ DonationHub strives to increase efforts to help out the people in need with vari
 
 **Income**
 - https://www.bea.gov/data/income-saving personal-income-county-metro-and-other-areas
-- https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas
-- Example-Dataset-file-provided: https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas 
+- [Example-Dataset-file-provided](https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas)
 
 **Unemployment + Poverty/homelessness Info**
-- https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas
-- [Example-dataset-file-provided](https://docs.google.com/spreadsheets/d/1OZzh2ByZRDAfWtM55pKj4VhBUfwvjn1z/edit?usp=sharing&amp;ouid=117748847086221195801&amp;rtpof=true&amp;sd=true)
+- [Unemployment](https://docs.google.com/spreadsheets/d/1OZzh2ByZRDAfWtM55pKj4VhBUfwvjn1z/edit?usp=sharing&ouid=117748847086221195801&rtpof=true&sd=true)
+- [Poverty Estimate + Percentage](https://www.census.gov/data/datasets/2017/demo/saipe/2017-state-and-county.html)
 
 **List of U.S. Charities**
 - [Example-dataset-file-provided](https://www.kaggle.com/crawford/us-charities-and-nonprofits?select=eo2.csv)
 
 **State and country population**
-- state: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html 
-- County:https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
+- [State](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html)
+- [County](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html)
 
 ## Project Installations
 <i>You can use a windows or mac device for this application. </i>
@@ -151,3 +150,4 @@ N/A
 https://youtu.be/IsuhCAptNbg 
 
 ####
+
