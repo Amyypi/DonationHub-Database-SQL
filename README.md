@@ -1,5 +1,5 @@
 <h1>DonationHub</h1>
-Team: Anishika Patel, Amy Phan, and Parth Patel.
+Team: Anshika Patel, Amy Phan, and Parth Patel.
 
 ## Introduction:
 
