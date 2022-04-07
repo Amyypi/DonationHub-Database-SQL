@@ -1,3194 +1,3194 @@
-﻿p_id,county_FIPS,state_abbreviation,state_name,pov_estimate,pov_percentage
-1,1000,AL,Alabama,"802,263",16.9
-2,1001,AL,Autauga County,"7,390",13.4
-3,1003,AL,Baldwin County,"21,199",10.1
-4,1005,AL,Barbour County,"7,414",33.4
-5,1007,AL,Bibb County,"4,137",20.2
-6,1009,AL,Blount County,"7,343",12.8
-7,1011,AL,Bullock County,"2,956",34.4
-8,1013,AL,Butler County,"4,154",21.3
-9,1015,AL,Calhoun County,"19,832",17.7
-10,1017,AL,Chambers County,"6,036",18.2
-11,1019,AL,Cherokee County,"4,381",17.2
-12,1021,AL,Chilton County,"7,303",16.8
-13,1023,AL,Choctaw County,"3,031",23.7
-14,1025,AL,Clarke County,"5,541",23.3
-15,1027,AL,Clay County,"2,363",18.1
-16,1029,AL,Cleburne County,"2,365",16.1
-17,1031,AL,Coffee County,"7,954",15.5
-18,1033,AL,Colbert County,"8,324",15.4
-19,1035,AL,Conecuh County,"2,939",23.7
-20,1037,AL,Coosa County,"1,823",17.4
-21,1039,AL,Covington County,"6,447",17.7
-22,1041,AL,Crenshaw County,"2,722",19.9
-23,1043,AL,Cullman County,"11,256",13.8
-24,1045,AL,Dale County,"8,528",17.7
-25,1047,AL,Dallas County,"10,796",27.9
-26,1049,AL,DeKalb County,"13,785",19.5
-27,1051,AL,Elmore County,"9,151",12
-28,1053,AL,Escambia County,"7,971",23.3
-29,1055,AL,Etowah County,"18,257",18.1
-30,1057,AL,Fayette County,"3,146",19.4
-31,1059,AL,Franklin County,"6,394",20.5
-32,1061,AL,Geneva County,"5,659",21.7
-33,1063,AL,Greene County,"2,752",33.2
-34,1065,AL,Hale County,"3,654",25.1
-35,1067,AL,Henry County,"2,882",17
-36,1069,AL,Houston County,"17,095",16.6
-37,1071,AL,Jackson County,"8,539",16.6
-38,1073,AL,Jefferson County,"107,752",16.7
-39,1075,AL,Lamar County,"2,570",18.7
-40,1077,AL,Lauderdale County,"12,395",13.7
-41,1079,AL,Lawrence County,"5,494",16.8
-42,1081,AL,Lee County,"27,901",17.8
-43,1083,AL,Limestone County,"10,830",11.9
-44,1085,AL,Lowndes County,"2,585",25.9
-45,1087,AL,Macon County,"5,213",30.6
-46,1089,AL,Madison County,"44,979",12.8
-47,1091,AL,Marengo County,"4,356",22.8
-48,1093,AL,Marion County,"5,582",19.3
-49,1095,AL,Marshall County,"18,873",20.1
-50,1097,AL,Mobile County,"80,116",19.7
-51,1099,AL,Monroe County,"5,018",23.8
-52,1101,AL,Montgomery County,"46,315",21.3
-53,1103,AL,Morgan County,"17,301",14.8
-54,1105,AL,Perry County,"3,180",37.2
-55,1107,AL,Pickens County,"4,093",22.3
-56,1109,AL,Pike County,"8,611",27.7
-57,1111,AL,Randolph County,"3,771",17
-58,1113,AL,Russell County,"13,078",23.2
-59,1115,AL,St. Clair County,"11,644",13.5
-60,1117,AL,Shelby County,"15,585",7.4
-61,1119,AL,Sumter County,"4,238",35.9
-62,1121,AL,Talladega County,"14,062",18.3
-63,1123,AL,Tallapoosa County,"7,311",18.3
-64,1125,AL,Tuscaloosa County,"31,238",15.9
-65,1127,AL,Walker County,"10,975",17.4
-66,1129,AL,Washington County,"3,303",20.2
-67,1131,AL,Wilcox County,"3,392",32
-68,1133,AL,Winston County,"4,980",21.3
-69,2000,AK,Alaska,"79,428",11
-70,2013,AK,Aleutians East Borough,491,14.6
-71,2016,AK,Aleutians West Census Area,451,8.1
-72,2020,AK,Anchorage Borough,"27,663",9.6
-73,2050,AK,Bethel Census Area,"5,077",28.7
-74,2060,AK,Bristol Bay Borough,92,10.9
-75,2068,AK,Denali Borough,158,8
-76,2070,AK,Dillingham Census Area,"1,015",20.8
-77,2090,AK,Fairbanks North Star Borough,"7,051",7.4
-78,2100,AK,Haines Borough,288,11.4
-79,2105,AK,Hoonah-Angoon Census Area,376,17.6
-80,2110,AK,Juneau Borough,"2,596",8.3
-81,2122,AK,Kenai Peninsula Borough,"5,840",10.2
-82,2130,AK,Ketchikan Gateway Borough,"1,341",9.9
-83,2150,AK,Kodiak Island Borough,991,7.5
-84,2158,AK,Kusilvak Census Area,"3,050",37.5
-85,2164,AK,Lake and Peninsula Borough,253,15.7
-86,2170,AK,Matanuska-Susitna Borough,"11,768",11.3
-87,2180,AK,Nome Census Area,"2,248",23.2
-88,2185,AK,North Slope Borough,"1,182",12.2
-89,2188,AK,Northwest Arctic Borough,"1,974",26
-90,2195,AK,Petersburg Borough,240,7.4
-91,2198,AK,Prince of Wales-Hyder Census Area,"1,183",18.5
-92,2220,AK,Sitka Borough,694,8.1
-93,2230,AK,Skagway Municipality,50,4.3
-94,2240,AK,Southeast Fairbanks Census Area,872,12.8
-95,2261,AK,Valdez-Cordova Census Area,845,9.2
-96,2275,AK,Wrangell City and Borough,310,12.4
-97,2282,AK,Yakutat Borough,92,15.3
-98,2290,AK,Yukon-Koyukuk Census Area,"1,237",23.2
-99,4000,AZ,Arizona,"1,023,337",14.9
-100,4001,AZ,Apache County,"23,426",33.1
-101,4003,AZ,Cochise County,"19,219",16.1
-102,4005,AZ,Coconino County,"23,946",18.4
-103,4007,AZ,Gila County,"12,661",24.1
-104,4009,AZ,Graham County,"7,213",20.9
-105,4011,AZ,Greenlee County,948,10.1
-106,4012,AZ,La Paz County,"4,263",20.9
-107,4013,AZ,Maricopa County,"570,402",13.5
-108,4015,AZ,Mohave County,"34,891",17.3
-109,4017,AZ,Navajo County,"28,216",26.4
-110,4019,AZ,Pima County,"165,811",16.6
-111,4021,AZ,Pinal County,"52,566",13
-112,4023,AZ,Santa Cruz County,"10,858",23.6
-113,4025,AZ,Yavapai County,"31,166",13.9
-114,4027,AZ,Yuma County,"37,751",19
-115,5000,AR,Arkansas,"475,883",16.3
-116,5001,AR,Arkansas County,"3,515",19.9
-117,5003,AR,Ashley County,"3,980",19.8
-118,5005,AR,Baxter County,"5,650",13.9
-119,5007,AR,Benton County,"24,110",9.1
-120,5009,AR,Boone County,"5,495",14.9
-121,5011,AR,Bradley County,"2,237",20.9
-122,5013,AR,Calhoun County,772,15.2
-123,5015,AR,Carroll County,"4,523",16.4
-124,5017,AR,Chicot County,"2,974",30.1
-125,5019,AR,Clark County,"4,142",21.4
-126,5021,AR,Clay County,"2,673",18.1
-127,5023,AR,Cleburne County,"3,852",15.6
-128,5025,AR,Cleveland County,"1,167",14.3
-129,5027,AR,Columbia County,"5,512",25.5
-130,5029,AR,Conway County,"3,543",17.2
-131,5031,AR,Craighead County,"15,354",14.9
-132,5033,AR,Crawford County,"10,896",17.5
-133,5035,AR,Crittenden County,"10,070",21.1
-134,5037,AR,Cross County,"3,047",18.4
-135,5039,AR,Dallas County,"1,464",21
-136,5041,AR,Desha County,"3,388",29
-137,5043,AR,Drew County,"3,553",20.3
-138,5045,AR,Faulkner County,"15,941",13.4
-139,5047,AR,Franklin County,"3,165",18
-140,5049,AR,Fulton County,"2,442",20.6
-141,5051,AR,Garland County,"15,384",15.9
-142,5053,AR,Grant County,"2,185",12.2
-143,5055,AR,Greene County,"6,559",14.8
-144,5057,AR,Hempstead County,"5,208",24.2
-145,5059,AR,Hot Spring County,"5,225",16.8
-146,5061,AR,Howard County,"2,535",19.1
-147,5063,AR,Independence County,"5,799",15.9
-148,5065,AR,Izard County,"2,444",19.3
-149,5067,AR,Jackson County,"3,292",22.2
-150,5069,AR,Jefferson County,"14,957",23.5
-151,5071,AR,Johnson County,"4,758",18.4
-152,5073,AR,Lafayette County,"1,622",24.1
-153,5075,AR,Lawrence County,"2,682",16.9
-154,5077,AR,Lee County,"2,760",37.3
-155,5079,AR,Lincoln County,"2,302",23.4
-156,5081,AR,Little River County,"2,076",17
-157,5083,AR,Logan County,"4,340",20.5
-158,5085,AR,Lonoke County,"8,011",11.1
-159,5087,AR,Madison County,"2,755",17
-160,5089,AR,Marion County,"2,965",18.3
-161,5091,AR,Miller County,"8,005",18.8
-162,5093,AR,Mississippi County,"10,018",24.3
-163,5095,AR,Monroe County,"1,906",27.3
-164,5097,AR,Montgomery County,"1,856",21.1
-165,5099,AR,Nevada County,"1,594",19.5
-166,5101,AR,Newton County,"1,534",19.8
-167,5103,AR,Ouachita County,"4,665",19.9
-168,5105,AR,Perry County,"1,549",15.1
-169,5107,AR,Phillips County,"7,288",39.8
-170,5109,AR,Pike County,"1,940",18.5
-171,5111,AR,Poinsett County,"5,000",21
-172,5113,AR,Polk County,"4,645",23.3
-173,5115,AR,Pope County,"10,036",16.7
-174,5117,AR,Prairie County,"1,306",16.1
-175,5119,AR,Pulaski County,"57,780",15
-176,5121,AR,Randolph County,"3,331",19.4
-177,5123,AR,St. Francis County,"7,357",33.7
-178,5125,AR,Saline County,"9,335",7.9
-179,5127,AR,Scott County,"2,123",20.6
-180,5129,AR,Searcy County,"1,695",21.6
-181,5131,AR,Sebastian County,"23,469",18.6
-182,5133,AR,Sevier County,"3,286",19.5
-183,5135,AR,Sharp County,"4,098",23.9
-184,5137,AR,Stone County,"2,617",21.2
-185,5139,AR,Union County,"6,801",17.5
-186,5141,AR,Van Buren County,"3,214",19.8
-187,5143,AR,Washington County,"30,938",13.8
-188,5145,AR,White County,"11,477",15.2
-189,5147,AR,Woodruff County,"1,726",26.8
-190,5149,AR,Yell County,"3,969",18.8
-191,6000,CA,California,"5,164,169",13.3
-192,6001,CA,Alameda County,"152,087",9.3
-193,6003,CA,Alpine County,202,18.1
-194,6005,CA,Amador County,"3,762",10.9
-195,6007,CA,Butte County,"40,728",18.1
-196,6009,CA,Calaveras County,"5,904",13.1
-197,6011,CA,Colusa County,"2,633",12.2
-198,6013,CA,Contra Costa County,"103,883",9.1
-199,6015,CA,Del Norte County,"6,113",24.6
-200,6017,CA,El Dorado County,"15,620",8.3
-201,6019,CA,Fresno County,"205,046",21.1
-202,6021,CA,Glenn County,"4,111",14.8
-203,6023,CA,Humboldt County,"26,262",19.7
-204,6025,CA,Imperial County,"35,830",20.7
-205,6027,CA,Inyo County,"2,087",11.8
-206,6029,CA,Kern County,"182,948",21.2
-207,6031,CA,Kings County,"24,810",18.4
-208,6033,CA,Lake County,"12,817",20.2
-209,6035,CA,Lassen County,"3,790",16.3
-210,6037,CA,Los Angeles County,"1,490,853",14.9
-211,6039,CA,Madera County,"31,569",21.2
-212,6041,CA,Marin County,"20,222",7.9
-213,6043,CA,Mariposa County,"2,641",15.2
-214,6045,CA,Mendocino County,"14,156",16.3
-215,6047,CA,Merced County,"61,297",23
-216,6049,CA,Modoc County,"1,658",19.2
-217,6051,CA,Mono County,"1,313",9.3
-218,6053,CA,Monterey County,"49,860",11.9
-219,6055,CA,Napa County,"9,301",6.8
-220,6057,CA,Nevada County,"10,889",11
-221,6059,CA,Orange County,"362,109",11.5
-222,6061,CA,Placer County,"29,873",7.8
-223,6063,CA,Plumas County,"2,640",14.3
-224,6065,CA,Riverside County,"309,235",12.9
-225,6067,CA,Sacramento County,"213,232",14.1
-226,6069,CA,San Benito County,"5,029",8.4
-227,6071,CA,San Bernardino County,"339,748",16
-228,6073,CA,San Diego County,"385,479",11.9
-229,6075,CA,San Francisco County,"87,314",10.1
-230,6077,CA,San Joaquin County,"113,375",15.5
-231,6079,CA,San Luis Obispo County,"31,826",11.9
-232,6081,CA,San Mateo County,"48,795",6.4
-233,6083,CA,Santa Barbara County,"60,921",14.2
-234,6085,CA,Santa Clara County,"142,603",7.5
-235,6087,CA,Santa Cruz County,"33,262",12.6
-236,6089,CA,Shasta County,"30,155",17
-237,6091,CA,Sierra County,404,13.7
-238,6093,CA,Siskiyou County,"7,679",17.7
-239,6095,CA,Solano County,"43,352",10
-240,6097,CA,Sonoma County,"46,165",9.3
-241,6099,CA,Stanislaus County,"75,614",14
-242,6101,CA,Sutter County,"12,628",13.2
-243,6103,CA,Tehama County,"12,718",20.1
-244,6105,CA,Trinity County,"2,529",20.3
-245,6107,CA,Tulare County,"110,299",24
-246,6109,CA,Tuolumne County,"6,205",12.2
-247,6111,CA,Ventura County,"80,217",9.5
-248,6113,CA,Yolo County,"36,761",17.5
-249,6115,CA,Yuba County,"11,609",15.3
-250,8000,CO,Colorado,"566,118",10.3
-251,8001,CO,Adams County,"52,536",10.6
-252,8003,CO,Alamosa County,"3,251",21.3
-253,8005,CO,Arapahoe County,"49,795",7.8
-254,8007,CO,Archuleta County,"1,549",11.7
-255,8009,CO,Baca County,684,19.7
-256,8011,CO,Bent County,"1,285",32
-257,8013,CO,Boulder County,"39,084",12.6
-258,8014,CO,Broomfield County,"3,092",4.6
-259,8015,CO,Chaffee County,"2,073",11.4
-260,8017,CO,Cheyenne County,244,13.6
-261,8019,CO,Clear Creek County,735,7.8
-262,8021,CO,Conejos County,"1,727",21.2
-263,8023,CO,Costilla County,"1,028",27.3
-264,8025,CO,Crowley County,"1,400",47.4
-265,8027,CO,Custer County,621,13.2
-266,8029,CO,Delta County,"4,982",16.7
-267,8031,CO,Denver County,"86,353",12.5
-268,8033,CO,Dolores County,263,12.8
-269,8035,CO,Douglas County,"10,574",3.2
-270,8037,CO,Eagle County,"4,079",7.5
-271,8039,CO,Elbert County,"1,257",4.9
-272,8041,CO,El Paso County,"73,008",10.8
-273,8043,CO,Fremont County,"6,467",16.6
-274,8045,CO,Garfield County,"4,429",7.6
-275,8047,CO,Gilpin County,413,6.9
-276,8049,CO,Grand County,"1,332",8.7
-277,8051,CO,Gunnison County,"2,349",14.8
-278,8053,CO,Hinsdale County,67,8.6
-279,8055,CO,Huerfano County,"1,352",20.8
-280,8057,CO,Jackson County,189,13.7
-281,8059,CO,Jefferson County,"42,729",7.6
-282,8061,CO,Kiowa County,190,14
-283,8063,CO,Kit Carson County,823,11.6
-284,8065,CO,Lake County,933,12.2
-285,8067,CO,La Plata County,"4,961",9.2
-286,8069,CO,Larimer County,"36,954",11
-287,8071,CO,Las Animas County,"3,180",23.7
-288,8073,CO,Lincoln County,806,17.6
-289,8075,CO,Logan County,"2,932",15.8
-290,8077,CO,Mesa County,"21,957",14.9
-291,8079,CO,Mineral County,65,8.5
-292,8081,CO,Moffat County,"1,428",11
-293,8083,CO,Montezuma County,"3,944",15.2
-294,8085,CO,Montrose County,"5,312",12.9
-295,8087,CO,Morgan County,"3,127",11.4
-296,8089,CO,Otero County,"4,197",23.5
-297,8091,CO,Ouray County,368,7.7
-298,8093,CO,Park County,"1,526",8.6
-299,8095,CO,Phillips County,460,10.9
-300,8097,CO,Pitkin County,"1,048",5.9
-301,8099,CO,Prowers County,"2,128",18.2
-302,8101,CO,Pueblo County,"29,408",18.2
-303,8103,CO,Rio Blanco County,579,9.5
-304,8105,CO,Rio Grande County,"2,041",18.4
-305,8107,CO,Routt County,"1,709",6.9
-306,8109,CO,Saguache County,"1,608",24.4
-307,8111,CO,San Juan County,97,13.6
-308,8113,CO,San Miguel County,614,7.7
-309,8115,CO,Sedgwick County,358,15.5
-310,8117,CO,Summit County,"2,209",7.3
-311,8119,CO,Teller County,"2,151",8.8
-312,8121,CO,Washington County,613,12.9
-313,8123,CO,Weld County,"28,171",9.4
-314,8125,CO,Yuma County,"1,276",13
-315,9000,CT,Connecticut,"338,651",9.7
-316,9001,CT,Fairfield County,"82,428",8.8
-317,9003,CT,Hartford County,"96,200",11
-318,9005,CT,Litchfield County,"12,481",6.9
-319,9007,CT,Middlesex County,"10,796",6.8
-320,9009,CT,New Haven County,"91,639",11
-321,9011,CT,New London County,"22,246",8.6
-322,9013,CT,Tolland County,"10,043",7.4
-323,9015,CT,Windham County,"12,818",11.5
-324,10000,DE,Delaware,"121,592",13
-325,10001,DE,Kent County,"22,671",13.2
-326,10003,DE,New Castle County,"72,551",13.4
-327,10005,DE,Sussex County,"26,370",11.9
-328,11000,DC,District of Columbia,"109,502",16.6
-329,11001,DC,District of Columbia,"109,502",16.6
-330,12000,FL,Florida,"2,901,876",14.1
-331,12001,FL,Alachua County,"53,816",21.2
-332,12003,FL,Baker County,"3,900",15.3
-333,12005,FL,Bay County,"26,663",14.9
-334,12007,FL,Bradford County,"4,533",19.1
-335,12009,FL,Brevard County,"72,303",12.4
-336,12011,FL,Broward County,"252,288",13.1
-337,12013,FL,Calhoun County,"2,650",21.1
-338,12015,FL,Charlotte County,"19,300",10.8
-339,12017,FL,Citrus County,"20,654",14.4
-340,12019,FL,Clay County,"20,889",9.9
-341,12021,FL,Collier County,"43,075",11.7
-342,12023,FL,Columbia County,"10,720",16.5
-343,12027,FL,DeSoto County,"8,766",26.1
-344,12029,FL,Dixie County,"3,627",24.4
-345,12031,FL,Duval County,"138,069",15.1
-346,12033,FL,Escambia County,"48,602",16.4
-347,12035,FL,Flagler County,"13,137",12
-348,12037,FL,Franklin County,"2,141",21.3
-349,12039,FL,Gadsden County,"9,994",23.1
-350,12041,FL,Gilchrist County,"2,675",16.1
-351,12043,FL,Glades County,"2,312",18.9
-352,12045,FL,Gulf County,"2,810",21.6
-353,12047,FL,Hamilton County,"2,791",24
-354,12049,FL,Hardee County,"6,026",23.3
-355,12051,FL,Hendry County,"9,525",23.9
-356,12053,FL,Hernando County,"25,773",14
-357,12055,FL,Highlands County,"20,051",19.8
-358,12057,FL,Hillsborough County,"214,442",15.5
-359,12059,FL,Holmes County,"3,756",21.2
-360,12061,FL,Indian River County,"16,249",10.6
-361,12063,FL,Jackson County,"7,264",18
-362,12065,FL,Jefferson County,"2,276",17.7
-363,12067,FL,Lafayette County,"1,579",22.7
-364,12069,FL,Lake County,"43,020",12.6
-365,12071,FL,Lee County,"85,844",11.8
-366,12073,FL,Leon County,"50,010",18
-367,12075,FL,Levy County,"8,329",20.8
-368,12077,FL,Liberty County,"1,449",23
-369,12079,FL,Madison County,"4,633",28.3
-370,12081,FL,Manatee County,"41,057",10.8
-371,12083,FL,Marion County,"55,880",16.2
-372,12085,FL,Martin County,"17,002",10.9
-373,12086,FL,Miami-Dade County,"452,649",16.7
-374,12087,FL,Monroe County,"8,963",11.8
-375,12089,FL,Nassau County,"7,484",9.1
-376,12091,FL,Okaloosa County,"21,667",10.9
-377,12093,FL,Okeechobee County,"8,415",21.8
-378,12095,FL,Orange County,"201,528",15.3
-379,12097,FL,Osceola County,"48,892",14
-380,12099,FL,Palm Beach County,"170,868",11.8
-381,12101,FL,Pasco County,"67,635",13
-382,12103,FL,Pinellas County,"115,990",12.2
-383,12105,FL,Polk County,"107,844",16.1
-384,12107,FL,Putnam County,"18,954",26.3
-385,12109,FL,St. Johns County,"20,118",8.3
-386,12111,FL,St. Lucie County,"39,839",12.8
-387,12113,FL,Santa Rosa County,"17,183",10.2
-388,12115,FL,Sarasota County,"38,065",9.2
-389,12117,FL,Seminole County,"51,321",11.2
-390,12119,FL,Sumter County,"10,672",9.1
-391,12121,FL,Suwannee County,"8,299",20.3
-392,12123,FL,Taylor County,"4,556",23.8
-393,12125,FL,Union County,"2,291",22.2
-394,12127,FL,Volusia County,"79,877",15.2
-395,12129,FL,Wakulla County,"3,746",12.9
-396,12131,FL,Walton County,"10,493",15.9
-397,12133,FL,Washington County,"4,646",21.1
-398,13000,GA,Georgia,"1,536,069",15.1
-399,13001,GA,Appling County,"4,003",22.2
-400,13003,GA,Atkinson County,"2,006",24.2
-401,13005,GA,Bacon County,"3,089",28.2
-402,13007,GA,Baker County,783,24.6
-403,13009,GA,Baldwin County,"9,944",25.2
-404,13011,GA,Banks County,"2,511",13.5
-405,13013,GA,Barrow County,"9,401",12
-406,13015,GA,Bartow County,"13,667",13.2
-407,13017,GA,Ben Hill County,"4,082",24.5
-408,13019,GA,Berrien County,"3,515",18.6
-409,13021,GA,Bibb County,"36,728",25
-410,13023,GA,Bleckley County,"2,334",20.3
-411,13025,GA,Brantley County,"3,520",19
-412,13027,GA,Brooks County,"3,665",23.7
-413,13029,GA,Bryan County,"3,828",10.4
-414,13031,GA,Bulloch County,"17,369",24.6
-415,13033,GA,Burke County,"5,121",23.1
-416,13035,GA,Butts County,"3,889",18.3
-417,13037,GA,Calhoun County,"1,662",35.1
-418,13039,GA,Camden County,"6,375",12.5
-419,13043,GA,Candler County,"2,590",24.7
-420,13045,GA,Carroll County,"19,466",17.2
-421,13047,GA,Catoosa County,"7,905",12
-422,13049,GA,Charlton County,"2,670",25.6
-423,13051,GA,Chatham County,"45,057",16.3
-424,13053,GA,Chattahoochee County,"1,525",19.6
-425,13055,GA,Chattooga County,"4,732",20.2
-426,13057,GA,Cherokee County,"18,338",7.5
-427,13059,GA,Clarke County,"31,067",26.6
-428,13061,GA,Clay County,960,33.1
-429,13063,GA,Clayton County,"45,572",16.3
-430,13065,GA,Clinch County,"1,827",27.6
-431,13067,GA,Cobb County,"71,120",9.5
-432,13069,GA,Coffee County,"9,921",24.9
-433,13071,GA,Colquitt County,"11,508",25.6
-434,13073,GA,Columbia County,"9,942",6.6
-435,13075,GA,Cook County,"3,637",21.3
-436,13077,GA,Coweta County,"14,806",10.4
-437,13079,GA,Crawford County,"2,138",17.6
-438,13081,GA,Crisp County,"6,605",29.7
-439,13083,GA,Dade County,"2,328",15.2
-440,13085,GA,Dawson County,"2,258",9.4
-441,13087,GA,Decatur County,"5,607",21.9
-442,13089,GA,DeKalb County,"112,844",15.3
-443,13091,GA,Dodge County,"4,141",21.8
-444,13093,GA,Dooly County,"3,283",27.6
-445,13095,GA,Dougherty County,"24,373",28.2
-446,13097,GA,Douglas County,"16,770",11.8
-447,13099,GA,Early County,"2,707",26.7
-448,13101,GA,Echols County,"1,038",26.5
-449,13103,GA,Effingham County,"5,772",9.8
-450,13105,GA,Elbert County,"4,312",22.9
-451,13107,GA,Emanuel County,"5,890",27.6
-452,13109,GA,Evans County,"2,899",28
-453,13111,GA,Fannin County,"3,409",13.6
-454,13113,GA,Fayette County,"6,424",5.7
-455,13115,GA,Floyd County,"17,913",19.2
-456,13117,GA,Forsyth County,"11,978",5.3
-457,13119,GA,Franklin County,"4,127",18.7
-458,13121,GA,Fulton County,"149,652",14.8
-459,13123,GA,Gilmer County,"4,376",14.4
-460,13125,GA,Glascock County,515,17.3
-461,13127,GA,Glynn County,"14,304",17
-462,13129,GA,Gordon County,"7,877",14
-463,13131,GA,Grady County,"4,986",20.3
-464,13133,GA,Greene County,"2,904",17
-465,13135,GA,Gwinnett County,"97,757",10.7
-466,13137,GA,Habersham County,"5,585",13.3
-467,13139,GA,Hall County,"25,982",13.3
-468,13141,GA,Hancock County,"2,190",30.3
-469,13143,GA,Haralson County,"4,393",15.3
-470,13145,GA,Harris County,"2,774",8.3
-471,13147,GA,Hart County,"4,725",18.9
-472,13149,GA,Heard County,"2,187",18.9
-473,13151,GA,Henry County,"22,065",9.8
-474,13153,GA,Houston County,"19,675",13
-475,13155,GA,Irwin County,"1,836",22
-476,13157,GA,Jackson County,"7,670",11.5
-477,13159,GA,Jasper County,"2,426",17.6
-478,13161,GA,Jeff Davis County,"3,147",21.2
-479,13163,GA,Jefferson County,"3,643",24
-480,13165,GA,Jenkins County,"2,474",32.8
-481,13167,GA,Johnson County,"2,333",29
-482,13169,GA,Jones County,"3,641",12.9
-483,13171,GA,Lamar County,"2,881",16.5
-484,13173,GA,Lanier County,"2,085",20.5
-485,13175,GA,Laurens County,"10,457",22.6
-486,13177,GA,Lee County,"3,121",10.9
-487,13179,GA,Liberty County,"9,989",16.8
-488,13181,GA,Lincoln County,"1,409",18.1
-489,13183,GA,Long County,"3,550",19.1
-490,13185,GA,Lowndes County,"27,533",25.3
-491,13187,GA,Lumpkin County,"4,156",13.9
-492,13189,GA,McDuffie County,"4,489",21.2
-493,13191,GA,McIntosh County,"2,734",19.5
-494,13193,GA,Macon County,"3,371",29.6
-495,13195,GA,Madison County,"4,602",15.9
-496,13197,GA,Marion County,"1,999",23.9
-497,13199,GA,Meriwether County,"4,139",19.9
-498,13201,GA,Miller County,"1,356",23.8
-499,13205,GA,Mitchell County,"5,488",27.5
-500,13207,GA,Monroe County,"3,446",13.3
-501,13209,GA,Montgomery County,"1,707",20.5
-502,13211,GA,Morgan County,"2,196",12
-503,13213,GA,Murray County,"6,765",17.2
-504,13215,GA,Muscogee County,"42,476",22.6
-505,13217,GA,Newton County,"14,236",13.4
-506,13219,GA,Oconee County,"2,477",6.5
-507,13221,GA,Oglethorpe County,"1,965",13.4
-508,13223,GA,Paulding County,"13,225",8.3
-509,13225,GA,Peach County,"5,091",19.6
-510,13227,GA,Pickens County,"3,364",10.8
-511,13229,GA,Pierce County,"3,711",19.4
-512,13231,GA,Pike County,"1,920",10.7
-513,13233,GA,Polk County,"7,828",19
-514,13235,GA,Pulaski County,"2,244",22.5
-515,13237,GA,Putnam County,"3,698",17.2
-516,13239,GA,Quitman County,613,26.1
-517,13241,GA,Rabun County,"2,899",17.8
-518,13243,GA,Randolph County,"2,232",33.6
-519,13245,GA,Richmond County,"45,089",23.7
-520,13247,GA,Rockdale County,"12,585",14.1
-521,13249,GA,Schley County,938,18
-522,13251,GA,Screven County,"2,765",20.5
-523,13253,GA,Seminole County,"2,385",29.2
-524,13255,GA,Spalding County,"12,754",19.9
-525,13257,GA,Stephens County,"4,713",18.7
-526,13259,GA,Stewart County,"1,601",36.2
-527,13261,GA,Sumter County,"7,169",25.5
-528,13263,GA,Talbot County,"1,382",22.2
-529,13265,GA,Taliaferro County,430,26.5
-530,13267,GA,Tattnall County,"5,677",27.3
-531,13269,GA,Taylor County,"1,904",23.7
-532,13271,GA,Telfair County,"4,366",34.6
-533,13273,GA,Terrell County,"2,789",33
-534,13275,GA,Thomas County,"7,862",17.9
-535,13277,GA,Tift County,"8,468",21.7
-536,13279,GA,Toombs County,"5,934",22.3
-537,13281,GA,Towns County,"1,439",13.8
-538,13283,GA,Treutlen County,"1,760",27.4
-539,13285,GA,Troup County,"14,566",21.6
-540,13287,GA,Turner County,"2,104",27.6
-541,13289,GA,Twiggs County,"1,794",22.2
-542,13291,GA,Union County,"3,550",15.4
-543,13293,GA,Upson County,"5,262",20.5
-544,13295,GA,Walker County,"10,520",15.6
-545,13297,GA,Walton County,"11,157",12.3
-546,13299,GA,Ware County,"7,354",22
-547,13301,GA,Warren County,"1,457",27.9
-548,13303,GA,Washington County,"4,966",26.7
-549,13305,GA,Wayne County,"5,627",20.2
-550,13307,GA,Webster County,520,20
-551,13309,GA,Wheeler County,"2,010",37.4
-552,13311,GA,White County,"3,826",13.3
-553,13313,GA,Whitfield County,"17,059",16.5
-554,13315,GA,Wilcox County,"2,097",30.7
-555,13317,GA,Wilkes County,"2,216",22.8
-556,13319,GA,Wilkinson County,"2,074",23.5
-557,13321,GA,Worth County,"4,383",21.6
-558,15000,HI,Hawaii,"132,201",9.5
-559,15001,HI,Hawaii County,"29,604",15
-560,15003,HI,Honolulu County,"79,084",8.3
-561,15005,HI,Kalawao County,.,.
-562,15007,HI,Kauai County,"7,172",10.1
-563,15009,HI,Maui County,"16,342",10
-564,16000,ID,Idaho,"211,937",12.6
-565,16001,ID,Ada County,"47,955",10.8
-566,16003,ID,Adams County,597,14.5
-567,16005,ID,Bannock County,"11,846",14.2
-568,16007,ID,Bear Lake County,698,11.7
-569,16009,ID,Benewah County,"1,297",14.3
-570,16011,ID,Bingham County,"5,670",12.5
-571,16013,ID,Blaine County,"1,860",8.5
-572,16015,ID,Boise County,875,12.1
-573,16017,ID,Bonner County,"5,920",13.7
-574,16019,ID,Bonneville County,"11,982",10.5
-575,16021,ID,Boundary County,"1,834",15.5
-576,16023,ID,Butte County,437,16.9
-577,16025,ID,Camas County,101,9.2
-578,16027,ID,Canyon County,"33,022",15.5
-579,16029,ID,Caribou County,630,9.1
-580,16031,ID,Cassia County,"2,954",12.7
-581,16033,ID,Clark County,127,14.5
-582,16035,ID,Clearwater County,"1,242",15.7
-583,16037,ID,Custer County,609,14.7
-584,16039,ID,Elmore County,"3,384",12.9
-585,16041,ID,Franklin County,"1,103",8.2
-586,16043,ID,Fremont County,"1,661",13.2
-587,16045,ID,Gem County,"2,315",13.5
-588,16047,ID,Gooding County,"2,247",14.9
-589,16049,ID,Idaho County,"2,400",15.1
-590,16051,ID,Jefferson County,"2,603",9.2
-591,16053,ID,Jerome County,"3,222",13.7
-592,16055,ID,Kootenai County,"16,542",10.6
-593,16057,ID,Latah County,"6,030",16.5
-594,16059,ID,Lemhi County,"1,257",16.1
-595,16061,ID,Lewis County,557,14.4
-596,16063,ID,Lincoln County,675,12.8
-597,16065,ID,Madison County,"7,360",19.1
-598,16067,ID,Minidoka County,"2,917",14.1
-599,16069,ID,Nez Perce County,"4,727",12
-600,16071,ID,Oneida County,483,11.1
-601,16073,ID,Owyhee County,"1,821",15.9
-602,16075,ID,Payette County,"2,992",13
-603,16077,ID,Power County,"1,099",14.6
-604,16079,ID,Shoshone County,"2,143",17.4
-605,16081,ID,Teton County,939,8.3
-606,16083,ID,Twin Falls County,"11,332",13.5
-607,16085,ID,Valley County,901,8.5
-608,16087,ID,Washington County,"1,571",15.7
-609,17000,IL,Illinois,"1,568,670",12.5
-610,17001,IL,Adams County,"8,608",13.5
-611,17003,IL,Alexander County,"1,889",30.3
-612,17005,IL,Bond County,"1,993",13.3
-613,17007,IL,Boone County,"4,676",8.8
-614,17009,IL,Brown County,685,14.9
-615,17011,IL,Bureau County,"3,506",10.7
-616,17013,IL,Calhoun County,499,10.5
-617,17015,IL,Carroll County,"1,647",11.5
-618,17017,IL,Cass County,"1,635",13.3
-619,17019,IL,Champaign County,"37,106",19.2
-620,17021,IL,Christian County,"4,270",13.6
-621,17023,IL,Clark County,"1,697",11
-622,17025,IL,Clay County,"1,721",13.2
-623,17027,IL,Clinton County,"2,910",8.2
-624,17029,IL,Coles County,"9,377",19.5
-625,17031,IL,Cook County,"746,194",14.6
-626,17033,IL,Crawford County,"2,404",13.8
-627,17035,IL,Cumberland County,"1,102",10.3
-628,17037,IL,DeKalb County,"13,876",14.1
-629,17039,IL,De Witt County,"1,823",11.7
-630,17041,IL,Douglas County,"1,907",9.8
-631,17043,IL,DuPage County,"56,794",6.2
-632,17045,IL,Edgar County,"2,344",13.8
-633,17047,IL,Edwards County,697,10.9
-634,17049,IL,Effingham County,"3,256",9.7
-635,17051,IL,Fayette County,"3,604",18.2
-636,17053,IL,Ford County,"1,482",11.6
-637,17055,IL,Franklin County,"7,468",19.5
-638,17057,IL,Fulton County,"4,890",15.2
-639,17059,IL,Gallatin County,955,18.9
-640,17061,IL,Greene County,"1,895",14.8
-641,17063,IL,Grundy County,"3,543",7.1
-642,17065,IL,Hamilton County,"1,046",12.9
-643,17067,IL,Hancock County,"2,079",11.7
-644,17069,IL,Hardin County,850,21.6
-645,17071,IL,Henderson County,753,11.2
-646,17073,IL,Henry County,"5,318",11
-647,17075,IL,Iroquois County,"3,538",12.9
-648,17077,IL,Jackson County,"15,952",29.2
-649,17079,IL,Jasper County,"1,128",11.9
-650,17081,IL,Jefferson County,"6,247",17.4
-651,17083,IL,Jersey County,"2,164",10.3
-652,17085,IL,Jo Daviess County,"1,980",9.3
-653,17087,IL,Johnson County,"1,660",15
-654,17089,IL,Kane County,"48,756",9.2
-655,17091,IL,Kankakee County,"15,750",15
-656,17093,IL,Kendall County,"5,993",4.8
-657,17095,IL,Knox County,"7,485",16.1
-658,17097,IL,Lake County,"52,630",7.7
-659,17099,IL,La Salle County,"15,216",14.3
-660,17101,IL,Lawrence County,"2,341",17.3
-661,17103,IL,Lee County,"3,589",11.4
-662,17105,IL,Livingston County,"4,330",12.8
-663,17107,IL,Logan County,"3,032",12.2
-664,17109,IL,McDonough County,"5,008",18.6
-665,17111,IL,McHenry County,"18,686",6.1
-666,17113,IL,McLean County,"25,273",15.6
-667,17115,IL,Macon County,"14,566",14.3
-668,17117,IL,Macoupin County,"6,152",13.8
-669,17119,IL,Madison County,"37,768",14.4
-670,17121,IL,Marion County,"5,952",16.1
-671,17123,IL,Marshall County,"1,109",9.7
-672,17125,IL,Mason County,"1,842",13.7
-673,17127,IL,Massac County,"2,159",15.3
-674,17129,IL,Menard County,"1,054",8.7
-675,17131,IL,Mercer County,"1,636",10.6
-676,17133,IL,Monroe County,"1,644",4.9
-677,17135,IL,Montgomery County,"4,075",15.5
-678,17137,IL,Morgan County,"4,197",13.5
-679,17139,IL,Moultrie County,"1,288",9
-680,17141,IL,Ogle County,"4,866",9.7
-681,17143,IL,Peoria County,"27,364",15.4
-682,17145,IL,Perry County,"2,932",15.6
-683,17147,IL,Piatt County,"1,025",6.3
-684,17149,IL,Pike County,"2,403",15.9
-685,17151,IL,Pope County,760,18.4
-686,17153,IL,Pulaski County,"1,260",22.9
-687,17155,IL,Putnam County,455,8
-688,17157,IL,Randolph County,"4,402",15.8
-689,17159,IL,Richland County,"2,385",15.4
-690,17161,IL,Rock Island County,"18,069",12.9
-691,17163,IL,St. Clair County,"41,174",16
-692,17165,IL,Saline County,"4,332",18.6
-693,17167,IL,Sangamon County,"29,676",15.4
-694,17169,IL,Schuyler County,817,11.8
-695,17171,IL,Scott County,602,12.2
-696,17173,IL,Shelby County,"2,214",10.3
-697,17175,IL,Stark County,593,11.1
-698,17177,IL,Stephenson County,"7,389",16.7
-699,17179,IL,Tazewell County,"11,896",9.1
-700,17181,IL,Union County,"3,183",19
-701,17183,IL,Vermilion County,"14,553",19.4
-702,17185,IL,Wabash County,"1,572",13.8
-703,17187,IL,Warren County,"1,881",11.7
-704,17189,IL,Washington County,"1,111",8.1
-705,17191,IL,Wayne County,"2,300",14
-706,17193,IL,White County,"2,072",15.3
-707,17195,IL,Whiteside County,"7,110",12.9
-708,17197,IL,Will County,"47,639",7
-709,17199,IL,Williamson County,"9,993",15.3
-710,17201,IL,Winnebago County,"39,766",14.2
-711,17203,IL,Woodford County,"2,179",5.8
-712,18000,IN,Indiana,"860,753",13.3
-713,18001,IN,Adams County,"5,397",15.4
-714,18003,IN,Allen County,"47,818",13.1
-715,18005,IN,Bartholomew County,"8,555",10.6
-716,18007,IN,Benton County,952,11.2
-717,18009,IN,Blackford County,"1,679",14.3
-718,18011,IN,Boone County,"3,707",5.7
-719,18013,IN,Brown County,"1,614",10.9
-720,18015,IN,Carroll County,"1,910",9.6
-721,18017,IN,Cass County,"5,129",13.8
-722,18019,IN,Clark County,"12,285",10.6
-723,18021,IN,Clay County,"2,891",11.2
-724,18023,IN,Clinton County,"4,185",13.4
-725,18025,IN,Crawford County,"1,697",16.2
-726,18027,IN,Daviess County,"4,340",13.4
-727,18029,IN,Dearborn County,"4,752",9.7
-728,18031,IN,Decatur County,"2,905",11.1
-729,18033,IN,De Kalb County,"4,365",10.4
-730,18035,IN,Delaware County,"22,020",20.6
-731,18037,IN,Dubois County,"3,445",8.3
-732,18039,IN,Elkhart County,"21,670",10.8
-733,18041,IN,Fayette County,"3,517",15.5
-734,18043,IN,Floyd County,"7,971",10.5
-735,18045,IN,Fountain County,"2,091",12.9
-736,18047,IN,Franklin County,"2,111",9.4
-737,18049,IN,Fulton County,"2,399",12.2
-738,18051,IN,Gibson County,"3,399",10.4
-739,18053,IN,Grant County,"11,312",18.4
-740,18055,IN,Greene County,"3,696",11.6
-741,18057,IN,Hamilton County,"12,284",3.8
-742,18059,IN,Hancock County,"4,075",5.5
-743,18061,IN,Harrison County,"3,699",9.4
-744,18063,IN,Hendricks County,"8,120",5.1
-745,18065,IN,Henry County,"5,739",12.8
-746,18067,IN,Howard County,"11,727",14.5
-747,18069,IN,Huntington County,"3,570",10.2
-748,18071,IN,Jackson County,"5,467",12.7
-749,18073,IN,Jasper County,"3,244",10
-750,18075,IN,Jay County,"2,942",14.3
-751,18077,IN,Jefferson County,"4,108",13.7
-752,18079,IN,Jennings County,"3,469",12.8
-753,18081,IN,Johnson County,"13,267",8.8
-754,18083,IN,Knox County,"6,587",18.9
-755,18085,IN,Kosciusko County,"8,000",10.4
-756,18087,IN,Lagrange County,"3,025",7.8
-757,18089,IN,Lake County,"76,220",15.9
-758,18091,IN,La Porte County,"15,005",14.5
-759,18093,IN,Lawrence County,"5,979",13.3
-760,18095,IN,Madison County,"21,478",17.4
-761,18097,IN,Marion County,"163,573",17.6
-762,18099,IN,Marshall County,"5,290",11.6
-763,18101,IN,Martin County,"1,251",12.5
-764,18103,IN,Miami County,"4,538",14
-765,18105,IN,Monroe County,"28,462",21.6
-766,18107,IN,Montgomery County,"4,510",12.1
-767,18109,IN,Morgan County,"6,799",9.9
-768,18111,IN,Newton County,"1,515",10.9
-769,18113,IN,Noble County,"4,560",9.8
-770,18115,IN,Ohio County,533,9.3
-771,18117,IN,Orange County,"2,750",14.4
-772,18119,IN,Owen County,"3,021",14.7
-773,18121,IN,Parke County,"2,194",14.3
-774,18123,IN,Perry County,"2,130",12.1
-775,18125,IN,Pike County,"1,257",10.4
-776,18127,IN,Porter County,"17,078",10.4
-777,18129,IN,Posey County,"2,290",9.1
-778,18131,IN,Pulaski County,"1,538",12.5
-779,18133,IN,Putnam County,"3,921",12
-780,18135,IN,Randolph County,"3,739",15.3
-781,18137,IN,Ripley County,"3,053",10.9
-782,18139,IN,Rush County,"1,965",12
-783,18141,IN,St. Joseph County,"41,378",16
-784,18143,IN,Scott County,"3,814",16.3
-785,18145,IN,Shelby County,"3,666",8.4
-786,18147,IN,Spencer County,"2,086",10.4
-787,18149,IN,Starke County,"3,900",17.1
-788,18151,IN,Steuben County,"3,634",11
-789,18153,IN,Sullivan County,"2,710",14.6
-790,18155,IN,Switzerland County,"1,714",16.3
-791,18157,IN,Tippecanoe County,"31,692",18
-792,18159,IN,Tipton County,"1,331",8.9
-793,18161,IN,Union County,758,10.7
-794,18163,IN,Vanderburgh County,"30,495",17.5
-795,18165,IN,Vermillion County,"2,026",13.3
-796,18167,IN,Vigo County,"18,964",19.4
-797,18169,IN,Wabash County,"3,913",13.3
-798,18171,IN,Warren County,807,10
-799,18173,IN,Warrick County,"4,180",6.8
-800,18175,IN,Washington County,"3,707",13.5
-801,18177,IN,Wayne County,"10,521",16.6
-802,18179,IN,Wells County,"2,348",8.6
-803,18181,IN,White County,"2,501",10.5
-804,18183,IN,Whitley County,"2,822",8.5
-805,19000,IA,Iowa,"328,629",10.8
-806,19001,IA,Adair County,705,10.2
-807,19003,IA,Adams County,451,12.3
-808,19005,IA,Allamakee County,"1,495",11
-809,19007,IA,Appanoose County,"2,060",16.9
-810,19009,IA,Audubon County,584,10.7
-811,19011,IA,Benton County,"1,977",7.8
-812,19013,IA,Black Hawk County,"19,469",15.3
-813,19015,IA,Boone County,"1,883",7.3
-814,19017,IA,Bremer County,"1,661",7.1
-815,19019,IA,Buchanan County,"1,880",9
-816,19021,IA,Buena Vista County,"2,458",12.8
-817,19023,IA,Butler County,"1,296",9
-818,19025,IA,Calhoun County,"1,120",12.4
-819,19027,IA,Carroll County,"1,822",9.1
-820,19029,IA,Cass County,"1,550",12.1
-821,19031,IA,Cedar County,"1,267",6.9
-822,19033,IA,Cerro Gordo County,"4,507",10.8
-823,19035,IA,Cherokee County,"1,048",9.6
-824,19037,IA,Chickasaw County,"1,130",9.5
-825,19039,IA,Clarke County,"1,012",11
-826,19041,IA,Clay County,"1,470",9.3
-827,19043,IA,Clayton County,"1,671",9.6
-828,19045,IA,Clinton County,"6,207",13.4
-829,19047,IA,Crawford County,"1,974",11.8
-830,19049,IA,Dallas County,"3,834",4.4
-831,19051,IA,Davis County,"1,072",12.1
-832,19053,IA,Decatur County,"1,233",17.1
-833,19055,IA,Delaware County,"1,571",9.3
-834,19057,IA,Des Moines County,"5,218",13.5
-835,19059,IA,Dickinson County,"1,268",7.5
-836,19061,IA,Dubuque County,"9,131",9.8
-837,19063,IA,Emmet County,922,10.3
-838,19065,IA,Fayette County,"2,540",13.4
-839,19067,IA,Floyd County,"1,827",11.8
-840,19069,IA,Franklin County,"1,108",11.1
-841,19071,IA,Fremont County,833,12.2
-842,19073,IA,Greene County,922,10.4
-843,19075,IA,Grundy County,716,5.9
-844,19077,IA,Guthrie County,995,9.5
-845,19079,IA,Hamilton County,"1,289",8.7
-846,19081,IA,Hancock County,891,8.4
-847,19083,IA,Hardin County,"1,856",11.4
-848,19085,IA,Harrison County,"1,390",10
-849,19087,IA,Henry County,"2,125",11.6
-850,19089,IA,Howard County,910,10.1
-851,19091,IA,Humboldt County,888,9.4
-852,19093,IA,Ida County,614,9.1
-853,19095,IA,Iowa County,"1,139",7.2
-854,19097,IA,Jackson County,"2,229",11.7
-855,19099,IA,Jasper County,"3,163",9
-856,19101,IA,Jefferson County,"2,358",14
-857,19103,IA,Johnson County,"21,574",15.3
-858,19105,IA,Jones County,"1,834",9.5
-859,19107,IA,Keokuk County,"1,154",11.5
-860,19109,IA,Kossuth County,"1,363",9.2
-861,19111,IA,Lee County,"4,621",14.1
-862,19113,IA,Linn County,"19,688",9
-863,19115,IA,Louisa County,"1,095",9.9
-864,19117,IA,Lucas County,"1,148",13.6
-865,19119,IA,Lyon County,877,7.6
-866,19121,IA,Madison County,"1,174",7.4
-867,19123,IA,Mahaska County,"2,809",13
-868,19125,IA,Marion County,"2,514",7.9
-869,19127,IA,Marshall County,"4,927",12.7
-870,19129,IA,Mills County,"1,349",9.2
-871,19131,IA,Mitchell County,948,9.1
-872,19133,IA,Monona County,988,11.6
-873,19135,IA,Monroe County,839,10.9
-874,19137,IA,Montgomery County,"1,239",12.5
-875,19139,IA,Muscatine County,"4,522",10.7
-876,19141,IA,O'Brien County,"1,040",7.7
-877,19143,IA,Osceola County,597,10.1
-878,19145,IA,Page County,"1,987",14.5
-879,19147,IA,Palo Alto County,916,10.4
-880,19149,IA,Plymouth County,"1,796",7.2
-881,19151,IA,Pocahontas County,862,12.9
-882,19153,IA,Polk County,"45,028",9.5
-883,19155,IA,Pottawattamie County,"9,661",10.6
-884,19157,IA,Poweshiek County,"1,916",11.5
-885,19159,IA,Ringgold County,714,14.7
-886,19161,IA,Sac County,968,10.1
-887,19163,IA,Scott County,"19,061",11.3
-888,19165,IA,Shelby County,954,8.4
-889,19167,IA,Sioux County,"2,301",7.1
-890,19169,IA,Story County,"14,508",16.9
-891,19171,IA,Tama County,"1,594",9.5
-892,19173,IA,Taylor County,707,11.6
-893,19175,IA,Union County,"1,759",14.6
-894,19177,IA,Van Buren County,"1,000",14
-895,19179,IA,Wapello County,"4,919",14.5
-896,19181,IA,Warren County,"2,950",6.1
-897,19183,IA,Washington County,"2,070",9.5
-898,19185,IA,Wayne County,"1,060",16.6
-899,19187,IA,Webster County,"5,071",15
-900,19189,IA,Winnebago County,949,9.4
-901,19191,IA,Winneshiek County,"1,621",9
-902,19193,IA,Woodbury County,"13,330",13.4
-903,19195,IA,Worth County,628,8.5
-904,19197,IA,Wright County,"1,259",10
-905,20000,KS,Kansas,"335,371",11.9
-906,20001,KS,Allen County,"2,020",16.7
-907,20003,KS,Anderson County,"1,027",13.3
-908,20005,KS,Atchison County,"2,158",14.3
-909,20007,KS,Barber County,554,12.2
-910,20009,KS,Barton County,"4,027",15.6
-911,20011,KS,Bourbon County,"2,609",18.3
-912,20013,KS,Brown County,"1,431",15
-913,20015,KS,Butler County,"6,515",10.1
-914,20017,KS,Chase County,282,11.2
-915,20019,KS,Chautauqua County,550,16.8
-916,20021,KS,Cherokee County,"3,129",15.8
-917,20023,KS,Cheyenne County,334,12.8
-918,20025,KS,Clark County,232,12
-919,20027,KS,Clay County,825,10.6
-920,20029,KS,Cloud County,"1,074",12.6
-921,20031,KS,Coffey County,824,10.2
-922,20033,KS,Comanche County,191,11.2
-923,20035,KS,Cowley County,"5,867",17.6
-924,20037,KS,Crawford County,"7,021",18.9
-925,20039,KS,Decatur County,404,14.5
-926,20041,KS,Dickinson County,"1,829",9.9
-927,20043,KS,Doniphan County,"1,075",14.8
-928,20045,KS,Douglas County,"17,779",15.9
-929,20047,KS,Edwards County,318,11.2
-930,20049,KS,Elk County,387,15.8
-931,20051,KS,Ellis County,"4,199",15.2
-932,20053,KS,Ellsworth County,613,11.5
-933,20055,KS,Finney County,"4,794",13.2
-934,20057,KS,Ford County,"4,273",12.7
-935,20059,KS,Franklin County,"2,645",10.5
-936,20061,KS,Geary County,"3,931",12
-937,20063,KS,Gove County,252,9.8
-938,20065,KS,Graham County,316,12.8
-939,20067,KS,Grant County,912,12.3
-940,20069,KS,Gray County,447,7.6
-941,20071,KS,Greeley County,132,10.8
-942,20073,KS,Greenwood County,921,15.3
-943,20075,KS,Hamilton County,343,13
-944,20077,KS,Harper County,787,14.5
-945,20079,KS,Harvey County,"3,021",9.1
-946,20081,KS,Haskell County,404,10.1
-947,20083,KS,Hodgeman County,196,10.8
-948,20085,KS,Jackson County,"1,440",11
-949,20087,KS,Jefferson County,"1,584",8.5
-950,20089,KS,Jewell County,361,12.8
-951,20091,KS,Johnson County,"30,974",5.3
-952,20093,KS,Kearny County,405,10.5
-953,20095,KS,Kingman County,863,12.1
-954,20097,KS,Kiowa County,271,11.6
-955,20099,KS,Labette County,"3,027",15.3
-956,20101,KS,Lane County,158,10.2
-957,20103,KS,Leavenworth County,"5,490",7.4
-958,20105,KS,Lincoln County,351,11.8
-959,20107,KS,Linn County,"1,355",14.1
-960,20109,KS,Logan County,269,9.7
-961,20111,KS,Lyon County,"5,055",15.9
-962,20113,KS,McPherson County,"2,341",8.5
-963,20115,KS,Marion County,"1,225",10.9
-964,20117,KS,Marshall County,"1,032",10.8
-965,20119,KS,Meade County,412,9.9
-966,20121,KS,Miami County,"2,403",7.3
-967,20123,KS,Mitchell County,700,12
-968,20125,KS,Montgomery County,"5,266",16.8
-969,20127,KS,Morris County,601,11.2
-970,20129,KS,Morton County,289,10.9
-971,20131,KS,Nemaha County,810,8.2
-972,20133,KS,Neosho County,"2,389",15.5
-973,20135,KS,Ness County,309,11.1
-974,20137,KS,Norton County,566,12.3
-975,20139,KS,Osage County,"1,812",11.7
-976,20141,KS,Osborne County,437,12.5
-977,20143,KS,Ottawa County,652,11.4
-978,20145,KS,Pawnee County,737,13
-979,20147,KS,Phillips County,612,11.6
-980,20149,KS,Pottawatomie County,"2,312",9.8
-981,20151,KS,Pratt County,"1,026",11.2
-982,20153,KS,Rawlins County,291,11.9
-983,20155,KS,Reno County,"7,927",13.4
-984,20157,KS,Republic County,535,11.7
-985,20159,KS,Rice County,"1,104",12.3
-986,20161,KS,Riley County,"13,072",20.4
-987,20163,KS,Rooks County,539,10.9
-988,20165,KS,Rush County,367,12.1
-989,20167,KS,Russell County,968,14.2
-990,20169,KS,Saline County,"6,313",11.8
-991,20171,KS,Scott County,369,7.6
-992,20173,KS,Sedgwick County,"72,015",14.2
-993,20175,KS,Seward County,"3,217",14.9
-994,20177,KS,Shawnee County,"20,386",11.7
-995,20179,KS,Sheridan County,286,11.5
-996,20181,KS,Sherman County,764,13.2
-997,20183,KS,Smith County,458,12.8
-998,20185,KS,Stafford County,542,13.2
-999,20187,KS,Stanton County,205,10.2
-1000,20189,KS,Stevens County,569,10.3
-1001,20191,KS,Sumner County,"2,687",11.8
-1002,20193,KS,Thomas County,853,11.5
-1003,20195,KS,Trego County,326,11.6
-1004,20197,KS,Wabaunsee County,515,7.6
-1005,20199,KS,Wallace County,168,11.2
-1006,20201,KS,Washington County,536,10
-1007,20203,KS,Wichita County,242,11.6
-1008,20205,KS,Wilson County,"1,303",15.3
-1009,20207,KS,Woodson County,481,15.6
-1010,20209,KS,Wyandotte County,"30,151",18.4
-1011,21000,KY,Kentucky,"738,563",17.1
-1012,21001,KY,Adair County,"4,044",22.5
-1013,21003,KY,Allen County,"4,508",21.8
-1014,21005,KY,Anderson County,"2,329",10.4
-1015,21007,KY,Ballard County,"1,257",16
-1016,21009,KY,Barren County,"9,477",22.1
-1017,21011,KY,Bath County,"2,812",23
-1018,21013,KY,Bell County,"9,494",36.7
-1019,21015,KY,Boone County,"9,250",7.1
-1020,21017,KY,Bourbon County,"3,295",16.7
-1021,21019,KY,Boyd County,"9,179",20.1
-1022,21021,KY,Boyle County,"4,130",15.5
-1023,21023,KY,Bracken County,"1,273",15.6
-1024,21025,KY,Breathitt County,"4,592",36.2
-1025,21027,KY,Breckinridge County,"3,537",17.9
-1026,21029,KY,Bullitt County,"7,345",9.2
-1027,21031,KY,Butler County,"2,152",17.1
-1028,21033,KY,Caldwell County,"1,988",16
-1029,21035,KY,Calloway County,"5,914",16.6
-1030,21037,KY,Campbell County,"9,700",10.9
-1031,21039,KY,Carlisle County,721,15.1
-1032,21041,KY,Carroll County,"2,155",20.8
-1033,21043,KY,Carter County,"7,430",28.2
-1034,21045,KY,Casey County,"3,818",25.1
-1035,21047,KY,Christian County,"12,545",19.3
-1036,21049,KY,Clark County,"5,009",14.1
-1037,21051,KY,Clay County,"7,754",41.7
-1038,21053,KY,Clinton County,"2,673",26.4
-1039,21055,KY,Crittenden County,"1,602",18.1
-1040,21057,KY,Cumberland County,"1,503",22.8
-1041,21059,KY,Daviess County,"15,714",16.1
-1042,21061,KY,Edmonson County,"2,036",16.9
-1043,21063,KY,Elliott County,"1,917",29.7
-1044,21065,KY,Estill County,"3,498",24.8
-1045,21067,KY,Fayette County,"50,981",16.5
-1046,21069,KY,Fleming County,"2,499",17.4
-1047,21071,KY,Floyd County,"11,536",32.2
-1048,21073,KY,Franklin County,"6,663",13.7
-1049,21075,KY,Fulton County,"1,663",29
-1050,21077,KY,Gallatin County,"1,282",14.7
-1051,21079,KY,Garrard County,"2,943",17
-1052,21081,KY,Grant County,"3,391",13.9
-1053,21083,KY,Graves County,"6,396",17.5
-1054,21085,KY,Grayson County,"5,724",22.5
-1055,21087,KY,Green County,"2,021",18.5
-1056,21089,KY,Greenup County,"5,609",16
-1057,21091,KY,Hancock County,"1,065",12.2
-1058,21093,KY,Hardin County,"13,394",12.8
-1059,21095,KY,Harlan County,"10,875",41.5
-1060,21097,KY,Harrison County,"2,834",15.3
-1061,21099,KY,Hart County,"3,683",20
-1062,21101,KY,Henderson County,"7,288",16.2
-1063,21103,KY,Henry County,"2,418",15.3
-1064,21105,KY,Hickman County,821,19.1
-1065,21107,KY,Hopkins County,"8,521",19.3
-1066,21109,KY,Jackson County,"4,160",31.4
-1067,21111,KY,Jefferson County,"105,999",14.1
-1068,21113,KY,Jessamine County,"7,559",14.7
-1069,21115,KY,Johnson County,"5,144",23.3
-1070,21117,KY,Kenton County,"19,618",12
-1071,21119,KY,Knott County,"5,033",34.6
-1072,21121,KY,Knox County,"9,789",32.2
-1073,21123,KY,Larue County,"2,093",15.1
-1074,21125,KY,Laurel County,"14,386",24.3
-1075,21127,KY,Lawrence County,"5,101",32.8
-1076,21129,KY,Lee County,"2,147",33.7
-1077,21131,KY,Leslie County,"3,123",31
-1078,21133,KY,Letcher County,"6,798",30.8
-1079,21135,KY,Lewis County,"3,358",25.6
-1080,21137,KY,Lincoln County,"5,065",21
-1081,21139,KY,Livingston County,"1,406",15.4
-1082,21141,KY,Logan County,"4,780",17.9
-1083,21143,KY,Lyon County,"1,008",14.3
-1084,21145,KY,McCracken County,"9,743",15.2
-1085,21147,KY,McCreary County,"5,404",34.4
-1086,21149,KY,McLean County,"1,491",16.4
-1087,21151,KY,Madison County,"14,330",17
-1088,21153,KY,Magoffin County,"3,974",32.1
-1089,21155,KY,Marion County,"2,793",14.8
-1090,21157,KY,Marshall County,"3,739",12.1
-1091,21159,KY,Martin County,"3,591",35.8
-1092,21161,KY,Mason County,"3,019",18
-1093,21163,KY,Meade County,"3,127",11.2
-1094,21165,KY,Menifee County,"1,609",25.4
-1095,21167,KY,Mercer County,"2,850",13.4
-1096,21169,KY,Metcalfe County,"2,335",23.4
-1097,21171,KY,Monroe County,"2,542",24.3
-1098,21173,KY,Montgomery County,"4,845",17.7
-1099,21175,KY,Morgan County,"3,418",30.1
-1100,21177,KY,Muhlenberg County,"5,632",19.4
-1101,21179,KY,Nelson County,"4,413",9.8
-1102,21181,KY,Nicholas County,"1,318",18.8
-1103,21183,KY,Ohio County,"4,180",17.6
-1104,21185,KY,Oldham County,"3,106",5.1
-1105,21187,KY,Owen County,"1,683",15.7
-1106,21189,KY,Owsley County,"1,594",36.8
-1107,21191,KY,Pendleton County,"2,099",14.6
-1108,21193,KY,Perry County,"6,706",25.9
-1109,21195,KY,Pike County,"16,502",28.8
-1110,21197,KY,Powell County,"2,973",24.6
-1111,21199,KY,Pulaski County,"15,049",23.7
-1112,21201,KY,Robertson County,438,21.1
-1113,21203,KY,Rockcastle County,"3,484",21.3
-1114,21205,KY,Rowan County,"5,043",23.7
-1115,21207,KY,Russell County,"4,087",23.3
-1116,21209,KY,Scott County,"5,552",10.4
-1117,21211,KY,Shelby County,"4,955",10.8
-1118,21213,KY,Simpson County,"2,550",14.4
-1119,21215,KY,Spencer County,"1,370",7.5
-1120,21217,KY,Taylor County,"4,365",18.2
-1121,21219,KY,Todd County,"2,162",18
-1122,21221,KY,Trigg County,"2,011",14
-1123,21223,KY,Trimble County,"1,144",13.5
-1124,21225,KY,Union County,"2,581",17.8
-1125,21227,KY,Warren County,"19,562",16.1
-1126,21229,KY,Washington County,"1,792",15.2
-1127,21231,KY,Wayne County,"5,055",24.9
-1128,21233,KY,Webster County,"1,852",14.7
-1129,21235,KY,Whitley County,"9,131",26.5
-1130,21237,KY,Wolfe County,"2,129",29.9
-1131,21239,KY,Woodford County,"2,415",9.3
-1132,22000,LA,Louisiana,"893,827",19.6
-1133,22001,LA,Acadia Parish,"14,206",23.1
-1134,22003,LA,Allen Parish,"4,444",20.8
-1135,22005,LA,Ascension Parish,"15,316",12.6
-1136,22007,LA,Assumption Parish,"4,212",18.9
-1137,22009,LA,Avoyelles Parish,"9,243",24.6
-1138,22011,LA,Beauregard Parish,"5,170",14.6
-1139,22013,LA,Bienville Parish,"3,369",25.4
-1140,22015,LA,Bossier Parish,"20,997",16.8
-1141,22017,LA,Caddo Parish,"62,114",25.8
-1142,22019,LA,Calcasieu Parish,"28,177",14.2
-1143,22021,LA,Caldwell Parish,"2,190",23.4
-1144,22023,LA,Cameron Parish,909,13.2
-1145,22025,LA,Catahoula Parish,"2,504",27.8
-1146,22027,LA,Claiborne Parish,"5,145",39.5
-1147,22029,LA,Concordia Parish,"5,086",27.7
-1148,22031,LA,De Soto Parish,"6,162",22.8
-1149,22033,LA,East Baton Rouge Parish,"82,191",18.9
-1150,22035,LA,East Carroll Parish,"2,820",46.7
-1151,22037,LA,East Feliciana Parish,"3,501",20.6
-1152,22039,LA,Evangeline Parish,"7,609",23.6
-1153,22041,LA,Franklin Parish,"5,464",27.9
-1154,22043,LA,Grant Parish,"4,067",21
-1155,22045,LA,Iberia Parish,"16,887",23.8
-1156,22047,LA,Iberville Parish,"6,689",22.9
-1157,22049,LA,Jackson Parish,"3,635",24.6
-1158,22051,LA,Jefferson Parish,"74,274",17.1
-1159,22053,LA,Jefferson Davis Parish,"5,952",19.3
-1160,22055,LA,Lafayette Parish,"41,306",17.4
-1161,22057,LA,Lafourche Parish,"15,279",15.8
-1162,22059,LA,La Salle Parish,"2,519",18.4
-1163,22061,LA,Lincoln Parish,"11,963",27.9
-1164,22063,LA,Livingston Parish,"15,669",11.4
-1165,22065,LA,Madison Parish,"3,788",38.9
-1166,22067,LA,Morehouse Parish,"6,937",28
-1167,22069,LA,Natchitoches Parish,"11,137",30.3
-1168,22071,LA,Orleans Parish,"99,613",26.1
-1169,22073,LA,Ouachita Parish,"37,173",24.7
-1170,22075,LA,Plaquemines Parish,"3,741",16.2
-1171,22077,LA,Pointe Coupee Parish,"4,167",18.8
-1172,22079,LA,Rapides Parish,"25,427",19.9
-1173,22081,LA,Red River Parish,"1,944",23.3
-1174,22083,LA,Richland Parish,"5,407",27.8
-1175,22085,LA,Sabine Parish,"5,219",22.2
-1176,22087,LA,St. Bernard Parish,"9,166",20
-1177,22089,LA,St. Charles Parish,"5,953",11.4
-1178,22091,LA,St. Helena Parish,"2,373",23.2
-1179,22093,LA,St. James Parish,"3,532",16.7
-1180,22095,LA,St. John the Baptist Parish,"7,777",18.1
-1181,22097,LA,St. Landry Parish,"21,032",25.6
-1182,22099,LA,St. Martin Parish,"10,246",19.2
-1183,22101,LA,St. Mary Parish,"10,249",20.5
-1184,22103,LA,St. Tammany Parish,"28,338",11.1
-1185,22105,LA,Tangipahoa Parish,"26,919",20.9
-1186,22107,LA,Tensas Parish,"1,603",34.9
-1187,22109,LA,Terrebonne Parish,"21,712",19.7
-1188,22111,LA,Union Parish,"3,623",16.4
-1189,22113,LA,Vermilion Parish,"10,118",17
-1190,22115,LA,Vernon Parish,"8,662",18.3
-1191,22117,LA,Washington Parish,"10,371",23.1
-1192,22119,LA,Webster Parish,"7,727",20.3
-1193,22121,LA,West Baton Rouge Parish,"3,471",13.5
-1194,22123,LA,West Carroll Parish,"2,234",21.2
-1195,22125,LA,West Feliciana Parish,"2,113",21
-1196,22127,LA,Winn Parish,"2,982",23.7
-1197,23000,ME,Maine,"147,413",11.3
-1198,23001,ME,Androscoggin County,"12,975",12.4
-1199,23003,ME,Aroostook County,"9,499",14.4
-1200,23005,ME,Cumberland County,"22,900",8.1
-1201,23007,ME,Franklin County,"3,950",13.7
-1202,23009,ME,Hancock County,"5,914",11
-1203,23011,ME,Kennebec County,"14,707",12.4
-1204,23013,ME,Knox County,"4,099",10.7
-1205,23015,ME,Lincoln County,"3,827",11.4
-1206,23017,ME,Oxford County,"7,636",13.5
-1207,23019,ME,Penobscot County,"20,627",14.3
-1208,23021,ME,Piscataquis County,"2,562",15.5
-1209,23023,ME,Sagadahoc County,"3,416",9.7
-1210,23025,ME,Somerset County,"7,941",15.9
-1211,23027,ME,Waldo County,"5,111",13.1
-1212,23029,ME,Washington County,"6,473",21.1
-1213,23031,ME,York County,"15,776",7.8
-1214,24000,MD,Maryland,"556,549",9.4
-1215,24001,MD,Allegany County,"10,883",17
-1216,24003,MD,Anne Arundel County,"34,314",6.1
-1217,24005,MD,Baltimore County,"67,176",8.3
-1218,24009,MD,Calvert County,"5,415",6
-1219,24011,MD,Caroline County,"4,499",13.8
-1220,24013,MD,Carroll County,"8,298",5
-1221,24015,MD,Cecil County,"9,862",9.7
-1222,24017,MD,Charles County,"11,823",7.5
-1223,24019,MD,Dorchester County,"4,962",15.7
-1224,24021,MD,Frederick County,"16,626",6.7
-1225,24023,MD,Garrett County,"3,377",11.8
-1226,24025,MD,Harford County,"17,620",7.1
-1227,24027,MD,Howard County,"18,895",5.9
-1228,24029,MD,Kent County,"2,312",12.8
-1229,24031,MD,Montgomery County,"73,280",7
-1230,24033,MD,Prince George's County,"76,564",8.6
-1231,24035,MD,Queen Anne's County,"3,799",7.7
-1232,24037,MD,St. Mary's County,"9,386",8.5
-1233,24039,MD,Somerset County,"5,083",24.7
-1234,24041,MD,Talbot County,"3,347",9.1
-1235,24043,MD,Washington County,"19,017",13.3
-1236,24045,MD,Wicomico County,"14,696",15
-1237,24047,MD,Worcester County,"5,050",9.9
-1238,24510,MD,Baltimore city,"130,267",22.1
-1239,25000,MA,Massachusetts,"692,943",10.5
-1240,25001,MA,Barnstable County,"15,846",7.6
-1241,25003,MA,Berkshire County,"12,744",10.6
-1242,25005,MA,Bristol County,"60,780",11.1
-1243,25007,MA,Dukes County,"1,299",7.6
-1244,25009,MA,Essex County,"78,610",10.2
-1245,25011,MA,Franklin County,"7,218",10.4
-1246,25013,MA,Hampden County,"77,905",17.1
-1247,25015,MA,Hampshire County,"14,206",10.2
-1248,25017,MA,Middlesex County,"124,404",8
-1249,25019,MA,Nantucket County,637,5.7
-1250,25021,MA,Norfolk County,"45,495",6.7
-1251,25023,MA,Plymouth County,"36,645",7.3
-1252,25025,MA,Suffolk County,"134,360",17.9
-1253,25027,MA,Worcester County,"82,794",10.4
-1254,26000,MI,Michigan,"1,373,358",14.1
-1255,26001,MI,Alcona County,"1,488",14.6
-1256,26003,MI,Alger County,"1,057",13
-1257,26005,MI,Allegan County,"10,969",9.5
-1258,26007,MI,Alpena County,"3,865",13.8
-1259,26009,MI,Antrim County,"2,564",11.1
-1260,26011,MI,Arenac County,"2,326",15.7
-1261,26013,MI,Baraga County,"1,237",16.7
-1262,26015,MI,Barry County,"5,253",8.8
-1263,26017,MI,Bay County,"14,920",14.5
-1264,26019,MI,Benzie County,"1,627",9.4
-1265,26021,MI,Berrien County,"26,055",17.3
-1266,26023,MI,Branch County,"5,219",12.6
-1267,26025,MI,Calhoun County,"24,904",19.1
-1268,26027,MI,Cass County,"6,065",12
-1269,26029,MI,Charlevoix County,"2,598",10.1
-1270,26031,MI,Cheboygan County,"3,557",14.3
-1271,26033,MI,Chippewa County,"5,570",17
-1272,26035,MI,Clare County,"6,721",22.3
-1273,26037,MI,Clinton County,"5,718",7.4
-1274,26039,MI,Crawford County,"2,267",16.6
-1275,26041,MI,Delta County,"4,436",12.6
-1276,26043,MI,Dickinson County,"3,022",12.1
-1277,26045,MI,Eaton County,"9,278",8.7
-1278,26047,MI,Emmet County,"2,766",8.5
-1279,26049,MI,Genesee County,"73,568",18.3
-1280,26051,MI,Gladwin County,"4,136",16.6
-1281,26053,MI,Gogebic County,"2,588",18.7
-1282,26055,MI,Grand Traverse County,"8,468",9.3
-1283,26057,MI,Gratiot County,"6,919",19.5
-1284,26059,MI,Hillsdale County,"6,222",14
-1285,26061,MI,Houghton County,"4,961",14.9
-1286,26063,MI,Huron County,"4,122",13.4
-1287,26065,MI,Ingham County,"53,746",19.8
-1288,26067,MI,Ionia County,"6,823",11.6
-1289,26069,MI,Iosco County,"4,194",17
-1290,26071,MI,Iron County,"1,458",13.5
-1291,26073,MI,Isabella County,"15,385",23.8
-1292,26075,MI,Jackson County,"19,950",13.3
-1293,26077,MI,Kalamazoo County,"35,561",14
-1294,26079,MI,Kalkaska County,"2,984",17.1
-1295,26081,MI,Kent County,"66,316",10.4
-1296,26083,MI,Keweenaw County,255,12.2
-1297,26085,MI,Lake County,"2,515",22.1
-1298,26087,MI,Lapeer County,"7,531",8.7
-1299,26089,MI,Leelanau County,"1,512",7.1
-1300,26091,MI,Lenawee County,"9,679",10.4
-1301,26093,MI,Livingston County,"9,991",5.3
-1302,26095,MI,Luce County,982,19
-1303,26097,MI,Mackinac County,"1,511",14.3
-1304,26099,MI,Macomb County,"96,264",11.2
-1305,26101,MI,Manistee County,"3,110",13.5
-1306,26103,MI,Marquette County,"10,446",16.7
-1307,26105,MI,Mason County,"3,798",13.3
-1308,26107,MI,Mecosta County,"8,107",20.3
-1309,26109,MI,Menominee County,"2,683",11.8
-1310,26111,MI,Midland County,"8,792",10.7
-1311,26113,MI,Missaukee County,"2,100",14.2
-1312,26115,MI,Monroe County,"17,416",11.7
-1313,26117,MI,Montcalm County,"9,013",14.9
-1314,26119,MI,Montmorency County,"1,280",14.1
-1315,26121,MI,Muskegon County,"25,478",15.2
-1316,26123,MI,Newaygo County,"6,848",14.4
-1317,26125,MI,Oakland County,"95,968",7.8
-1318,26127,MI,Oceana County,"3,816",14.6
-1319,26129,MI,Ogemaw County,"3,334",16.2
-1320,26131,MI,Ontonagon County,905,15.6
-1321,26133,MI,Osceola County,"3,367",14.7
-1322,26135,MI,Oscoda County,"1,482",18
-1323,26137,MI,Otsego County,"2,891",12
-1324,26139,MI,Ottawa County,"22,831",8.2
-1325,26141,MI,Presque Isle County,"1,944",15.4
-1326,26143,MI,Roscommon County,"4,419",18.8
-1327,26145,MI,Saginaw County,"32,447",17.5
-1328,26147,MI,St. Clair County,"19,533",12.4
-1329,26149,MI,St. Joseph County,"7,807",13
-1330,26151,MI,Sanilac County,"5,900",14.5
-1331,26153,MI,Schoolcraft County,"1,151",14.6
-1332,26155,MI,Shiawassee County,"7,467",11.1
-1333,26157,MI,Tuscola County,"7,375",14.2
-1334,26159,MI,Van Buren County,"9,501",12.8
-1335,26161,MI,Washtenaw County,"44,394",12.9
-1336,26163,MI,Wayne County,"392,205",22.6
-1337,26165,MI,Wexford County,"4,425",13.5
-1338,27000,MN,Minnesota,"517,348",9.5
-1339,27001,MN,Aitkin County,"1,880",12.1
-1340,27003,MN,Anoka County,"18,795",5.4
-1341,27005,MN,Becker County,"3,909",11.7
-1342,27007,MN,Beltrami County,"8,329",18.8
-1343,27009,MN,Benton County,"3,820",9.7
-1344,27011,MN,Big Stone County,602,12.3
-1345,27013,MN,Blue Earth County,"10,319",16.3
-1346,27015,MN,Brown County,"1,927",8
-1347,27017,MN,Carlton County,"3,158",9.3
-1348,27019,MN,Carver County,"4,046",4
-1349,27021,MN,Cass County,"4,397",15.1
-1350,27023,MN,Chippewa County,"1,241",10.5
-1351,27025,MN,Chisago County,"3,305",6.1
-1352,27027,MN,Clay County,"7,264",12
-1353,27029,MN,Clearwater County,"1,298",14.8
-1354,27031,MN,Cook County,471,8.8
-1355,27033,MN,Cottonwood County,"1,256",11.3
-1356,27035,MN,Crow Wing County,"6,220",9.8
-1357,27037,MN,Dakota County,"24,329",5.8
-1358,27039,MN,Dodge County,"1,202",5.8
-1359,27041,MN,Douglas County,"2,707",7.3
-1360,27043,MN,Faribault County,"1,618",12.1
-1361,27045,MN,Fillmore County,"2,113",10.3
-1362,27047,MN,Freeborn County,"3,526",11.8
-1363,27049,MN,Goodhue County,"3,650",8
-1364,27051,MN,Grant County,534,9.2
-1365,27053,MN,Hennepin County,"129,217",10.5
-1366,27055,MN,Houston County,"1,398",7.6
-1367,27057,MN,Hubbard County,"2,387",11.5
-1368,27059,MN,Isanti County,"3,089",7.9
-1369,27061,MN,Itasca County,"4,955",11.2
-1370,27063,MN,Jackson County,839,8.6
-1371,27065,MN,Kanabec County,"1,485",9.4
-1372,27067,MN,Kandiyohi County,"4,431",10.6
-1373,27069,MN,Kittson County,389,9.4
-1374,27071,MN,Koochiching County,"1,559",12.7
-1375,27073,MN,Lac qui Parle County,641,9.8
-1376,27075,MN,Lake County,869,8.4
-1377,27077,MN,Lake of the Woods County,358,9.7
-1378,27079,MN,Le Sueur County,"2,145",7.7
-1379,27081,MN,Lincoln County,578,10.4
-1380,27083,MN,Lyon County,"3,027",12.2
-1381,27085,MN,McLeod County,"2,733",7.7
-1382,27087,MN,Mahnomen County,"1,152",21
-1383,27089,MN,Marshall County,873,9.4
-1384,27091,MN,Martin County,"2,174",11.1
-1385,27093,MN,Meeker County,"2,070",9.1
-1386,27095,MN,Mille Lacs County,"2,782",11
-1387,27097,MN,Morrison County,"3,413",10.5
-1388,27099,MN,Mower County,"4,142",10.6
-1389,27101,MN,Murray County,672,8.2
-1390,27103,MN,Nicollet County,"2,778",8.8
-1391,27105,MN,Nobles County,"2,768",12.8
-1392,27107,MN,Norman County,818,12.7
-1393,27109,MN,Olmsted County,"12,737",8.3
-1394,27111,MN,Otter Tail County,"5,895",10.3
-1395,27113,MN,Pennington County,"1,423",10.3
-1396,27115,MN,Pine County,"3,355",12.2
-1397,27117,MN,Pipestone County,856,9.7
-1398,27119,MN,Polk County,"3,536",11.6
-1399,27121,MN,Pope County,867,8
-1400,27123,MN,Ramsey County,"74,390",14
-1401,27125,MN,Red Lake County,412,10.3
-1402,27127,MN,Redwood County,"1,492",10
-1403,27129,MN,Renville County,"1,488",10.4
-1404,27131,MN,Rice County,"6,499",11.1
-1405,27133,MN,Rock County,859,9.3
-1406,27135,MN,Roseau County,"1,250",8.3
-1407,27137,MN,St. Louis County,"27,827",14.5
-1408,27139,MN,Scott County,"5,759",4
-1409,27141,MN,Sherburne County,"3,931",4.3
-1410,27143,MN,Sibley County,"1,128",7.7
-1411,27145,MN,Stearns County,"16,561",11
-1412,27147,MN,Steele County,"3,392",9.3
-1413,27149,MN,Stevens County,893,10.3
-1414,27151,MN,Swift County,"1,063",11.5
-1415,27153,MN,Todd County,"3,221",13.3
-1416,27155,MN,Traverse County,416,13
-1417,27157,MN,Wabasha County,"1,496",7
-1418,27159,MN,Wadena County,"2,079",15.7
-1419,27161,MN,Waseca County,"1,834",10.3
-1420,27163,MN,Washington County,"10,617",4.2
-1421,27165,MN,Watonwan County,"1,193",11.2
-1422,27167,MN,Wilkin County,575,9.3
-1423,27169,MN,Winona County,"6,485",13.8
-1424,27171,MN,Wright County,"7,204",5.4
-1425,27173,MN,Yellow Medicine County,957,9.9
-1426,28000,MS,Mississippi,"573,717",19.9
-1427,28001,MS,Adams County,"9,288",32.5
-1428,28003,MS,Alcorn County,"6,936",19.1
-1429,28005,MS,Amite County,"2,866",23.3
-1430,28007,MS,Attala County,"4,378",24.1
-1431,28009,MS,Benton County,"1,792",21.8
-1432,28011,MS,Bolivar County,"9,765",32.4
-1433,28013,MS,Calhoun County,"3,107",21.8
-1434,28015,MS,Carroll County,"1,715",17.6
-1435,28017,MS,Chickasaw County,"3,031",18.2
-1436,28019,MS,Choctaw County,"1,807",22.1
-1437,28021,MS,Claiborne County,"3,335",42.6
-1438,28023,MS,Clarke County,"3,276",20.8
-1439,28025,MS,Clay County,"4,895",25.4
-1440,28027,MS,Coahoma County,"7,860",34.8
-1441,28029,MS,Copiah County,"6,249",22.5
-1442,28031,MS,Covington County,"4,328",23
-1443,28033,MS,DeSoto County,"15,440",8.7
-1444,28035,MS,Forrest County,"16,401",22.7
-1445,28037,MS,Franklin County,"1,583",20.6
-1446,28039,MS,George County,"3,760",16
-1447,28041,MS,Greene County,"2,368",21.7
-1448,28043,MS,Grenada County,"4,246",20.4
-1449,28045,MS,Hancock County,"7,921",17
-1450,28047,MS,Harrison County,"39,266",19.7
-1451,28049,MS,Hinds County,"46,575",20.2
-1452,28051,MS,Holmes County,"6,855",40.8
-1453,28053,MS,Humphreys County,"3,166",38.4
-1454,28055,MS,Issaquena County,401,38.1
-1455,28057,MS,Itawamba County,"3,253",14.5
-1456,28059,MS,Jackson County,"20,359",14.5
-1457,28061,MS,Jasper County,"3,934",23.8
-1458,28063,MS,Jefferson County,"2,337",34.1
-1459,28065,MS,Jefferson Davis County,"3,208",28.7
-1460,28067,MS,Jones County,"14,122",21.3
-1461,28069,MS,Kemper County,"2,664",29.8
-1462,28071,MS,Lafayette County,"10,190",21.1
-1463,28073,MS,Lamar County,"9,431",15.5
-1464,28075,MS,Lauderdale County,"14,922",20.5
-1465,28077,MS,Lawrence County,"2,490",19.7
-1466,28079,MS,Leake County,"4,573",21.7
-1467,28081,MS,Lee County,"11,739",14
-1468,28083,MS,Leflore County,"11,770",42.2
-1469,28085,MS,Lincoln County,"6,136",18.2
-1470,28087,MS,Lowndes County,"12,805",22.2
-1471,28089,MS,Madison County,"11,031",10.7
-1472,28091,MS,Marion County,"6,013",24.7
-1473,28093,MS,Marshall County,"7,666",22.8
-1474,28095,MS,Monroe County,"6,434",18.2
-1475,28097,MS,Montgomery County,"2,335",23.2
-1476,28099,MS,Neshoba County,"6,478",22.4
-1477,28101,MS,Newton County,"4,204",20.4
-1478,28103,MS,Noxubee County,"3,645",34.5
-1479,28105,MS,Oktibbeha County,"11,489",25.5
-1480,28107,MS,Panola County,"7,668",22.7
-1481,28109,MS,Pearl River County,"9,265",17.2
-1482,28111,MS,Perry County,"2,439",20.5
-1483,28113,MS,Pike County,"10,796",28
-1484,28115,MS,Pontotoc County,"4,569",14.6
-1485,28117,MS,Prentiss County,"4,307",17.7
-1486,28119,MS,Quitman County,"2,915",40.9
-1487,28121,MS,Rankin County,"13,642",9.3
-1488,28123,MS,Scott County,"6,154",21.9
-1489,28125,MS,Sharkey County,"1,548",35.5
-1490,28127,MS,Simpson County,"6,077",23
-1491,28129,MS,Smith County,"2,608",16.3
-1492,28131,MS,Stone County,"2,727",16.3
-1493,28133,MS,Sunflower County,"7,966",36.2
-1494,28135,MS,Tallahatchie County,"4,104",35.2
-1495,28137,MS,Tate County,"4,494",16.5
-1496,28139,MS,Tippah County,"3,855",17.9
-1497,28141,MS,Tishomingo County,"3,437",17.9
-1498,28143,MS,Tunica County,"2,882",29.1
-1499,28145,MS,Union County,"4,099",14.5
-1500,28147,MS,Walthall County,"3,740",26.1
-1501,28149,MS,Warren County,"9,873",21.4
-1502,28151,MS,Washington County,"14,854",32.7
-1503,28153,MS,Wayne County,"4,661",23
-1504,28155,MS,Webster County,"2,230",23
-1505,28157,MS,Wilkinson County,"2,558",33.1
-1506,28159,MS,Winston County,"4,013",22.5
-1507,28161,MS,Yalobusha County,"2,626",21.3
-1508,28163,MS,Yazoo County,"7,775",33.9
-1509,29000,MO,Missouri,"793,001",13.4
-1510,29001,MO,Adair County,"5,760",25.6
-1511,29003,MO,Andrew County,"1,378",8
-1512,29005,MO,Atchison County,615,11.9
-1513,29007,MO,Audrain County,"4,030",17.2
-1514,29009,MO,Barry County,"5,678",16.1
-1515,29011,MO,Barton County,"1,716",14.7
-1516,29013,MO,Bates County,"2,301",14.4
-1517,29015,MO,Benton County,"3,230",17.2
-1518,29017,MO,Bollinger County,"1,795",14.8
-1519,29019,MO,Boone County,"25,432",15.1
-1520,29021,MO,Buchanan County,"13,197",15.6
-1521,29023,MO,Butler County,"9,488",22.7
-1522,29025,MO,Caldwell County,"1,227",13.9
-1523,29027,MO,Callaway County,"5,033",12.3
-1524,29029,MO,Camden County,"6,139",13.6
-1525,29031,MO,Cape Girardeau County,"10,828",14.6
-1526,29033,MO,Carroll County,"1,208",13.9
-1527,29035,MO,Carter County,"1,278",20.9
-1528,29037,MO,Cass County,"9,435",9.2
-1529,29039,MO,Cedar County,"2,377",17.2
-1530,29041,MO,Chariton County,920,12.7
-1531,29043,MO,Christian County,"8,373",9.9
-1532,29045,MO,Clark County,"1,052",16
-1533,29047,MO,Clay County,"17,794",7.4
-1534,29049,MO,Clinton County,"2,229",11.1
-1535,29051,MO,Cole County,"8,399",11.7
-1536,29053,MO,Cooper County,"1,849",11.5
-1537,29055,MO,Crawford County,"4,590",19.4
-1538,29057,MO,Dade County,"1,234",16.6
-1539,29059,MO,Dallas County,"3,032",18.5
-1540,29061,MO,Daviess County,"1,123",13.8
-1541,29063,MO,DeKalb County,"1,406",15.5
-1542,29065,MO,Dent County,"3,076",20.2
-1543,29067,MO,Douglas County,"2,673",20.4
-1544,29069,MO,Dunklin County,"7,204",24.6
-1545,29071,MO,Franklin County,"10,588",10.4
-1546,29073,MO,Gasconade County,"1,713",11.9
-1547,29075,MO,Gentry County,912,14
-1548,29077,MO,Greene County,"45,036",16.2
-1549,29079,MO,Grundy County,"1,710",17.9
-1550,29081,MO,Harrison County,"1,400",16.7
-1551,29083,MO,Henry County,"3,446",16.1
-1552,29085,MO,Hickory County,"1,805",19.3
-1553,29087,MO,Holt County,596,13.9
-1554,29089,MO,Howard County,"1,259",13.3
-1555,29091,MO,Howell County,"8,783",22.3
-1556,29093,MO,Iron County,"2,241",22.6
-1557,29095,MO,Jackson County,"94,910",13.8
-1558,29097,MO,Jasper County,"19,719",16.8
-1559,29099,MO,Jefferson County,"23,704",10.7
-1560,29101,MO,Johnson County,"6,393",12.8
-1561,29103,MO,Knox County,723,18.6
-1562,29105,MO,Laclede County,"5,434",15.6
-1563,29107,MO,Lafayette County,"3,977",12.5
-1564,29109,MO,Lawrence County,"6,038",16
-1565,29111,MO,Lewis County,"1,478",16
-1566,29113,MO,Lincoln County,"5,436",9.8
-1567,29115,MO,Linn County,"1,620",13.5
-1568,29117,MO,Livingston County,"2,166",16.3
-1569,29119,MO,McDonald County,"4,315",19.1
-1570,29121,MO,Macon County,"1,880",12.6
-1571,29123,MO,Madison County,"2,233",18.6
-1572,29125,MO,Maries County,"1,215",13.9
-1573,29127,MO,Marion County,"4,694",17.2
-1574,29129,MO,Mercer County,524,14.5
-1575,29131,MO,Miller County,"3,720",15
-1576,29133,MO,Mississippi County,"3,329",28.5
-1577,29135,MO,Moniteau County,"1,757",12
-1578,29137,MO,Monroe County,"1,146",13.5
-1579,29139,MO,Montgomery County,"1,675",15.2
-1580,29141,MO,Morgan County,"3,893",19.7
-1581,29143,MO,New Madrid County,"4,369",25.4
-1582,29145,MO,Newton County,"7,517",13.2
-1583,29147,MO,Nodaway County,"3,213",17
-1584,29149,MO,Oregon County,"2,522",24.3
-1585,29151,MO,Osage County,"1,217",9.2
-1586,29153,MO,Ozark County,"1,954",21.5
-1587,29155,MO,Pemiscot County,"4,369",26.4
-1588,29157,MO,Perry County,"1,837",9.7
-1589,29159,MO,Pettis County,"6,639",16
-1590,29161,MO,Phelps County,"7,661",18.4
-1591,29163,MO,Pike County,"2,656",16.4
-1592,29165,MO,Platte County,"6,187",6.2
-1593,29167,MO,Polk County,"4,568",15.1
-1594,29169,MO,Pulaski County,"5,469",13
-1595,29171,MO,Putnam County,782,16.5
-1596,29173,MO,Ralls County,976,9.6
-1597,29175,MO,Randolph County,"3,791",16.9
-1598,29177,MO,Ray County,"2,315",10.3
-1599,29179,MO,Reynolds County,"1,255",20.4
-1600,29181,MO,Ripley County,"3,197",23.9
-1601,29183,MO,St. Charles County,"20,661",5.3
-1602,29185,MO,St. Clair County,"1,857",20.4
-1603,29186,MO,Ste. Genevieve County,"1,885",10.8
-1604,29187,MO,St. Francois County,"10,499",17.7
-1605,29189,MO,St. Louis County,"97,993",10
-1606,29195,MO,Saline County,"3,321",15.6
-1607,29197,MO,Schuyler County,705,15.9
-1608,29199,MO,Scotland County,755,15.6
-1609,29201,MO,Scott County,"7,644",20.2
-1610,29203,MO,Shannon County,"2,923",35.9
-1611,29205,MO,Shelby County,916,15.7
-1612,29207,MO,Stoddard County,"4,938",17.1
-1613,29209,MO,Stone County,"4,866",15.5
-1614,29211,MO,Sullivan County,988,16.1
-1615,29213,MO,Taney County,"7,401",13.8
-1616,29215,MO,Texas County,"5,041",21.2
-1617,29217,MO,Vernon County,"3,077",15.6
-1618,29219,MO,Warren County,"3,444",10.1
-1619,29221,MO,Washington County,"5,422",22.8
-1620,29223,MO,Wayne County,"2,996",22.9
-1621,29225,MO,Webster County,"5,817",15.5
-1622,29227,MO,Worth County,295,14.8
-1623,29229,MO,Wright County,"4,390",24.3
-1624,29510,MO,St. Louis city,"64,108",21.4
-1625,30000,MT,Montana,"130,616",12.7
-1626,30001,MT,Beaverhead County,"1,238",13.8
-1627,30003,MT,Big Horn County,"3,535",26.8
-1628,30005,MT,Blaine County,"1,727",26.2
-1629,30007,MT,Broadwater County,574,9.8
-1630,30009,MT,Carbon County,999,9.4
-1631,30011,MT,Carter County,155,12.9
-1632,30013,MT,Cascade County,"9,411",11.9
-1633,30015,MT,Chouteau County,825,14.5
-1634,30017,MT,Custer County,"1,465",13
-1635,30019,MT,Daniels County,173,10.2
-1636,30021,MT,Dawson County,907,10.7
-1637,30023,MT,Deer Lodge County,"1,342",15.9
-1638,30025,MT,Fallon County,270,9.1
-1639,30027,MT,Fergus County,"1,396",12.7
-1640,30029,MT,Flathead County,"10,824",11
-1641,30031,MT,Gallatin County,"10,195",9.8
-1642,30033,MT,Garfield County,212,16.4
-1643,30035,MT,Glacier County,"3,487",26.2
-1644,30037,MT,Golden Valley County,151,19
-1645,30039,MT,Granite County,405,12.2
-1646,30041,MT,Hill County,"2,511",15.7
-1647,30043,MT,Jefferson County,983,8.4
-1648,30045,MT,Judith Basin County,249,12.7
-1649,30047,MT,Lake County,"5,612",18.8
-1650,30049,MT,Lewis and Clark County,"5,474",8.3
-1651,30051,MT,Liberty County,429,18.5
-1652,30053,MT,Lincoln County,"3,001",15.6
-1653,30055,MT,McCone County,248,14.7
-1654,30057,MT,Madison County,805,10
-1655,30059,MT,Meagher County,285,16
-1656,30061,MT,Mineral County,612,14.5
-1657,30063,MT,Missoula County,"16,351",14.3
-1658,30065,MT,Musselshell County,787,17.2
-1659,30067,MT,Park County,"2,087",12.9
-1660,30069,MT,Petroleum County,74,14.1
-1661,30071,MT,Phillips County,585,14.4
-1662,30073,MT,Pondera County,"1,020",17.7
-1663,30075,MT,Powder River County,209,12.2
-1664,30077,MT,Powell County,973,18.7
-1665,30079,MT,Prairie County,130,12
-1666,30081,MT,Ravalli County,"5,275",12.5
-1667,30083,MT,Richland County,957,8.7
-1668,30085,MT,Roosevelt County,"2,838",26.1
-1669,30087,MT,Rosebud County,"1,577",17.3
-1670,30089,MT,Sanders County,"2,363",20.5
-1671,30091,MT,Sheridan County,372,11
-1672,30093,MT,Silver Bow County,"5,487",16.3
-1673,30095,MT,Stillwater County,798,8.5
-1674,30097,MT,Sweet Grass County,362,10
-1675,30099,MT,Teton County,796,13.5
-1676,30101,MT,Toole County,660,15.7
-1677,30103,MT,Treasure County,79,11.7
-1678,30105,MT,Valley County,864,11.8
-1679,30107,MT,Wheatland County,383,18.5
-1680,30109,MT,Wibaux County,107,10.8
-1681,30111,MT,Yellowstone County,"15,983",10.3
-1682,31000,NE,Nebraska,"198,984",10.7
-1683,31001,NE,Adams County,"3,658",12.1
-1684,31003,NE,Antelope County,704,11.2
-1685,31005,NE,Arthur County,63,13.8
-1686,31007,NE,Banner County,87,11.7
-1687,31009,NE,Blaine County,70,14.5
-1688,31011,NE,Boone County,483,9.2
-1689,31013,NE,Box Butte County,"1,241",11.6
-1690,31015,NE,Boyd County,242,12.6
-1691,31017,NE,Brown County,363,12.1
-1692,31019,NE,Buffalo County,"6,052",12.7
-1693,31021,NE,Burt County,736,11.5
-1694,31023,NE,Butler County,671,8.5
-1695,31025,NE,Cass County,"1,517",6
-1696,31027,NE,Cedar County,692,8.3
-1697,31029,NE,Chase County,361,9.3
-1698,31031,NE,Cherry County,673,11.7
-1699,31033,NE,Cheyenne County,976,10.2
-1700,31035,NE,Clay County,657,10.8
-1701,31037,NE,Colfax County,962,9.2
-1702,31039,NE,Cuming County,733,8.3
-1703,31041,NE,Custer County,"1,301",12.1
-1704,31043,NE,Dakota County,"2,525",12.7
-1705,31045,NE,Dawes County,"1,359",17
-1706,31047,NE,Dawson County,"2,688",11.5
-1707,31049,NE,Deuel County,227,12.2
-1708,31051,NE,Dixon County,494,8.8
-1709,31053,NE,Dodge County,"4,829",13.7
-1710,31055,NE,Douglas County,"62,619",11.4
-1711,31057,NE,Dundy County,265,14.9
-1712,31059,NE,Fillmore County,440,8.2
-1713,31061,NE,Franklin County,406,13.7
-1714,31063,NE,Frontier County,328,13.1
-1715,31065,NE,Furnas County,525,11.2
-1716,31067,NE,Gage County,"2,274",10.7
-1717,31069,NE,Garden County,292,15.6
-1718,31071,NE,Garfield County,229,11.6
-1719,31073,NE,Gosper County,182,9.2
-1720,31075,NE,Grant County,65,10
-1721,31077,NE,Greeley County,288,12.5
-1722,31079,NE,Hall County,"7,247",12
-1723,31081,NE,Hamilton County,585,6.5
-1724,31083,NE,Harlan County,353,10.4
-1725,31085,NE,Hayes County,149,16.7
-1726,31087,NE,Hitchcock County,384,13.7
-1727,31089,NE,Holt County,"1,088",10.8
-1728,31091,NE,Hooker County,56,8.6
-1729,31093,NE,Howard County,635,10
-1730,31095,NE,Jefferson County,811,11.5
-1731,31097,NE,Johnson County,524,12.7
-1732,31099,NE,Kearney County,539,8.4
-1733,31101,NE,Keith County,982,12.3
-1734,31103,NE,Keya Paha County,140,17.7
-1735,31105,NE,Kimball County,489,13.8
-1736,31107,NE,Knox County,"1,034",12.6
-1737,31109,NE,Lancaster County,"33,985",11.4
-1738,31111,NE,Lincoln County,"4,008",11.6
-1739,31113,NE,Logan County,68,8.9
-1740,31115,NE,Loup County,96,15.8
-1741,31117,NE,McPherson County,63,12.7
-1742,31119,NE,Madison County,"4,432",13.1
-1743,31121,NE,Merrick County,787,10.2
-1744,31123,NE,Morrill County,678,14.3
-1745,31125,NE,Nance County,411,11.8
-1746,31127,NE,Nemaha County,813,12.6
-1747,31129,NE,Nuckolls County,483,11.5
-1748,31131,NE,Otoe County,"1,429",9.1
-1749,31133,NE,Pawnee County,342,13.2
-1750,31135,NE,Perkins County,267,9.3
-1751,31137,NE,Phelps County,774,8.8
-1752,31139,NE,Pierce County,668,9.5
-1753,31141,NE,Platte County,"2,807",8.6
-1754,31143,NE,Polk County,357,6.9
-1755,31145,NE,Red Willow County,"1,124",10.9
-1756,31147,NE,Richardson County,"1,011",13
-1757,31149,NE,Rock County,200,14.3
-1758,31151,NE,Saline County,"1,411",10.6
-1759,31153,NE,Sarpy County,"9,108",5.1
-1760,31155,NE,Saunders County,"1,562",7.6
-1761,31157,NE,Scotts Bluff County,"4,733",13.3
-1762,31159,NE,Seward County,"1,173",7.5
-1763,31161,NE,Sheridan County,737,14.3
-1764,31163,NE,Sherman County,353,11.7
-1765,31165,NE,Sioux County,205,17.1
-1766,31167,NE,Stanton County,467,7.8
-1767,31169,NE,Thayer County,567,11.6
-1768,31171,NE,Thomas County,97,13.5
-1769,31173,NE,Thurston County,"1,664",23.3
-1770,31175,NE,Valley County,501,12.1
-1771,31177,NE,Washington County,"1,458",7.2
-1772,31179,NE,Wayne County,"1,030",12.2
-1773,31181,NE,Webster County,440,13
-1774,31183,NE,Wheeler County,75,9.2
-1775,31185,NE,York County,"1,307",10.1
-1776,32000,NV,Nevada,"392,857",13.3
-1777,32001,NV,Churchill County,"2,747",11.5
-1778,32003,NV,Clark County,"305,802",14
-1779,32005,NV,Douglas County,"3,931",8.2
-1780,32007,NV,Elko County,"5,476",10.6
-1781,32009,NV,Esmeralda County,124,14.6
-1782,32011,NV,Eureka County,175,9
-1783,32013,NV,Humboldt County,"1,748",10.5
-1784,32015,NV,Lander County,628,11.1
-1785,32017,NV,Lincoln County,678,13.8
-1786,32019,NV,Lyon County,"5,779",10.8
-1787,32021,NV,Mineral County,768,17.5
-1788,32023,NV,Nye County,"6,778",15.8
-1789,32027,NV,Pershing County,873,18.2
-1790,32029,NV,Storey County,278,7
-1791,32031,NV,Washoe County,"50,261",11.1
-1792,32033,NV,White Pine County,"1,131",13.8
-1793,32510,NV,Carson City,"5,679",11
-1794,33000,NH,New Hampshire,"100,550",7.7
-1795,33001,NH,Belknap County,"4,953",8.3
-1796,33003,NH,Carroll County,"4,424",9.3
-1797,33005,NH,Cheshire County,"6,687",9.4
-1798,33007,NH,Coos County,"3,415",11.7
-1799,33009,NH,Grafton County,"7,770",9.4
-1800,33011,NH,Hillsborough County,"31,832",7.9
-1801,33013,NH,Merrimack County,"10,392",7.3
-1802,33015,NH,Rockingham County,"15,533",5.1
-1803,33017,NH,Strafford County,"11,176",9.4
-1804,33019,NH,Sullivan County,"4,369",10.3
-1805,34000,NJ,New Jersey,"882,132",10
-1806,34001,NJ,Atlantic County,"38,092",14.4
-1807,34003,NJ,Bergen County,"62,037",6.6
-1808,34005,NJ,Burlington County,"28,202",6.5
-1809,34007,NJ,Camden County,"58,696",11.7
-1810,34009,NJ,Cape May County,"9,486",10.4
-1811,34011,NJ,Cumberland County,"26,129",18.4
-1812,34013,NJ,Essex County,"123,806",15.7
-1813,34015,NJ,Gloucester County,"19,238",6.7
-1814,34017,NJ,Hudson County,"96,125",14.1
-1815,34019,NJ,Hunterdon County,"4,793",3.9
-1816,34021,NJ,Mercer County,"40,622",11.4
-1817,34023,NJ,Middlesex County,"69,518",8.5
-1818,34025,NJ,Monmouth County,"45,085",7.3
-1819,34027,NJ,Morris County,"24,225",4.9
-1820,34029,NJ,Ocean County,"60,406",10.2
-1821,34031,NJ,Passaic County,"82,865",16.5
-1822,34033,NJ,Salem County,"8,215",13.3
-1823,34035,NJ,Somerset County,"17,396",5.3
-1824,34037,NJ,Sussex County,"7,372",5.3
-1825,34039,NJ,Union County,"52,052",9.3
-1826,34041,NJ,Warren County,"7,770",7.4
-1827,35000,NM,New Mexico,"388,790",19
-1828,35001,NM,Bernalillo County,"97,103",14.6
-1829,35003,NM,Catron County,754,21.2
-1830,35005,NM,Chaves County,"11,885",18.9
-1831,35006,NM,Cibola County,"7,316",30.1
-1832,35007,NM,Colfax County,"2,320",19.8
-1833,35009,NM,Curry County,"9,114",18.9
-1834,35011,NM,DeBaca County,400,22
-1835,35013,NM,Dona Ana County,"55,541",26.3
-1836,35015,NM,Eddy County,"9,492",16.9
-1837,35017,NM,Grant County,"5,490",20.3
-1838,35019,NM,Guadalupe County,872,22.6
-1839,35021,NM,Harding County,104,15.1
-1840,35023,NM,Hidalgo County,"1,050",24.8
-1841,35025,NM,Lea County,"10,704",16.1
-1842,35027,NM,Lincoln County,"3,040",15.8
-1843,35028,NM,Los Alamos County,691,3.7
-1844,35029,NM,Luna County,"6,635",28.3
-1845,35031,NM,McKinley County,"27,143",37.8
-1846,35033,NM,Mora County,"1,025",22.6
-1847,35035,NM,Otero County,"11,742",18.5
-1848,35037,NM,Quay County,"1,968",23.9
-1849,35039,NM,Rio Arriba County,"11,221",28.9
-1850,35041,NM,Roosevelt County,"4,545",25.7
-1851,35043,NM,Sandoval County,"21,684",15.3
-1852,35045,NM,San Juan County,"28,936",23.1
-1853,35047,NM,San Miguel County,"7,793",29.2
-1854,35049,NM,Santa Fe County,"17,838",12.2
-1855,35051,NM,Sierra County,"2,877",26.6
-1856,35053,NM,Socorro County,"4,580",28.3
-1857,35055,NM,Taos County,"7,405",22.8
-1858,35057,NM,Torrance County,"3,955",26.7
-1859,35059,NM,Union County,616,17.6
-1860,35061,NM,Valencia County,"12,951",17.5
-1861,36000,NY,New York,"2,735,578",14.1
-1862,36001,NY,Albany County,"33,186",11.3
-1863,36003,NY,Allegany County,"6,925",16.3
-1864,36005,NY,Bronx County,"400,473",27.9
-1865,36007,NY,Broome County,"32,094",17.5
-1866,36009,NY,Cattaraugus County,"11,836",15.8
-1867,36011,NY,Cayuga County,"9,246",12.6
-1868,36013,NY,Chautauqua County,"21,835",17.7
-1869,36015,NY,Chemung County,"12,391",15.3
-1870,36017,NY,Chenango County,"5,910",12.6
-1871,36019,NY,Clinton County,"10,146",13.7
-1872,36021,NY,Columbia County,"6,233",10.5
-1873,36023,NY,Cortland County,"6,890",15.7
-1874,36025,NY,Delaware County,"7,661",17.9
-1875,36027,NY,Dutchess County,"28,178",10.1
-1876,36029,NY,Erie County,"130,831",14.5
-1877,36031,NY,Essex County,"3,778",10.6
-1878,36033,NY,Franklin County,"8,454",18.9
-1879,36035,NY,Fulton County,"8,400",15.9
-1880,36037,NY,Genesee County,"6,075",10.8
-1881,36039,NY,Greene County,"5,620",12.7
-1882,36041,NY,Hamilton County,436,9.8
-1883,36043,NY,Herkimer County,"8,679",14.3
-1884,36045,NY,Jefferson County,"16,133",15.1
-1885,36047,NY,Kings County,"518,422",19.8
-1886,36049,NY,Lewis County,"3,267",12.5
-1887,36051,NY,Livingston County,"6,966",12
-1888,36053,NY,Madison County,"7,179",10.8
-1889,36055,NY,Monroe County,"105,493",14.6
-1890,36057,NY,Montgomery County,"8,632",17.8
-1891,36059,NY,Nassau County,"83,380",6.2
-1892,36061,NY,New York County,"262,605",16.3
-1893,36063,NY,Niagara County,"25,656",12.4
-1894,36065,NY,Oneida County,"35,154",16.1
-1895,36067,NY,Onondaga County,"61,647",13.7
-1896,36069,NY,Ontario County,"9,905",9.3
-1897,36071,NY,Orange County,"40,379",10.9
-1898,36073,NY,Orleans County,"5,845",15.2
-1899,36075,NY,Oswego County,"18,492",16.3
-1900,36077,NY,Otsego County,"7,227",13.1
-1901,36079,NY,Putnam County,"5,305",5.4
-1902,36081,NY,Queens County,"285,222",12.2
-1903,36083,NY,Rensselaer County,"17,698",11.5
-1904,36085,NY,Richmond County,"56,434",11.9
-1905,36087,NY,Rockland County,"43,147",13.3
-1906,36089,NY,St. Lawrence County,"18,544",18.9
-1907,36091,NY,Saratoga County,"14,898",6.6
-1908,36093,NY,Schenectady County,"19,369",12.8
-1909,36095,NY,Schoharie County,"4,186",13.9
-1910,36097,NY,Schuyler County,"2,464",13.9
-1911,36099,NY,Seneca County,"3,810",12
-1912,36101,NY,Steuben County,"12,161",12.8
-1913,36103,NY,Suffolk County,"102,014",7
-1914,36105,NY,Sullivan County,"10,891",14.9
-1915,36107,NY,Tioga County,"4,764",9.9
-1916,36109,NY,Tompkins County,"17,027",18.6
-1917,36111,NY,Ulster County,"23,481",13.7
-1918,36113,NY,Warren County,"6,184",9.7
-1919,36115,NY,Washington County,"6,823",11.7
-1920,36117,NY,Wayne County,"10,866",12.1
-1921,36119,NY,Westchester County,"81,192",8.5
-1922,36121,NY,Wyoming County,"4,128",11.2
-1923,36123,NY,Yates County,"3,311",13.9
-1924,37000,NC,North Carolina,"1,468,032",14.7
-1925,37001,NC,Alamance County,"22,721",14.4
-1926,37003,NC,Alexander County,"4,182",11.7
-1927,37005,NC,Alleghany County,"2,274",20.9
-1928,37007,NC,Anson County,"5,039",22.2
-1929,37009,NC,Ashe County,"4,267",15.9
-1930,37011,NC,Avery County,"2,806",18.6
-1931,37013,NC,Beaufort County,"10,260",22
-1932,37015,NC,Bertie County,"4,896",27.2
-1933,37017,NC,Bladen County,"6,869",20.7
-1934,37019,NC,Brunswick County,"15,429",11.9
-1935,37021,NC,Buncombe County,"28,715",11.5
-1936,37023,NC,Burke County,"14,482",16.6
-1937,37025,NC,Cabarrus County,"22,816",11.1
-1938,37027,NC,Caldwell County,"13,222",16.3
-1939,37029,NC,Camden County,848,8
-1940,37031,NC,Carteret County,"9,050",13.3
-1941,37033,NC,Caswell County,"4,117",19.3
-1942,37035,NC,Catawba County,"19,427",12.5
-1943,37037,NC,Chatham County,"7,305",10.3
-1944,37039,NC,Cherokee County,"4,760",17.2
-1945,37041,NC,Chowan County,"2,434",17.6
-1946,37043,NC,Clay County,"1,685",15.4
-1947,37045,NC,Cleveland County,"17,958",18.8
-1948,37047,NC,Columbus County,"12,220",23.1
-1949,37049,NC,Craven County,"15,942",16.3
-1950,37051,NC,Cumberland County,"58,888",18.6
-1951,37053,NC,Currituck County,"2,785",10.7
-1952,37055,NC,Dare County,"3,364",9.4
-1953,37057,NC,Davidson County,"24,941",15.2
-1954,37059,NC,Davie County,"5,117",12.2
-1955,37061,NC,Duplin County,"12,119",20.7
-1956,37063,NC,Durham County,"47,090",15.7
-1957,37065,NC,Edgecombe County,"13,222",25.5
-1958,37067,NC,Forsyth County,"60,638",16.6
-1959,37069,NC,Franklin County,"10,129",15.7
-1960,37071,NC,Gaston County,"32,751",15.1
-1961,37073,NC,Gates County,"1,802",15.7
-1962,37075,NC,Graham County,"1,518",18.1
-1963,37077,NC,Granville County,"7,037",12.6
-1964,37079,NC,Greene County,"5,107",27.6
-1965,37081,NC,Guilford County,"73,862",14.5
-1966,37083,NC,Halifax County,"14,009",28.1
-1967,37085,NC,Harnett County,"21,178",16.4
-1968,37087,NC,Haywood County,"8,779",14.5
-1969,37089,NC,Henderson County,"12,263",10.7
-1970,37091,NC,Hertford County,"5,225",24.4
-1971,37093,NC,Hoke County,"8,464",15.9
-1972,37095,NC,Hyde County,"1,016",21.9
-1973,37097,NC,Iredell County,"19,691",11.3
-1974,37099,NC,Jackson County,"6,656",17
-1975,37101,NC,Johnston County,"29,365",15.1
-1976,37103,NC,Jones County,"2,115",22.3
-1977,37105,NC,Lee County,"8,760",14.8
-1978,37107,NC,Lenoir County,"13,882",24.7
-1979,37109,NC,Lincoln County,"10,218",12.5
-1980,37111,NC,McDowell County,"7,138",16.2
-1981,37113,NC,Macon County,"5,585",16.2
-1982,37115,NC,Madison County,"3,619",17.6
-1983,37117,NC,Martin County,"4,645",20.5
-1984,37119,NC,Mecklenburg County,"120,634",11.4
-1985,37121,NC,Mitchell County,"2,466",16.7
-1986,37123,NC,Montgomery County,"4,719",17.8
-1987,37125,NC,Moore County,"10,303",10.7
-1988,37127,NC,Nash County,"14,560",15.8
-1989,37129,NC,New Hanover County,"34,283",15.5
-1990,37131,NC,Northampton County,"4,647",24.3
-1991,37133,NC,Onslow County,"23,452",13.5
-1992,37135,NC,Orange County,"18,210",13.4
-1993,37137,NC,Pamlico County,"2,082",17.4
-1994,37139,NC,Pasquotank County,"7,579",20.2
-1995,37141,NC,Pender County,"7,548",12.6
-1996,37143,NC,Perquimans County,"2,406",18
-1997,37145,NC,Person County,"5,882",15.1
-1998,37147,NC,Pitt County,"37,388",21.7
-1999,37149,NC,Polk County,"2,529",12.5
-2000,37151,NC,Randolph County,"22,342",15.8
-2001,37153,NC,Richmond County,"10,795",24.8
-2002,37155,NC,Robeson County,"37,204",29
-2003,37157,NC,Rockingham County,"14,628",16.3
-2004,37159,NC,Rowan County,"20,790",15.3
-2005,37161,NC,Rutherford County,"10,557",16.1
-2006,37163,NC,Sampson County,"12,925",20.7
-2007,37165,NC,Scotland County,"8,570",26.4
-2008,37167,NC,Stanly County,"7,367",12.4
-2009,37169,NC,Stokes County,"6,373",14.1
-2010,37171,NC,Surry County,"11,479",16.1
-2011,37173,NC,Swain County,"2,226",15.8
-2012,37175,NC,Transylvania County,"5,010",15.2
-2013,37177,NC,Tyrrell County,870,24.4
-2014,37179,NC,Union County,"20,824",9.1
-2015,37181,NC,Vance County,"10,217",23.4
-2016,37183,NC,Wake County,"93,924",8.9
-2017,37185,NC,Warren County,"3,966",20.9
-2018,37187,NC,Washington County,"2,947",24.8
-2019,37189,NC,Watauga County,"10,129",20.5
-2020,37191,NC,Wayne County,"24,577",20.3
-2021,37193,NC,Wilkes County,"12,516",18.5
-2022,37195,NC,Wilson County,"14,481",18.1
-2023,37197,NC,Yadkin County,"5,022",13.4
-2024,37199,NC,Yancey County,"2,903",16.5
-2025,38000,ND,North Dakota,"74,057",10.2
-2026,38001,ND,Adams County,215,9.5
-2027,38003,ND,Barnes County,"1,094",10.7
-2028,38005,ND,Benson County,"1,948",28.4
-2029,38007,ND,Billings County,86,9.2
-2030,38009,ND,Bottineau County,628,10
-2031,38011,ND,Bowman County,262,8.4
-2032,38013,ND,Burke County,193,9.1
-2033,38015,ND,Burleigh County,"6,666",7.3
-2034,38017,ND,Cass County,"14,859",8.6
-2035,38019,ND,Cavalier County,352,9.6
-2036,38021,ND,Dickey County,493,10.5
-2037,38023,ND,Divide County,223,10
-2038,38025,ND,Dunn County,444,10.5
-2039,38027,ND,Eddy County,237,10.6
-2040,38029,ND,Emmons County,450,13.9
-2041,38031,ND,Foster County,254,8
-2042,38033,ND,Golden Valley County,183,10.6
-2043,38035,ND,Grand Forks County,"9,893",14.8
-2044,38037,ND,Grant County,360,15.3
-2045,38039,ND,Griggs County,192,8.7
-2046,38041,ND,Hettinger County,273,11.8
-2047,38043,ND,Kidder County,323,13.1
-2048,38045,ND,LaMoure County,414,10.3
-2049,38047,ND,Logan County,241,13.1
-2050,38049,ND,McHenry County,646,11.1
-2051,38051,ND,McIntosh County,300,12
-2052,38053,ND,McKenzie County,"1,066",8.5
-2053,38055,ND,McLean County,862,9.1
-2054,38057,ND,Mercer County,518,6.2
-2055,38059,ND,Morton County,"2,513",8.3
-2056,38061,ND,Mountrail County,981,9.7
-2057,38063,ND,Nelson County,312,10.9
-2058,38065,ND,Oliver County,181,9.4
-2059,38067,ND,Pembina County,563,8.3
-2060,38069,ND,Pierce County,454,11.8
-2061,38071,ND,Ramsey County,"1,352",12.3
-2062,38073,ND,Ransom County,386,7.6
-2063,38075,ND,Renville County,189,7.9
-2064,38077,ND,Richland County,"1,535",10
-2065,38079,ND,Rolette County,"3,884",27.1
-2066,38081,ND,Sargent County,293,7.7
-2067,38083,ND,Sheridan County,220,16.3
-2068,38085,ND,Sioux County,"1,541",35.9
-2069,38087,ND,Slope County,93,12.1
-2070,38089,ND,Stark County,"2,668",9
-2071,38091,ND,Steele County,148,7.8
-2072,38093,ND,Stutsman County,"1,880",9.7
-2073,38095,ND,Towner County,225,10.1
-2074,38097,ND,Traill County,587,7.7
-2075,38099,ND,Walsh County,"1,098",10.3
-2076,38101,ND,Ward County,"6,670",10.1
-2077,38103,ND,Wells County,425,10.8
-2078,38105,ND,Williams County,"2,184",6.6
-2079,39000,OH,Ohio,"1,575,401",13.9
-2080,39001,OH,Adams County,"5,092",18.6
-2081,39003,OH,Allen County,"14,723",15.2
-2082,39005,OH,Ashland County,"5,837",11.4
-2083,39007,OH,Ashtabula County,"18,127",19.3
-2084,39009,OH,Athens County,"16,259",28.8
-2085,39011,OH,Auglaize County,"3,936",8.7
-2086,39013,OH,Belmont County,"7,114",11.1
-2087,39015,OH,Brown County,"7,219",16.9
-2088,39017,OH,Butler County,"39,242",10.7
-2089,39019,OH,Carroll County,"3,518",13
-2090,39021,OH,Champaign County,"4,190",11
-2091,39023,OH,Clark County,"20,082",15.4
-2092,39025,OH,Clermont County,"17,597",8.7
-2093,39027,OH,Clinton County,"5,314",13
-2094,39029,OH,Columbiana County,"14,948",15.1
-2095,39031,OH,Coshocton County,"5,665",15.7
-2096,39033,OH,Crawford County,"6,357",15.5
-2097,39035,OH,Cuyahoga County,"221,287",18.1
-2098,39037,OH,Darke County,"4,693",9.2
-2099,39039,OH,Defiance County,"3,547",9.5
-2100,39041,OH,Delaware County,"9,502",4.8
-2101,39043,OH,Erie County,"9,065",12.4
-2102,39045,OH,Fairfield County,"13,614",9
-2103,39047,OH,Fayette County,"4,370",15.6
-2104,39049,OH,Franklin County,"201,260",16
-2105,39051,OH,Fulton County,"3,430",8.2
-2106,39053,OH,Gallia County,"5,528",19
-2107,39055,OH,Geauga County,"5,933",6.4
-2108,39057,OH,Greene County,"15,587",9.8
-2109,39059,OH,Guernsey County,"7,042",18.2
-2110,39061,OH,Hamilton County,"128,431",16.2
-2111,39063,OH,Hancock County,"7,150",9.7
-2112,39065,OH,Hardin County,"4,613",15.8
-2113,39067,OH,Harrison County,"1,916",12.8
-2114,39069,OH,Henry County,"2,194",8.2
-2115,39071,OH,Highland County,"7,134",16.8
-2116,39073,OH,Hocking County,"4,074",14.5
-2117,39075,OH,Holmes County,"3,885",9
-2118,39077,OH,Huron County,"8,555",14.8
-2119,39079,OH,Jackson County,"5,707",17.9
-2120,39081,OH,Jefferson County,"11,251",17.6
-2121,39083,OH,Knox County,"6,165",10.7
-2122,39085,OH,Lake County,"19,693",8.7
-2123,39087,OH,Lawrence County,"11,563",19.5
-2124,39089,OH,Licking County,"15,130",8.9
-2125,39091,OH,Logan County,"4,951",11.1
-2126,39093,OH,Lorain County,"40,404",13.5
-2127,39095,OH,Lucas County,"75,376",17.9
-2128,39097,OH,Madison County,"3,743",9.6
-2129,39099,OH,Mahoning County,"40,879",18.4
-2130,39101,OH,Marion County,"9,699",16.5
-2131,39103,OH,Medina County,"10,629",6
-2132,39105,OH,Meigs County,"4,531",19.9
-2133,39107,OH,Mercer County,"2,793",6.9
-2134,39109,OH,Miami County,"9,387",9
-2135,39111,OH,Monroe County,"2,080",15.2
-2136,39113,OH,Montgomery County,"81,984",15.9
-2137,39115,OH,Morgan County,"2,961",20.5
-2138,39117,OH,Morrow County,"3,849",11.2
-2139,39119,OH,Muskingum County,"12,470",14.8
-2140,39121,OH,Noble County,"1,893",16.2
-2141,39123,OH,Ottawa County,"3,561",8.9
-2142,39125,OH,Paulding County,"1,902",10.2
-2143,39127,OH,Perry County,"5,585",15.7
-2144,39129,OH,Pickaway County,"6,355",12
-2145,39131,OH,Pike County,"5,536",20
-2146,39133,OH,Portage County,"18,263",11.8
-2147,39135,OH,Preble County,"4,017",9.9
-2148,39137,OH,Putnam County,"2,146",6.4
-2149,39139,OH,Richland County,"15,169",13.4
-2150,39141,OH,Ross County,"11,584",16.3
-2151,39143,OH,Sandusky County,"6,477",11.1
-2152,39145,OH,Scioto County,"15,481",21.4
-2153,39147,OH,Seneca County,"7,146",13.6
-2154,39149,OH,Shelby County,"3,897",8.1
-2155,39151,OH,Stark County,"51,852",14.3
-2156,39153,OH,Summit County,"68,434",12.9
-2157,39155,OH,Trumbull County,"30,109",15.4
-2158,39157,OH,Tuscarawas County,"11,589",12.8
-2159,39159,OH,Union County,"2,780",5.2
-2160,39161,OH,Van Wert County,"3,147",11.4
-2161,39163,OH,Vinton County,"2,566",19.8
-2162,39165,OH,Warren County,"10,548",4.7
-2163,39167,OH,Washington County,"8,560",14.6
-2164,39169,OH,Wayne County,"14,456",12.9
-2165,39171,OH,Williams County,"3,830",10.7
-2166,39173,OH,Wood County,"13,328",10.8
-2167,39175,OH,Wyandot County,"1,912",8.8
-2168,40000,OK,Oklahoma,"600,911",15.8
-2169,40001,OK,Adair County,"5,905",27.2
-2170,40003,OK,Alfalfa County,765,15.8
-2171,40005,OK,Atoka County,"2,504",19.1
-2172,40007,OK,Beaver County,650,12.4
-2173,40009,OK,Beckham County,"3,422",17.3
-2174,40011,OK,Blaine County,"1,652",17.7
-2175,40013,OK,Bryan County,"8,219",18.2
-2176,40015,OK,Caddo County,"5,733",21.1
-2177,40017,OK,Canadian County,"10,231",7.5
-2178,40019,OK,Carter County,"8,014",17
-2179,40021,OK,Cherokee County,"9,987",21.2
-2180,40023,OK,Choctaw County,"3,842",26.3
-2181,40025,OK,Cimarron County,372,17.4
-2182,40027,OK,Cleveland County,"31,096",11.6
-2183,40029,OK,Coal County,"1,226",22.1
-2184,40031,OK,Comanche County,"18,665",16.8
-2185,40033,OK,Cotton County,"1,062",18.5
-2186,40035,OK,Craig County,"2,683",19.8
-2187,40037,OK,Creek County,"11,514",16.3
-2188,40039,OK,Custer County,"4,051",14.9
-2189,40041,OK,Delaware County,"7,734",18.4
-2190,40043,OK,Dewey County,645,13.5
-2191,40045,OK,Ellis County,527,13.5
-2192,40047,OK,Garfield County,"8,404",14
-2193,40049,OK,Garvin County,"4,707",17.1
-2194,40051,OK,Grady County,"7,074",13.2
-2195,40053,OK,Grant County,545,12.7
-2196,40055,OK,Greer County,"1,216",25.9
-2197,40057,OK,Harmon County,631,24.4
-2198,40059,OK,Harper County,415,11.1
-2199,40061,OK,Haskell County,"2,584",20.4
-2200,40063,OK,Hughes County,"2,775",23.6
-2201,40065,OK,Jackson County,"4,240",17.4
-2202,40067,OK,Jefferson County,"1,384",23
-2203,40069,OK,Johnston County,"1,929",18
-2204,40071,OK,Kay County,"7,168",16.6
-2205,40073,OK,Kingfisher County,"1,518",9.8
-2206,40075,OK,Kiowa County,"2,207",25.3
-2207,40077,OK,Latimer County,"1,710",17.4
-2208,40079,OK,Le Flore County,"10,751",22.4
-2209,40081,OK,Lincoln County,"5,616",16.2
-2210,40083,OK,Logan County,"5,571",12.4
-2211,40085,OK,Love County,"1,328",13.4
-2212,40087,OK,McClain County,"4,078",10.4
-2213,40089,OK,McCurtain County,"8,390",26
-2214,40091,OK,McIntosh County,"3,860",19.9
-2215,40093,OK,Major County,903,11.9
-2216,40095,OK,Marshall County,"2,540",15.8
-2217,40097,OK,Mayes County,"6,923",17.2
-2218,40099,OK,Murray County,"2,094",15.5
-2219,40101,OK,Muskogee County,"16,243",24.8
-2220,40103,OK,Noble County,"1,424",12.8
-2221,40105,OK,Nowata County,"1,721",17
-2222,40107,OK,Okfuskee County,"2,689",24.2
-2223,40109,OK,Oklahoma County,"122,953",15.9
-2224,40111,OK,Okmulgee County,"6,767",18.1
-2225,40113,OK,Osage County,"7,642",16.8
-2226,40115,OK,Ottawa County,"6,007",19.9
-2227,40117,OK,Pawnee County,"3,005",18.5
-2228,40119,OK,Payne County,"17,537",23.8
-2229,40121,OK,Pittsburg County,"7,376",17.7
-2230,40123,OK,Pontotoc County,"6,561",17.9
-2231,40125,OK,Pottawatomie County,"10,514",15.2
-2232,40127,OK,Pushmataha County,"2,203",20
-2233,40129,OK,Roger Mills County,614,16.6
-2234,40131,OK,Rogers County,"9,039",10.1
-2235,40133,OK,Seminole County,"5,350",22.1
-2236,40135,OK,Sequoyah County,"8,360",20.5
-2237,40137,OK,Stephens County,"6,387",15
-2238,40139,OK,Texas County,"3,415",16.8
-2239,40141,OK,Tillman County,"1,641",23
-2240,40143,OK,Tulsa County,"91,757",14.4
-2241,40145,OK,Wagoner County,"7,778",10
-2242,40147,OK,Washington County,"7,277",14.3
-2243,40149,OK,Washita County,"1,755",16.2
-2244,40151,OK,Woods County,"1,171",14.6
-2245,40153,OK,Woodward County,"2,664",13.9
-2246,41000,OR,Oregon,"534,846",13.2
-2247,41001,OR,Baker County,"2,772",17.7
-2248,41003,OR,Benton County,"13,776",16
-2249,41005,OR,Clackamas County,"34,173",8.3
-2250,41007,OR,Clatsop County,"4,715",12.2
-2251,41009,OR,Columbia County,"6,326",12.3
-2252,41011,OR,Coos County,"12,456",19.9
-2253,41013,OR,Crook County,"3,062",13.3
-2254,41015,OR,Curry County,"3,493",15.5
-2255,41017,OR,Deschutes County,"17,932",9.7
-2256,41019,OR,Douglas County,"16,135",14.9
-2257,41021,OR,Gilliam County,205,11.2
-2258,41023,OR,Grant County,"1,082",15.3
-2259,41025,OR,Harney County,"1,122",15.7
-2260,41027,OR,Hood River County,"2,444",10.6
-2261,41029,OR,Jackson County,"30,774",14.3
-2262,41031,OR,Jefferson County,"3,927",17.2
-2263,41033,OR,Josephine County,"15,143",17.8
-2264,41035,OR,Klamath County,"12,659",19.2
-2265,41037,OR,Lake County,"1,405",18.9
-2266,41039,OR,Lane County,"60,773",16.6
-2267,41041,OR,Lincoln County,"7,812",16.2
-2268,41043,OR,Linn County,"17,676",14.3
-2269,41045,OR,Malheur County,"6,045",22.2
-2270,41047,OR,Marion County,"50,264",15.2
-2271,41049,OR,Morrow County,"1,578",14.2
-2272,41051,OR,Multnomah County,"114,241",14.4
-2273,41053,OR,Polk County,"12,025",14.7
-2274,41055,OR,Sherman County,214,12.2
-2275,41057,OR,Tillamook County,"3,631",13.9
-2276,41059,OR,Umatilla County,"11,330",15.6
-2277,41061,OR,Union County,"3,391",13.3
-2278,41063,OR,Wallowa County,937,13.5
-2279,41065,OR,Wasco County,"3,567",13.8
-2280,41067,OR,Washington County,"46,428",8
-2281,41069,OR,Wheeler County,274,20.6
-2282,41071,OR,Yamhill County,"11,056",11
-2283,42000,PA,Pennsylvania,"1,548,557",12.5
-2284,42001,PA,Adams County,"8,041",8.2
-2285,42003,PA,Allegheny County,"132,929",11.2
-2286,42005,PA,Armstrong County,"8,359",12.9
-2287,42007,PA,Beaver County,"18,164",11.1
-2288,42009,PA,Bedford County,"5,864",12.3
-2289,42011,PA,Berks County,"47,405",11.7
-2290,42013,PA,Blair County,"17,382",14.5
-2291,42015,PA,Bradford County,"7,956",13.3
-2292,42017,PA,Bucks County,"38,058",6.1
-2293,42019,PA,Butler County,"15,242",8.4
-2294,42021,PA,Cambria County,"19,126",15
-2295,42023,PA,Cameron County,683,15.1
-2296,42025,PA,Carbon County,"7,871",12.5
-2297,42027,PA,Centre County,"24,611",17.2
-2298,42029,PA,Chester County,"31,826",6.3
-2299,42031,PA,Clarion County,"5,979",16.1
-2300,42033,PA,Clearfield County,"11,130",15
-2301,42035,PA,Clinton County,"5,954",16.2
-2302,42037,PA,Columbia County,"8,348",13.5
-2303,42039,PA,Crawford County,"12,031",14.6
-2304,42041,PA,Cumberland County,"17,244",7.3
-2305,42043,PA,Dauphin County,"32,684",12.1
-2306,42045,PA,Delaware County,"53,255",9.8
-2307,42047,PA,Elk County,"2,937",9.9
-2308,42049,PA,Erie County,"41,288",15.7
-2309,42051,PA,Fayette County,"22,854",17.9
-2310,42053,PA,Forest County,"1,028",22
-2311,42055,PA,Franklin County,"14,759",9.7
-2312,42057,PA,Fulton County,"1,821",12.6
-2313,42059,PA,Greene County,"4,965",14.7
-2314,42061,PA,Huntingdon County,"6,045",14.9
-2315,42063,PA,Indiana County,"11,763",14.7
-2316,42065,PA,Jefferson County,"6,096",14.2
-2317,42067,PA,Juniata County,"2,940",12.2
-2318,42069,PA,Lackawanna County,"29,008",14.3
-2319,42071,PA,Lancaster County,"52,380",9.9
-2320,42073,PA,Lawrence County,"11,300",13.3
-2321,42075,PA,Lebanon County,"14,717",10.8
-2322,42077,PA,Lehigh County,"44,362",12.4
-2323,42079,PA,Luzerne County,"42,326",13.8
-2324,42081,PA,Lycoming County,"13,968",12.9
-2325,42083,PA,Mc Kean County,"6,614",17.3
-2326,42085,PA,Mercer County,"13,040",12.4
-2327,42087,PA,Mifflin County,"5,810",12.7
-2328,42089,PA,Monroe County,"15,190",9.3
-2329,42091,PA,Montgomery County,"47,041",5.8
-2330,42093,PA,Montour County,"1,739",9.9
-2331,42095,PA,Northampton County,"29,356",10
-2332,42097,PA,Northumberland County,"12,580",14.3
-2333,42099,PA,Perry County,"4,331",9.5
-2334,42101,PA,Philadelphia County,"388,221",25.3
-2335,42103,PA,Pike County,"5,023",9.1
-2336,42105,PA,Potter County,"2,734",16.5
-2337,42107,PA,Schuylkill County,"16,381",12.1
-2338,42109,PA,Snyder County,"4,311",11.3
-2339,42111,PA,Somerset County,"8,795",12.6
-2340,42113,PA,Sullivan County,826,13.9
-2341,42115,PA,Susquehanna County,"5,326",13.1
-2342,42117,PA,Tioga County,"5,936",15.1
-2343,42119,PA,Union County,"4,445",12.2
-2344,42121,PA,Venango County,"7,206",14.2
-2345,42123,PA,Warren County,"5,377",13.9
-2346,42125,PA,Washington County,"18,913",9.4
-2347,42127,PA,Wayne County,"6,117",12.9
-2348,42129,PA,Westmoreland County,"34,404",9.9
-2349,42131,PA,Wyoming County,"3,176",11.9
-2350,42133,PA,York County,"40,966",9.4
-2351,44000,RI,Rhode Island,"125,208",12.3
-2352,44001,RI,Bristol County,"3,543",7.7
-2353,44003,RI,Kent County,"13,853",8.5
-2354,44005,RI,Newport County,"7,164",9
-2355,44007,RI,Providence County,"90,056",14.7
-2356,44009,RI,Washington County,"10,592",8.9
-2357,45000,SC,South Carolina,"750,359",15.4
-2358,45001,SC,Abbeville County,"4,850",20.3
-2359,45003,SC,Aiken County,"24,465",14.8
-2360,45005,SC,Allendale County,"2,892",36.7
-2361,45007,SC,Anderson County,"28,083",14.4
-2362,45009,SC,Bamberg County,"3,631",26.5
-2363,45011,SC,Barnwell County,"5,833",27.7
-2364,45013,SC,Beaufort County,"19,418",10.7
-2365,45015,SC,Berkeley County,"25,085",11.7
-2366,45017,SC,Calhoun County,"2,646",18.2
-2367,45019,SC,Charleston County,"51,780",13.3
-2368,45021,SC,Cherokee County,"11,258",20.2
-2369,45023,SC,Chester County,"6,178",19.3
-2370,45025,SC,Chesterfield County,"9,993",22.1
-2371,45027,SC,Clarendon County,"7,526",23.2
-2372,45029,SC,Colleton County,"8,325",22.4
-2373,45031,SC,Darlington County,"14,391",21.9
-2374,45033,SC,Dillon County,"9,004",29.8
-2375,45035,SC,Dorchester County,"15,362",10
-2376,45037,SC,Edgefield County,"4,146",17.3
-2377,45039,SC,Fairfield County,"4,287",19.3
-2378,45041,SC,Florence County,"25,235",18.6
-2379,45043,SC,Georgetown County,"10,418",17.1
-2380,45045,SC,Greenville County,"61,200",12.4
-2381,45047,SC,Greenwood County,"12,431",18.3
-2382,45049,SC,Hampton County,"4,548",25.1
-2383,45051,SC,Horry County,"52,862",16.1
-2384,45053,SC,Jasper County,"5,348",19.9
-2385,45055,SC,Kershaw County,"9,309",14.4
-2386,45057,SC,Lancaster County,"12,319",13.6
-2387,45059,SC,Laurens County,"14,138",21.9
-2388,45061,SC,Lee County,"4,075",25.8
-2389,45063,SC,Lexington County,"33,761",11.7
-2390,45065,SC,McCormick County,"1,560",18.5
-2391,45067,SC,Marion County,"8,522",27.5
-2392,45069,SC,Marlboro County,"6,717",28
-2393,45071,SC,Newberry County,"7,080",19
-2394,45073,SC,Oconee County,"12,237",16
-2395,45075,SC,Orangeburg County,"20,595",24.4
-2396,45077,SC,Pickens County,"17,775",15.3
-2397,45079,SC,Richland County,"64,234",16.9
-2398,45081,SC,Saluda County,"3,625",18
-2399,45083,SC,Spartanburg County,"41,025",13.7
-2400,45085,SC,Sumter County,"19,818",19.1
-2401,45087,SC,Union County,"4,871",18
-2402,45089,SC,Williamsburg County,"8,050",26.8
-2403,45091,SC,York County,"29,456",11.2
-2404,46000,SD,South Dakota,"107,522",12.8
-2405,46003,SD,Aurora County,289,10.9
-2406,46005,SD,Beadle County,"2,782",15.7
-2407,46007,SD,Bennett County,"1,190",34.9
-2408,46009,SD,Bon Homme County,727,13.1
-2409,46011,SD,Brookings County,"3,998",13
-2410,46013,SD,Brown County,"4,141",10.9
-2411,46015,SD,Brule County,741,14.3
-2412,46017,SD,Buffalo County,860,43.3
-2413,46019,SD,Butte County,"1,366",13.7
-2414,46021,SD,Campbell County,134,9.8
-2415,46023,SD,Charles Mix County,"2,238",24.9
-2416,46025,SD,Clark County,391,11.4
-2417,46027,SD,Clay County,"2,391",20.2
-2418,46029,SD,Codington County,"3,114",11.2
-2419,46031,SD,Corson County,"1,773",42.4
-2420,46033,SD,Custer County,957,11.3
-2421,46035,SD,Davison County,"2,424",12.8
-2422,46037,SD,Day County,842,15.7
-2423,46039,SD,Deuel County,390,9.2
-2424,46041,SD,Dewey County,"2,018",34.9
-2425,46043,SD,Douglas County,338,12.1
-2426,46045,SD,Edmunds County,396,10.7
-2427,46047,SD,Fall River County,910,14
-2428,46049,SD,Faulk County,302,14.2
-2429,46051,SD,Grant County,704,10
-2430,46053,SD,Gregory County,686,16.5
-2431,46055,SD,Haakon County,228,12
-2432,46057,SD,Hamlin County,521,9
-2433,46059,SD,Hand County,339,10.5
-2434,46061,SD,Hanson County,298,9.2
-2435,46063,SD,Harding County,132,10.9
-2436,46065,SD,Hughes County,"1,742",10.3
-2437,46067,SD,Hutchinson County,784,11.5
-2438,46069,SD,Hyde County,130,10.2
-2439,46071,SD,Jackson County,"1,174",36.2
-2440,46073,SD,Jerauld County,247,12.9
-2441,46075,SD,Jones County,128,13.7
-2442,46077,SD,Kingsbury County,494,10.3
-2443,46079,SD,Lake County,"1,222",10.1
-2444,46081,SD,Lawrence County,"3,331",13.6
-2445,46083,SD,Lincoln County,"1,956",3.5
-2446,46085,SD,Lyman County,853,22.2
-2447,46087,SD,McCook County,495,9.4
-2448,46089,SD,McPherson County,349,15.6
-2449,46091,SD,Marshall County,556,12.1
-2450,46093,SD,Meade County,"2,476",9.1
-2451,46095,SD,Mellette County,771,38
-2452,46097,SD,Miner County,259,12
-2453,46099,SD,Minnehaha County,"16,492",9
-2454,46101,SD,Moody County,689,10.7
-2455,46102,SD,Oglala Lakota County,"5,913",41.5
-2456,46103,SD,Pennington County,"13,866",12.9
-2457,46105,SD,Perkins County,374,12.8
-2458,46107,SD,Potter County,202,9.4
-2459,46109,SD,Roberts County,"1,763",17.6
-2460,46111,SD,Sanborn County,317,13.5
-2461,46115,SD,Spink County,629,10.3
-2462,46117,SD,Stanley County,227,7.6
-2463,46119,SD,Sully County,116,8.3
-2464,46121,SD,Todd County,"5,036",50.4
-2465,46123,SD,Tripp County,"1,010",19
-2466,46125,SD,Turner County,829,10.2
-2467,46127,SD,Union County,903,6.1
-2468,46129,SD,Walworth County,661,12.3
-2469,46135,SD,Yankton County,"2,351",11.4
-2470,46137,SD,Ziebach County,"1,557",56.7
-2471,47000,TN,Tennessee,"980,394",15
-2472,47001,TN,Anderson County,"11,482",15.3
-2473,47003,TN,Bedford County,"7,976",16.8
-2474,47005,TN,Benton County,"2,970",18.8
-2475,47007,TN,Bledsoe County,"2,793",23.1
-2476,47009,TN,Blount County,"15,425",12.1
-2477,47011,TN,Bradley County,"17,369",16.9
-2478,47013,TN,Campbell County,"7,495",19.2
-2479,47015,TN,Cannon County,"2,106",15
-2480,47017,TN,Carroll County,"5,187",19.5
-2481,47019,TN,Carter County,"11,454",20.7
-2482,47021,TN,Cheatham County,"4,380",11
-2483,47023,TN,Chester County,"2,694",16.9
-2484,47025,TN,Claiborne County,"6,801",22.5
-2485,47027,TN,Clay County,"1,889",24.8
-2486,47029,TN,Cocke County,"8,085",23
-2487,47031,TN,Coffee County,"8,105",14.9
-2488,47033,TN,Crockett County,"2,525",17.7
-2489,47035,TN,Cumberland County,"8,237",14.1
-2490,47037,TN,Davidson County,"97,343",14.6
-2491,47039,TN,Decatur County,"2,227",19.4
-2492,47041,TN,DeKalb County,"3,342",17.1
-2493,47043,TN,Dickson County,"5,893",11.3
-2494,47045,TN,Dyer County,"6,360",17.3
-2495,47047,TN,Fayette County,"5,517",13.9
-2496,47049,TN,Fentress County,"4,198",23.4
-2497,47051,TN,Franklin County,"5,866",14.9
-2498,47053,TN,Gibson County,"7,906",16.4
-2499,47055,TN,Giles County,"4,345",15.2
-2500,47057,TN,Grainger County,"4,197",18.3
-2501,47059,TN,Greene County,"11,888",17.7
-2502,47061,TN,Grundy County,"3,025",23
-2503,47063,TN,Hamblen County,"10,533",16.7
-2504,47065,TN,Hamilton County,"44,007",12.5
-2505,47067,TN,Hancock County,"1,831",28.4
-2506,47069,TN,Hardeman County,"4,963",23
-2507,47071,TN,Hardin County,"4,753",18.7
-2508,47073,TN,Hawkins County,"9,331",16.7
-2509,47075,TN,Haywood County,"3,573",20.6
-2510,47077,TN,Henderson County,"4,161",15.2
-2511,47079,TN,Henry County,"5,828",18.3
-2512,47081,TN,Hickman County,"3,950",17
-2513,47083,TN,Houston County,"1,258",15.7
-2514,47085,TN,Humphreys County,"2,478",13.6
-2515,47087,TN,Jackson County,"2,062",18
-2516,47089,TN,Jefferson County,"7,304",14.1
-2517,47091,TN,Johnson County,"3,855",24.3
-2518,47093,TN,Knox County,"62,320",13.9
-2519,47095,TN,Lake County,"1,983",39.9
-2520,47097,TN,Lauderdale County,"5,010",20.8
-2521,47099,TN,Lawrence County,"6,684",15.6
-2522,47101,TN,Lewis County,"2,074",17.5
-2523,47103,TN,Lincoln County,"4,356",13
-2524,47105,TN,Loudon County,"6,496",12.6
-2525,47107,TN,McMinn County,"11,621",22.4
-2526,47109,TN,McNairy County,"4,372",17.1
-2527,47111,TN,Macon County,"4,072",17.2
-2528,47113,TN,Madison County,"16,341",17.5
-2529,47115,TN,Marion County,"4,407",15.7
-2530,47117,TN,Marshall County,"3,814",11.7
-2531,47119,TN,Maury County,"9,474",10.4
-2532,47121,TN,Meigs County,"2,070",17.4
-2533,47123,TN,Monroe County,"8,035",17.6
-2534,47125,TN,Montgomery County,"25,124",12.8
-2535,47127,TN,Moore County,619,9.9
-2536,47129,TN,Morgan County,"3,890",20.3
-2537,47131,TN,Obion County,"6,178",20.7
-2538,47133,TN,Overton County,"3,847",17.8
-2539,47135,TN,Perry County,"1,650",21.1
-2540,47137,TN,Pickett County,844,16.9
-2541,47139,TN,Polk County,"2,582",15.7
-2542,47141,TN,Putnam County,"14,277",19
-2543,47143,TN,Rhea County,"5,064",16
-2544,47145,TN,Roane County,"7,955",15.2
-2545,47147,TN,Robertson County,"8,070",11.6
-2546,47149,TN,Rutherford County,"31,372",10.1
-2547,47151,TN,Scott County,"4,932",22.8
-2548,47153,TN,Sequatchie County,"2,416",16.7
-2549,47155,TN,Sevier County,"12,135",12.6
-2550,47157,TN,Shelby County,"173,777",18.9
-2551,47159,TN,Smith County,"2,516",13
-2552,47161,TN,Stewart County,"2,134",16.1
-2553,47163,TN,Sullivan County,"24,258",15.7
-2554,47165,TN,Sumner County,"15,921",8.8
-2555,47167,TN,Tipton County,"8,449",14
-2556,47169,TN,Trousdale County,"1,448",17.5
-2557,47171,TN,Unicoi County,"2,860",16.4
-2558,47173,TN,Union County,"3,645",19
-2559,47175,TN,Van Buren County,986,17.5
-2560,47177,TN,Warren County,"8,628",21.6
-2561,47179,TN,Washington County,"18,442",14.9
-2562,47181,TN,Wayne County,"3,051",21.2
-2563,47183,TN,Weakley County,"7,006",22.1
-2564,47185,TN,White County,"4,219",16
-2565,47187,TN,Williamson County,"8,667",3.9
-2566,47189,TN,Wilson County,"11,336",8.4
-2567,48000,TX,Texas,"4,080,377",14.7
-2568,48001,TX,Anderson County,"8,388",18.8
-2569,48003,TX,Andrews County,"2,293",13
-2570,48005,TX,Angelina County,"16,969",20
-2571,48007,TX,Aransas County,"4,544",18.1
-2572,48009,TX,Archer County,882,10.1
-2573,48011,TX,Armstrong County,193,10.6
-2574,48013,TX,Atascosa County,"8,217",16.9
-2575,48015,TX,Austin County,"3,153",10.7
-2576,48017,TX,Bailey County,"1,191",17.2
-2577,48019,TX,Bandera County,"2,627",11.9
-2578,48021,TX,Bastrop County,"9,462",11.5
-2579,48023,TX,Baylor County,620,17.7
-2580,48025,TX,Bee County,"6,597",26.6
-2581,48027,TX,Bell County,"46,542",13.8
-2582,48029,TX,Bexar County,"299,023",15.6
-2583,48031,TX,Blanco County,"1,224",10.6
-2584,48033,TX,Borden County,74,11
-2585,48035,TX,Bosque County,"2,866",16
-2586,48037,TX,Bowie County,"13,959",15.9
-2587,48039,TX,Brazoria County,"31,735",9
-2588,48041,TX,Brazos County,"49,752",23.9
-2589,48043,TX,Brewster County,"1,298",14
-2590,48045,TX,Briscoe County,233,15.3
-2591,48047,TX,Brooks County,"2,509",35
-2592,48049,TX,Brown County,"6,099",16.8
-2593,48051,TX,Burleson County,"2,946",16.6
-2594,48053,TX,Burnet County,"4,722",10.4
-2595,48055,TX,Caldwell County,"5,892",14.5
-2596,48057,TX,Calhoun County,"3,497",16.3
-2597,48059,TX,Callahan County,"1,936",14
-2598,48061,TX,Cameron County,"116,191",27.7
-2599,48063,TX,Camp County,"2,588",20.3
-2600,48065,TX,Carson County,510,8.5
-2601,48067,TX,Cass County,"5,614",19
-2602,48069,TX,Castro County,"1,337",17.2
-2603,48071,TX,Chambers County,"3,914",9.5
-2604,48073,TX,Cherokee County,"8,467",17.2
-2605,48075,TX,Childress County,"1,133",20.3
-2606,48077,TX,Clay County,"1,218",11.8
-2607,48079,TX,Cochran County,695,24.8
-2608,48081,TX,Coke County,432,13.3
-2609,48083,TX,Coleman County,"2,103",25.2
-2610,48085,TX,Collin County,"56,725",5.9
-2611,48087,TX,Collingsworth County,528,18
-2612,48089,TX,Colorado County,"3,101",14.9
-2613,48091,TX,Comal County,"12,473",8.9
-2614,48093,TX,Comanche County,"2,003",15
-2615,48095,TX,Concho County,412,15.4
-2616,48097,TX,Cooke County,"5,104",13
-2617,48099,TX,Coryell County,"8,556",13.6
-2618,48101,TX,Cottle County,293,21.2
-2619,48103,TX,Crane County,541,11.7
-2620,48105,TX,Crockett County,591,16.8
-2621,48107,TX,Crosby County,"1,300",22.3
-2622,48109,TX,Culberson County,489,22.1
-2623,48111,TX,Dallam County,826,11.5
-2624,48113,TX,Dallas County,"382,477",14.8
-2625,48115,TX,Dawson County,"2,475",21.7
-2626,48117,TX,Deaf Smith County,"3,286",17.7
-2627,48119,TX,Delta County,915,17.5
-2628,48121,TX,Denton County,"58,411",7.1
-2629,48123,TX,DeWitt County,"3,445",18.8
-2630,48125,TX,Dickens County,400,21.2
-2631,48127,TX,Dimmit County,"3,217",31.2
-2632,48129,TX,Donley County,621,19.9
-2633,48131,TX,Duval County,"3,037",28.6
-2634,48133,TX,Eastland County,"2,961",16.8
-2635,48135,TX,Ector County,"20,860",13.5
-2636,48137,TX,Edwards County,439,22.6
-2637,48139,TX,Ellis County,"14,521",8.5
-2638,48141,TX,El Paso County,"172,972",21
-2639,48143,TX,Erath County,"6,016",15.8
-2640,48145,TX,Falls County,"4,280",27.6
-2641,48147,TX,Fannin County,"4,047",12.9
-2642,48149,TX,Fayette County,"2,675",10.8
-2643,48151,TX,Fisher County,569,14.7
-2644,48153,TX,Floyd County,"1,172",20.2
-2645,48155,TX,Foard County,214,18
-2646,48157,TX,Fort Bend County,"60,772",8
-2647,48159,TX,Franklin County,"1,583",14.8
-2648,48161,TX,Freestone County,"2,896",16.1
-2649,48163,TX,Frio County,"4,524",27.9
-2650,48165,TX,Gaines County,"3,087",15
-2651,48167,TX,Galveston County,"39,606",12
-2652,48169,TX,Garza County,"1,114",25.3
-2653,48171,TX,Gillespie County,"2,851",10.9
-2654,48173,TX,Glasscock County,127,9.4
-2655,48175,TX,Goliad County,"1,136",15.2
-2656,48177,TX,Gonzales County,"3,420",16.7
-2657,48179,TX,Gray County,"3,466",17
-2658,48181,TX,Grayson County,"17,242",13.4
-2659,48183,TX,Gregg County,"19,769",16.5
-2660,48185,TX,Grimes County,"4,528",18
-2661,48187,TX,Guadalupe County,"14,624",9.3
-2662,48189,TX,Hale County,"6,234",19.9
-2663,48191,TX,Hall County,725,24
-2664,48193,TX,Hamilton County,"1,322",16.1
-2665,48195,TX,Hansford County,640,11.9
-2666,48197,TX,Hardeman County,714,18
-2667,48199,TX,Hardin County,"7,175",12.7
-2668,48201,TX,Harris County,"733,605",15.9
-2669,48203,TX,Harrison County,"11,315",17.3
-2670,48205,TX,Hartley County,408,8.9
-2671,48207,TX,Haskell County,"1,071",20.6
-2672,48209,TX,Hays County,"25,221",12.2
-2673,48211,TX,Hemphill County,397,10
-2674,48213,TX,Henderson County,"13,666",17.2
-2675,48215,TX,Hidalgo County,"251,593",29.5
-2676,48217,TX,Hill County,"5,229",14.9
-2677,48219,TX,Hockley County,"3,584",16.2
-2678,48221,TX,Hood County,"6,074",10.6
-2679,48223,TX,Hopkins County,"4,950",13.7
-2680,48225,TX,Houston County,"4,533",22.3
-2681,48227,TX,Howard County,"5,409",18.1
-2682,48229,TX,Hudspeth County,789,18.3
-2683,48231,TX,Hunt County,"15,389",16.9
-2684,48233,TX,Hutchinson County,"2,715",12.9
-2685,48235,TX,Irion County,141,9.3
-2686,48237,TX,Jack County,"1,345",17.4
-2687,48239,TX,Jackson County,"2,316",16
-2688,48241,TX,Jasper County,"6,898",20
-2689,48243,TX,Jeff Davis County,281,12.8
-2690,48245,TX,Jefferson County,"44,734",18.6
-2691,48247,TX,Jim Hogg County,"1,413",27.3
-2692,48249,TX,Jim Wells County,"9,579",23.7
-2693,48251,TX,Johnson County,"17,019",10.4
-2694,48253,TX,Jones County,"3,084",20.9
-2695,48255,TX,Karnes County,"2,700",22.1
-2696,48257,TX,Kaufman County,"11,316",9.3
-2697,48259,TX,Kendall County,"3,160",7.3
-2698,48261,TX,Kenedy County,63,15.2
-2699,48263,TX,Kent County,94,13.3
-2700,48265,TX,Kerr County,"6,597",13.3
-2701,48267,TX,Kimble County,812,18.6
-2702,48269,TX,King County,41,13.9
-2703,48271,TX,Kinney County,684,20.1
-2704,48273,TX,Kleberg County,"7,504",25.5
-2705,48275,TX,Knox County,743,20.6
-2706,48277,TX,Lamar County,"7,915",16.2
-2707,48279,TX,Lamb County,"2,601",20
-2708,48281,TX,Lampasas County,"2,742",13.2
-2709,48283,TX,La Salle County,"1,731",29.2
-2710,48285,TX,Lavaca County,"2,365",12.1
-2711,48287,TX,Lee County,"2,124",12.7
-2712,48289,TX,Leon County,"2,759",16.1
-2713,48291,TX,Liberty County,"12,132",15.5
-2714,48293,TX,Limestone County,"4,192",19.1
-2715,48295,TX,Lipscomb County,448,13.4
-2716,48297,TX,Live Oak County,"1,922",17.4
-2717,48299,TX,Llano County,"2,704",12.9
-2718,48301,TX,Loving County,13,9.7
-2719,48303,TX,Lubbock County,"55,533",18.9
-2720,48305,TX,Lynn County,"1,047",18.1
-2721,48307,TX,McCulloch County,"1,515",19.4
-2722,48309,TX,McLennan County,"42,008",17.3
-2723,48311,TX,McMullen County,89,11.6
-2724,48313,TX,Madison County,"2,136",18.3
-2725,48315,TX,Marion County,"2,263",22.8
-2726,48317,TX,Martin County,743,13.3
-2727,48319,TX,Mason County,527,12.5
-2728,48321,TX,Matagorda County,"6,540",18
-2729,48323,TX,Maverick County,"15,411",27
-2730,48325,TX,Medina County,"7,031",14.7
-2731,48327,TX,Menard County,430,20.6
-2732,48329,TX,Midland County,"17,528",10.7
-2733,48331,TX,Milam County,"4,744",19.3
-2734,48333,TX,Mills County,754,15.8
-2735,48335,TX,Mitchell County,"1,400",20.6
-2736,48337,TX,Montague County,"2,952",15.3
-2737,48339,TX,Montgomery County,"50,397",8.9
-2738,48341,TX,Moore County,"2,551",11.7
-2739,48343,TX,Morris County,"2,274",18.4
-2740,48345,TX,Motley County,217,17.7
-2741,48347,TX,Nacogdoches County,"14,453",23.9
-2742,48349,TX,Navarro County,"8,105",16.9
-2743,48351,TX,Newton County,"2,739",20.8
-2744,48353,TX,Nolan County,"2,778",19.3
-2745,48355,TX,Nueces County,"57,008",16.1
-2746,48357,TX,Ochiltree County,"1,233",12.3
-2747,48359,TX,Oldham County,238,12.8
-2748,48361,TX,Orange County,"11,526",13.7
-2749,48363,TX,Palo Pinto County,"4,726",16.8
-2750,48365,TX,Panola County,"3,418",15
-2751,48367,TX,Parker County,"10,515",8
-2752,48369,TX,Parmer County,"1,296",13.3
-2753,48371,TX,Pecos County,"2,792",20.6
-2754,48373,TX,Polk County,"8,060",18
-2755,48375,TX,Potter County,"21,038",18.5
-2756,48377,TX,Presidio County,"1,672",23.4
-2757,48379,TX,Rains County,"1,984",17
-2758,48381,TX,Randall County,"11,635",8.8
-2759,48383,TX,Reagan County,419,11.4
-2760,48385,TX,Real County,608,18.2
-2761,48387,TX,Red River County,"2,345",19.5
-2762,48389,TX,Reeves County,"3,051",25.1
-2763,48391,TX,Refugio County,"1,198",16.9
-2764,48393,TX,Roberts County,65,7
-2765,48395,TX,Robertson County,"2,952",17.4
-2766,48397,TX,Rockwall County,"5,039",5.3
-2767,48399,TX,Runnels County,"1,742",17.3
-2768,48401,TX,Rusk County,"7,293",15.2
-2769,48403,TX,Sabine County,"2,093",20.2
-2770,48405,TX,San Augustine County,"1,735",21.6
-2771,48407,TX,San Jacinto County,"5,094",18.2
-2772,48409,TX,San Patricio County,"12,613",19
-2773,48411,TX,San Saba County,913,17.1
-2774,48413,TX,Schleicher County,485,16.2
-2775,48415,TX,Scurry County,"2,649",17.2
-2776,48417,TX,Shackelford County,469,14.2
-2777,48419,TX,Shelby County,"5,247",20.8
-2778,48421,TX,Sherman County,378,12.5
-2779,48423,TX,Smith County,"34,767",15.6
-2780,48425,TX,Somervell County,901,10.4
-2781,48427,TX,Starr County,"20,344",32
-2782,48429,TX,Stephens County,"1,682",19.5
-2783,48431,TX,Sterling County,153,12.2
-2784,48433,TX,Stonewall County,208,15.3
-2785,48435,TX,Sutton County,535,14.3
-2786,48437,TX,Swisher County,"1,367",19.9
-2787,48439,TX,Tarrant County,"234,362",11.6
-2788,48441,TX,Taylor County,"20,000",15.2
-2789,48443,TX,Terrell County,156,19.3
-2790,48445,TX,Terry County,"2,475",21.5
-2791,48447,TX,Throckmorton County,235,15.4
-2792,48449,TX,Titus County,"5,256",16.3
-2793,48451,TX,Tom Green County,"15,211",13.5
-2794,48453,TX,Travis County,"139,071",11.5
-2795,48455,TX,Trinity County,"3,046",21
-2796,48457,TX,Tyler County,"3,813",19.6
-2797,48459,TX,Upshur County,"6,651",16.4
-2798,48461,TX,Upton County,505,14
-2799,48463,TX,Uvalde County,"5,423",20.5
-2800,48465,TX,Val Verde County,"10,123",21.4
-2801,48467,TX,Van Zandt County,"7,118",13.1
-2802,48469,TX,Victoria County,"14,191",15.7
-2803,48471,TX,Walker County,"12,775",23.1
-2804,48473,TX,Waller County,"7,315",15.5
-2805,48475,TX,Ward County,"1,711",15.1
-2806,48477,TX,Washington County,"4,248",12.9
-2807,48479,TX,Webb County,"74,061",27.3
-2808,48481,TX,Wharton County,"6,627",16
-2809,48483,TX,Wheeler County,769,14.5
-2810,48485,TX,Wichita County,"20,057",16.8
-2811,48487,TX,Wilbarger County,"2,031",16.4
-2812,48489,TX,Willacy County,"6,371",35
-2813,48491,TX,Williamson County,"32,931",6.1
-2814,48493,TX,Wilson County,"4,414",9.1
-2815,48495,TX,Winkler County,"1,095",14.7
-2816,48497,TX,Wise County,"7,211",11.1
-2817,48499,TX,Wood County,"6,470",15.2
-2818,48501,TX,Yoakum County,"1,020",12
-2819,48503,TX,Young County,"2,787",15.8
-2820,48505,TX,Zapata County,"4,282",30
-2821,48507,TX,Zavala County,"3,642",31.6
-2822,49000,UT,Utah,"296,138",9.7
-2823,49001,UT,Beaver County,583,9.2
-2824,49003,UT,Box Elder County,"4,253",7.9
-2825,49005,UT,Cache County,"18,068",15
-2826,49007,UT,Carbon County,"3,016",15.3
-2827,49009,UT,Daggett County,69,6.7
-2828,49011,UT,Davis County,"18,584",5.4
-2829,49013,UT,Duchesne County,"2,625",13.3
-2830,49015,UT,Emery County,"1,324",13.2
-2831,49017,UT,Garfield County,484,9.9
-2832,49019,UT,Grand County,"1,036",10.8
-2833,49021,UT,Iron County,"7,821",15.6
-2834,49023,UT,Juab County,"1,136",10.2
-2835,49025,UT,Kane County,796,10.9
-2836,49027,UT,Millard County,"1,582",12.4
-2837,49029,UT,Morgan County,488,4.1
-2838,49031,UT,Piute County,231,16.7
-2839,49033,UT,Rich County,220,9.2
-2840,49035,UT,Salt Lake County,"103,384",9.2
-2841,49037,UT,San Juan County,"3,895",25.9
-2842,49039,UT,Sanpete County,"3,861",14.2
-2843,49041,UT,Sevier County,"2,601",12.4
-2844,49043,UT,Summit County,"1,988",4.9
-2845,49045,UT,Tooele County,"4,541",6.8
-2846,49047,UT,Uintah County,"4,434",12.7
-2847,49049,UT,Utah County,"62,063",10.5
-2848,49051,UT,Wasatch County,"1,648",5.2
-2849,49053,UT,Washington County,"18,252",11.2
-2850,49055,UT,Wayne County,372,13.7
-2851,49057,UT,Weber County,"26,782",10.8
-2852,50000,VT,Vermont,"65,068",10.8
-2853,50001,VT,Addison County,"2,846",8.3
-2854,50003,VT,Bennington County,"4,201",12.3
-2855,50005,VT,Caledonia County,"4,365",15
-2856,50007,VT,Chittenden County,"16,489",10.8
-2857,50009,VT,Essex County,911,14.6
-2858,50011,VT,Franklin County,"4,308",8.9
-2859,50013,VT,Grand Isle County,571,8.2
-2860,50015,VT,Lamoille County,"2,902",11.8
-2861,50017,VT,Orange County,"2,943",10.4
-2862,50019,VT,Orleans County,"3,962",15.2
-2863,50021,VT,Rutland County,"6,106",10.8
-2864,50023,VT,Washington County,"5,252",9.4
-2865,50025,VT,Windham County,"4,827",11.6
-2866,50027,VT,Windsor County,"5,385",9.9
-2867,51000,VA,Virginia,"876,438",10.7
-2868,51001,VA,Accomack County,"5,715",17.8
-2869,51003,VA,Albemarle County,"8,015",7.9
-2870,51005,VA,Alleghany County,"2,160",14.5
-2871,51007,VA,Amelia County,"1,466",11.4
-2872,51009,VA,Amherst County,"3,855",12.7
-2873,51011,VA,Appomattox County,"1,855",11.9
-2874,51013,VA,Arlington County,"13,284",5.7
-2875,51015,VA,Augusta County,"6,411",8.9
-2876,51017,VA,Bath County,428,10.1
-2877,51019,VA,Bedford County,"6,949",9
-2878,51021,VA,Bland County,772,13.7
-2879,51023,VA,Botetourt County,"2,102",6.4
-2880,51025,VA,Brunswick County,"3,093",21.5
-2881,51027,VA,Buchanan County,"5,734",27.9
-2882,51029,VA,Buckingham County,"2,600",17.5
-2883,51031,VA,Campbell County,"6,157",11.3
-2884,51033,VA,Caroline County,"2,859",9.6
-2885,51035,VA,Carroll County,"4,947",16.8
-2886,51036,VA,Charles City County,835,12
-2887,51037,VA,Charlotte County,"2,073",17.4
-2888,51041,VA,Chesterfield County,"22,626",6.7
-2889,51043,VA,Clarke County,953,6.7
-2890,51045,VA,Craig County,590,11.7
-2891,51047,VA,Culpeper County,"4,900",9.9
-2892,51049,VA,Cumberland County,"1,498",15.3
-2893,51051,VA,Dickenson County,"3,569",25
-2894,51053,VA,Dinwiddie County,"2,781",10.1
-2895,51057,VA,Essex County,"1,482",13.6
-2896,51059,VA,Fairfax County,"75,911",6.7
-2897,51061,VA,Fauquier County,"3,947",5.7
-2898,51063,VA,Floyd County,"1,939",12.4
-2899,51065,VA,Fluvanna County,"1,688",6.7
-2900,51067,VA,Franklin County,"7,338",13.3
-2901,51069,VA,Frederick County,"5,723",6.7
-2902,51071,VA,Giles County,"1,900",11.4
-2903,51073,VA,Gloucester County,"3,598",9.8
-2904,51075,VA,Goochland County,"1,340",6.1
-2905,51077,VA,Grayson County,"2,779",19.1
-2906,51079,VA,Greene County,"1,603",8.3
-2907,51081,VA,Greensville County,"1,970",23.9
-2908,51083,VA,Halifax County,"6,036",17.9
-2909,51085,VA,Hanover County,"5,655",5.4
-2910,51087,VA,Henrico County,"30,836",9.5
-2911,51089,VA,Henry County,"8,183",16.2
-2912,51091,VA,Highland County,275,12.5
-2913,51093,VA,Isle of Wight County,"3,087",8.5
-2914,51095,VA,James City County,"5,049",6.8
-2915,51097,VA,King and Queen County,862,12.3
-2916,51099,VA,King George County,"1,753",6.8
-2917,51101,VA,King William County,"1,135",6.8
-2918,51103,VA,Lancaster County,"1,365",12.9
-2919,51105,VA,Lee County,"6,270",28.2
-2920,51107,VA,Loudoun County,"11,895",3
-2921,51109,VA,Louisa County,"3,851",10.8
-2922,51111,VA,Lunenburg County,"2,299",20.5
-2923,51113,VA,Madison County,"1,488",11.3
-2924,51115,VA,Mathews County,842,9.7
-2925,51117,VA,Mecklenburg County,"5,222",17.5
-2926,51119,VA,Middlesex County,"1,406",13.6
-2927,51121,VA,Montgomery County,"20,468",23
-2928,51125,VA,Nelson County,"1,959",13.2
-2929,51127,VA,New Kent County,"1,165",5.5
-2930,51131,VA,Northampton County,"2,157",18.6
-2931,51133,VA,Northumberland County,"1,761",14.4
-2932,51135,VA,Nottoway County,"2,914",22.1
-2933,51137,VA,Orange County,"3,231",9.1
-2934,51139,VA,Page County,"3,618",15.4
-2935,51141,VA,Patrick County,"2,518",14.5
-2936,51143,VA,Pittsylvania County,"7,601",12.6
-2937,51145,VA,Powhatan County,"1,488",5.4
-2938,51147,VA,Prince Edward County,"4,392",23.4
-2939,51149,VA,Prince George County,"3,590",10.7
-2940,51153,VA,Prince William County,"28,074",6.1
-2941,51155,VA,Pulaski County,"4,882",14.8
-2942,51157,VA,Rappahannock County,651,8.9
-2943,51159,VA,Richmond County,"1,343",18.4
-2944,51161,VA,Roanoke County,"6,681",7.3
-2945,51163,VA,Rockbridge County,"2,787",12.6
-2946,51165,VA,Rockingham County,"6,611",8.4
-2947,51167,VA,Russell County,"5,396",20.2
-2948,51169,VA,Scott County,"3,689",17.6
-2949,51171,VA,Shenandoah County,"4,047",9.5
-2950,51173,VA,Smyth County,"5,305",17.7
-2951,51175,VA,Southampton County,"2,375",14.7
-2952,51177,VA,Spotsylvania County,"9,160",6.9
-2953,51179,VA,Stafford County,"6,522",4.6
-2954,51181,VA,Surry County,833,12.8
-2955,51183,VA,Sussex County,"1,967",22.4
-2956,51185,VA,Tazewell County,"7,163",18.1
-2957,51187,VA,Warren County,"3,583",9.3
-2958,51191,VA,Washington County,"7,308",13.9
-2959,51193,VA,Westmoreland County,"2,742",15.5
-2960,51195,VA,Wise County,"8,285",23.3
-2961,51197,VA,Wythe County,"3,959",13.8
-2962,51199,VA,York County,"3,321",5
-2963,51510,VA,Alexandria city,"15,922",10.1
-2964,51520,VA,Bristol city,"3,206",19.3
-2965,51530,VA,Buena Vista city,826,14
-2966,51540,VA,Charlottesville city,"9,333",20.3
-2967,51550,VA,Chesapeake city,"21,928",9.3
-2968,51570,VA,Colonial Heights city,"1,718",9.8
-2969,51580,VA,Covington city,861,15.9
-2970,51590,VA,Danville city,"9,679",24.4
-2971,51595,VA,Emporia city,"1,180",23.4
-2972,51600,VA,Fairfax city,"1,827",7.7
-2973,51610,VA,Falls Church city,498,3.4
-2974,51620,VA,Franklin city,"1,674",20.8
-2975,51630,VA,Fredericksburg city,"3,627",14.1
-2976,51640,VA,Galax city,"1,363",21.5
-2977,51650,VA,Hampton city,"20,069",15.5
-2978,51660,VA,Harrisonburg city,"10,837",23.3
-2979,51670,VA,Hopewell city,"4,434",19.9
-2980,51678,VA,Lexington city,"1,069",24.5
-2981,51680,VA,Lynchburg city,"13,132",18.8
-2982,51683,VA,Manassas city,"3,595",8.7
-2983,51685,VA,Manassas Park city,"1,169",7.1
-2984,51690,VA,Martinsville city,"2,879",22.5
-2985,51700,VA,Newport News city,"29,521",17.2
-2986,51710,VA,Norfolk city,"44,181",20.9
-2987,51720,VA,Norton city,863,22.3
-2988,51730,VA,Petersburg city,"6,804",21.8
-2989,51735,VA,Poquoson city,600,5
-2990,51740,VA,Portsmouth city,"16,935",18.5
-2991,51750,VA,Radford city,"4,213",28.6
-2992,51760,VA,Richmond city,"51,609",24
-2993,51770,VA,Roanoke city,"18,940",19.3
-2994,51775,VA,Salem city,"2,567",10.8
-2995,51790,VA,Staunton city,"3,072",13.1
-2996,51800,VA,Suffolk city,"10,067",11.3
-2997,51810,VA,Virginia Beach city,"36,669",8.3
-2998,51820,VA,Waynesboro city,"3,282",14.9
-2999,51830,VA,Williamsburg city,"2,396",22.5
-3000,51840,VA,Winchester city,"3,395",12.6
-3001,53000,WA,Washington,"799,675",11
-3002,53001,WA,Adams County,"3,040",15.8
-3003,53003,WA,Asotin County,"2,867",12.9
-3004,53005,WA,Benton County,"23,587",12
-3005,53007,WA,Chelan County,"10,059",13.3
-3006,53009,WA,Clallam County,"12,090",16.4
-3007,53011,WA,Clark County,"48,088",10.2
-3008,53013,WA,Columbia County,537,13.5
-3009,53015,WA,Cowlitz County,"17,302",16.4
-3010,53017,WA,Douglas County,"5,578",13.4
-3011,53019,WA,Ferry County,"1,297",17.3
-3012,53021,WA,Franklin County,"11,904",13.4
-3013,53023,WA,Garfield County,305,14
-3014,53025,WA,Grant County,"13,838",14.7
-3015,53027,WA,Grays Harbor County,"12,780",18.3
-3016,53029,WA,Island County,"7,467",9.2
-3017,53031,WA,Jefferson County,"3,886",12.7
-3018,53033,WA,King County,"200,415",9.3
-3019,53035,WA,Kitsap County,"21,357",8.3
-3020,53037,WA,Kittitas County,"6,185",14.2
-3021,53039,WA,Klickitat County,"3,139",14.5
-3022,53041,WA,Lewis County,"11,610",15
-3023,53043,WA,Lincoln County,"1,322",12.6
-3024,53045,WA,Mason County,"8,825",14.5
-3025,53047,WA,Okanogan County,"8,415",20.4
-3026,53049,WA,Pacific County,"3,612",16.9
-3027,53051,WA,Pend Oreille County,"2,153",16.3
-3028,53053,WA,Pierce County,"87,596",10.2
-3029,53055,WA,San Juan County,"1,697",10.3
-3030,53057,WA,Skagit County,"14,061",11.3
-3031,53059,WA,Skamania County,"1,410",12
-3032,53061,WA,Snohomish County,"58,157",7.3
-3033,53063,WA,Spokane County,"69,334",14.1
-3034,53065,WA,Stevens County,"6,589",14.8
-3035,53067,WA,Thurston County,"29,034",10.5
-3036,53069,WA,Wahkiakum County,518,12.3
-3037,53071,WA,Walla Walla County,"7,607",13.6
-3038,53073,WA,Whatcom County,"28,131",13
-3039,53075,WA,Whitman County,"9,161",21.4
-3040,53077,WA,Yakima County,"44,726",18.1
-3041,54000,WV,West Virginia,"326,502",18.5
-3042,54001,WV,Barbour County,"3,278",21.2
-3043,54003,WV,Berkeley County,"13,394",11.8
-3044,54005,WV,Boone County,"4,741",21.4
-3045,54007,WV,Braxton County,"3,114",22.5
-3046,54009,WV,Brooke County,"2,864",13.2
-3047,54011,WV,Cabell County,"23,726",26.1
-3048,54013,WV,Calhoun County,"1,794",24.8
-3049,54015,WV,Clay County,"2,360",27.3
-3050,54017,WV,Doddridge County,"1,525",20.1
-3051,54019,WV,Fayette County,"9,268",22.3
-3052,54021,WV,Gilmer County,"1,632",26.6
-3053,54023,WV,Grant County,"1,664",14.5
-3054,54025,WV,Greenbrier County,"6,381",18.5
-3055,54027,WV,Hampshire County,"3,891",16.9
-3056,54029,WV,Hancock County,"4,337",14.9
-3057,54031,WV,Hardy County,"1,951",14.4
-3058,54033,WV,Harrison County,"11,220",16.8
-3059,54035,WV,Jackson County,"4,867",17
-3060,54037,WV,Jefferson County,"5,751",10.4
-3061,54039,WV,Kanawha County,"32,592",18.1
-3062,54041,WV,Lewis County,"2,922",18.4
-3063,54043,WV,Lincoln County,"5,304",25.7
-3064,54045,WV,Logan County,"9,401",29.2
-3065,54047,WV,McDowell County,"5,793",31.7
-3066,54049,WV,Marion County,"8,882",16.2
-3067,54051,WV,Marshall County,"5,823",19.1
-3068,54053,WV,Mason County,"5,258",20.2
-3069,54055,WV,Mercer County,"12,298",21
-3070,54057,WV,Mineral County,"3,590",13.6
-3071,54059,WV,Mingo County,"7,423",31
-3072,54061,WV,Monongalia County,"16,945",17.3
-3073,54063,WV,Monroe County,"2,193",16.5
-3074,54065,WV,Morgan County,"2,277",13
-3075,54067,WV,Nicholas County,"4,978",20.1
-3076,54069,WV,Ohio County,"5,072",12.7
-3077,54071,WV,Pendleton County,"1,054",15.3
-3078,54073,WV,Pleasants County,889,13.1
-3079,54075,WV,Pocahontas County,"1,526",18.9
-3080,54077,WV,Preston County,"5,496",17.5
-3081,54079,WV,Putnam County,"5,854",10.4
-3082,54081,WV,Raleigh County,"14,153",19.9
-3083,54083,WV,Randolph County,"5,172",19.6
-3084,54085,WV,Ritchie County,"1,772",18.5
-3085,54087,WV,Roane County,"2,938",21.2
-3086,54089,WV,Summers County,"3,429",28.8
-3087,54091,WV,Taylor County,"2,620",16
-3088,55093,WV,Tucker County,"1,088",16.2
-3089,55095,WV,Tyler County,"1,389",16
-3090,55097,WV,Upshur County,"5,252",22.7
-3091,55099,WV,Wayne County,"8,125",20.4
-3092,55101,WV,Webster County,"2,321",28.1
-3093,55103,WV,Wetzel County,"3,137",20.6
-3094,55105,WV,Wirt County,"1,105",19.2
-3095,55107,WV,Wood County,"15,268",18.2
-3096,55109,WV,Wyoming County,"5,402",25.7
-3097,55000,WI,Wisconsin,"640,174",11.3
-3098,55001,WI,Adams County,"2,785",14.8
-3099,55003,WI,Ashland County,"2,238",15.1
-3100,55005,WI,Barron County,"5,822",13.1
-3101,55007,WI,Bayfield County,"1,826",12.3
-3102,55009,WI,Brown County,"24,743",9.7
-3103,55011,WI,Buffalo County,"1,228",9.4
-3104,55013,WI,Burnett County,"1,928",12.7
-3105,55015,WI,Calumet County,"2,706",5.4
-3106,55017,WI,Chippewa County,"6,158",10.1
-3107,55019,WI,Clark County,"4,013",11.8
-3108,55021,WI,Columbia County,"4,241",7.6
-3109,55023,WI,Crawford County,"1,908",12.4
-3110,55025,WI,Dane County,"59,174",11.3
-3111,55027,WI,Dodge County,"7,001",8.6
-3112,55029,WI,Door County,"2,092",7.7
-3113,55031,WI,Douglas County,"4,859",11.6
-3114,55033,WI,Dunn County,"4,789",11.6
-3115,55035,WI,Eau Claire County,"14,304",14.5
-3116,55037,WI,Florence County,520,12.1
-3117,55039,WI,Fond du Lac County,"8,544",8.6
-3118,55041,WI,Forest County,"1,321",15.1
-3119,55043,WI,Grant County,"6,385",13.6
-3120,55045,WI,Green County,"2,932",8
-3121,55047,WI,Green Lake County,"1,858",10
-3122,55049,WI,Iowa County,"2,052",8.7
-3123,55051,WI,Iron County,841,15.1
-3124,55053,WI,Jackson County,"2,552",13.3
-3125,55055,WI,Jefferson County,"7,012",8.5
-3126,55057,WI,Juneau County,"3,700",14.8
-3127,55059,WI,Kenosha County,"18,729",11.4
-3128,55061,WI,Kewaunee County,"1,614",8
-3129,55063,WI,La Crosse County,"13,535",12
-3130,55065,WI,Lafayette County,"1,801",10.9
-3131,55067,WI,Langlade County,"2,624",14
-3132,55069,WI,Lincoln County,"2,791",10.3
-3133,55071,WI,Manitowoc County,"7,178",9.2
-3134,55073,WI,Marathon County,"13,353",10
-3135,55075,WI,Marinette County,"5,255",13.3
-3136,55077,WI,Marquette County,"1,941",12.8
-3137,55078,WI,Menominee County,"1,256",27.6
-3138,55079,WI,Milwaukee County,"177,959",19.1
-3139,55081,WI,Monroe County,"5,093",11.4
-3140,55083,WI,Oconto County,"3,339",9
-3141,55085,WI,Oneida County,"3,262",9.4
-3142,55087,WI,Outagamie County,"13,045",7.1
-3143,55089,WI,Ozaukee County,"4,244",4.9
-3144,55091,WI,Pepin County,761,10.7
-3145,55093,WI,Pierce County,"3,093",7.8
-3146,55095,WI,Polk County,"3,970",9.3
-3147,55097,WI,Portage County,"7,973",11.9
-3148,55099,WI,Price County,"1,493",11.3
-3149,55101,WI,Racine County,"20,857",10.9
-3150,55103,WI,Richland County,"2,242",13.1
-3151,55105,WI,Rock County,"19,338",12.1
-3152,55107,WI,Rusk County,"2,053",14.7
-3153,55109,WI,St. Croix County,"3,944",4.5
-3154,55111,WI,Sauk County,"6,266",9.9
-3155,55113,WI,Sawyer County,"2,731",17
-3156,55115,WI,Shawano County,"4,664",11.6
-3157,55117,WI,Sheboygan County,"8,789",7.8
-3158,55119,WI,Taylor County,"2,083",10.4
-3159,55121,WI,Trempealeau County,"2,532",8.8
-3160,55123,WI,Vernon County,"5,157",17
-3161,55125,WI,Vilas County,"2,979",13.9
-3162,55127,WI,Walworth County,"10,618",10.6
-3163,55129,WI,Washburn County,"1,993",12.8
-3164,55131,WI,Washington County,"7,124",5.3
-3165,55133,WI,Waukesha County,"19,090",4.8
-3166,55135,WI,Waupaca County,"5,269",10.6
-3167,55137,WI,Waushara County,"2,819",12.2
-3168,55139,WI,Winnebago County,"18,076",11.1
-3169,55141,WI,Wood County,"7,704",10.7
-3170,56000,WY,Wyoming,"61,319",10.8
-3171,56001,WY,Albany County,"7,075",19.5
-3172,56003,WY,Big Horn County,"1,433",12.2
-3173,56005,WY,Campbell County,"4,271",9.4
-3174,56007,WY,Carbon County,"1,723",11.9
-3175,56009,WY,Converse County,"1,260",9.2
-3176,56011,WY,Crook County,565,7.7
-3177,56013,WY,Fremont County,"6,291",16.2
-3178,56015,WY,Goshen County,"1,572",12.9
-3179,56017,WY,Hot Springs County,556,12.1
-3180,56019,WY,Johnson County,792,9.5
-3181,56021,WY,Laramie County,"9,294",9.7
-3182,56023,WY,Lincoln County,"1,464",7.6
-3183,56025,WY,Natrona County,"8,631",11.1
-3184,56027,WY,Niobrara County,290,13.4
-3185,56029,WY,Park County,"2,694",9.4
-3186,56031,WY,Platte County,881,10.4
-3187,56033,WY,Sheridan County,"2,673",9.1
-3188,56035,WY,Sublette County,643,6.6
-3189,56037,WY,Sweetwater County,"4,253",10
-3190,56039,WY,Teton County,"1,348",5.8
-3191,56041,WY,Uinta County,"2,067",10.2
-3192,56043,WY,Washakie County,845,10.7
-3193,56045,WY,Weston County,699,10.6
+﻿county_FIPS,pov_estimate
+1000,"802,263"
+1001,"7,390"
+1003,"21,199"
+1005,"7,414"
+1007,"4,137"
+1009,"7,343"
+1011,"2,956"
+1013,"4,154"
+1015,"19,832"
+1017,"6,036"
+1019,"4,381"
+1021,"7,303"
+1023,"3,031"
+1025,"5,541"
+1027,"2,363"
+1029,"2,365"
+1031,"7,954"
+1033,"8,324"
+1035,"2,939"
+1037,"1,823"
+1039,"6,447"
+1041,"2,722"
+1043,"11,256"
+1045,"8,528"
+1047,"10,796"
+1049,"13,785"
+1051,"9,151"
+1053,"7,971"
+1055,"18,257"
+1057,"3,146"
+1059,"6,394"
+1061,"5,659"
+1063,"2,752"
+1065,"3,654"
+1067,"2,882"
+1069,"17,095"
+1071,"8,539"
+1073,"107,752"
+1075,"2,570"
+1077,"12,395"
+1079,"5,494"
+1081,"27,901"
+1083,"10,830"
+1085,"2,585"
+1087,"5,213"
+1089,"44,979"
+1091,"4,356"
+1093,"5,582"
+1095,"18,873"
+1097,"80,116"
+1099,"5,018"
+1101,"46,315"
+1103,"17,301"
+1105,"3,180"
+1107,"4,093"
+1109,"8,611"
+1111,"3,771"
+1113,"13,078"
+1115,"11,644"
+1117,"15,585"
+1119,"4,238"
+1121,"14,062"
+1123,"7,311"
+1125,"31,238"
+1127,"10,975"
+1129,"3,303"
+1131,"3,392"
+1133,"4,980"
+2000,"79,428"
+2013,491
+2016,451
+2020,"27,663"
+2050,"5,077"
+2060,92
+2068,158
+2070,"1,015"
+2090,"7,051"
+2100,288
+2105,376
+2110,"2,596"
+2122,"5,840"
+2130,"1,341"
+2150,991
+2158,"3,050"
+2164,253
+2170,"11,768"
+2180,"2,248"
+2185,"1,182"
+2188,"1,974"
+2195,240
+2198,"1,183"
+2220,694
+2230,50
+2240,872
+2261,845
+2275,310
+2282,92
+2290,"1,237"
+4000,"1,023,337"
+4001,"23,426"
+4003,"19,219"
+4005,"23,946"
+4007,"12,661"
+4009,"7,213"
+4011,948
+4012,"4,263"
+4013,"570,402"
+4015,"34,891"
+4017,"28,216"
+4019,"165,811"
+4021,"52,566"
+4023,"10,858"
+4025,"31,166"
+4027,"37,751"
+5000,"475,883"
+5001,"3,515"
+5003,"3,980"
+5005,"5,650"
+5007,"24,110"
+5009,"5,495"
+5011,"2,237"
+5013,772
+5015,"4,523"
+5017,"2,974"
+5019,"4,142"
+5021,"2,673"
+5023,"3,852"
+5025,"1,167"
+5027,"5,512"
+5029,"3,543"
+5031,"15,354"
+5033,"10,896"
+5035,"10,070"
+5037,"3,047"
+5039,"1,464"
+5041,"3,388"
+5043,"3,553"
+5045,"15,941"
+5047,"3,165"
+5049,"2,442"
+5051,"15,384"
+5053,"2,185"
+5055,"6,559"
+5057,"5,208"
+5059,"5,225"
+5061,"2,535"
+5063,"5,799"
+5065,"2,444"
+5067,"3,292"
+5069,"14,957"
+5071,"4,758"
+5073,"1,622"
+5075,"2,682"
+5077,"2,760"
+5079,"2,302"
+5081,"2,076"
+5083,"4,340"
+5085,"8,011"
+5087,"2,755"
+5089,"2,965"
+5091,"8,005"
+5093,"10,018"
+5095,"1,906"
+5097,"1,856"
+5099,"1,594"
+5101,"1,534"
+5103,"4,665"
+5105,"1,549"
+5107,"7,288"
+5109,"1,940"
+5111,"5,000"
+5113,"4,645"
+5115,"10,036"
+5117,"1,306"
+5119,"57,780"
+5121,"3,331"
+5123,"7,357"
+5125,"9,335"
+5127,"2,123"
+5129,"1,695"
+5131,"23,469"
+5133,"3,286"
+5135,"4,098"
+5137,"2,617"
+5139,"6,801"
+5141,"3,214"
+5143,"30,938"
+5145,"11,477"
+5147,"1,726"
+5149,"3,969"
+6000,"5,164,169"
+6001,"152,087"
+6003,202
+6005,"3,762"
+6007,"40,728"
+6009,"5,904"
+6011,"2,633"
+6013,"103,883"
+6015,"6,113"
+6017,"15,620"
+6019,"205,046"
+6021,"4,111"
+6023,"26,262"
+6025,"35,830"
+6027,"2,087"
+6029,"182,948"
+6031,"24,810"
+6033,"12,817"
+6035,"3,790"
+6037,"1,490,853"
+6039,"31,569"
+6041,"20,222"
+6043,"2,641"
+6045,"14,156"
+6047,"61,297"
+6049,"1,658"
+6051,"1,313"
+6053,"49,860"
+6055,"9,301"
+6057,"10,889"
+6059,"362,109"
+6061,"29,873"
+6063,"2,640"
+6065,"309,235"
+6067,"213,232"
+6069,"5,029"
+6071,"339,748"
+6073,"385,479"
+6075,"87,314"
+6077,"113,375"
+6079,"31,826"
+6081,"48,795"
+6083,"60,921"
+6085,"142,603"
+6087,"33,262"
+6089,"30,155"
+6091,404
+6093,"7,679"
+6095,"43,352"
+6097,"46,165"
+6099,"75,614"
+6101,"12,628"
+6103,"12,718"
+6105,"2,529"
+6107,"110,299"
+6109,"6,205"
+6111,"80,217"
+6113,"36,761"
+6115,"11,609"
+8000,"566,118"
+8001,"52,536"
+8003,"3,251"
+8005,"49,795"
+8007,"1,549"
+8009,684
+8011,"1,285"
+8013,"39,084"
+8014,"3,092"
+8015,"2,073"
+8017,244
+8019,735
+8021,"1,727"
+8023,"1,028"
+8025,"1,400"
+8027,621
+8029,"4,982"
+8031,"86,353"
+8033,263
+8035,"10,574"
+8037,"4,079"
+8039,"1,257"
+8041,"73,008"
+8043,"6,467"
+8045,"4,429"
+8047,413
+8049,"1,332"
+8051,"2,349"
+8053,67
+8055,"1,352"
+8057,189
+8059,"42,729"
+8061,190
+8063,823
+8065,933
+8067,"4,961"
+8069,"36,954"
+8071,"3,180"
+8073,806
+8075,"2,932"
+8077,"21,957"
+8079,65
+8081,"1,428"
+8083,"3,944"
+8085,"5,312"
+8087,"3,127"
+8089,"4,197"
+8091,368
+8093,"1,526"
+8095,460
+8097,"1,048"
+8099,"2,128"
+8101,"29,408"
+8103,579
+8105,"2,041"
+8107,"1,709"
+8109,"1,608"
+8111,97
+8113,614
+8115,358
+8117,"2,209"
+8119,"2,151"
+8121,613
+8123,"28,171"
+8125,"1,276"
+9000,"338,651"
+9001,"82,428"
+9003,"96,200"
+9005,"12,481"
+9007,"10,796"
+9009,"91,639"
+9011,"22,246"
+9013,"10,043"
+9015,"12,818"
+10000,"121,592"
+10001,"22,671"
+10003,"72,551"
+10005,"26,370"
+11000,"109,502"
+11001,"109,502"
+12000,"2,901,876"
+12001,"53,816"
+12003,"3,900"
+12005,"26,663"
+12007,"4,533"
+12009,"72,303"
+12011,"252,288"
+12013,"2,650"
+12015,"19,300"
+12017,"20,654"
+12019,"20,889"
+12021,"43,075"
+12023,"10,720"
+12027,"8,766"
+12029,"3,627"
+12031,"138,069"
+12033,"48,602"
+12035,"13,137"
+12037,"2,141"
+12039,"9,994"
+12041,"2,675"
+12043,"2,312"
+12045,"2,810"
+12047,"2,791"
+12049,"6,026"
+12051,"9,525"
+12053,"25,773"
+12055,"20,051"
+12057,"214,442"
+12059,"3,756"
+12061,"16,249"
+12063,"7,264"
+12065,"2,276"
+12067,"1,579"
+12069,"43,020"
+12071,"85,844"
+12073,"50,010"
+12075,"8,329"
+12077,"1,449"
+12079,"4,633"
+12081,"41,057"
+12083,"55,880"
+12085,"17,002"
+12086,"452,649"
+12087,"8,963"
+12089,"7,484"
+12091,"21,667"
+12093,"8,415"
+12095,"201,528"
+12097,"48,892"
+12099,"170,868"
+12101,"67,635"
+12103,"115,990"
+12105,"107,844"
+12107,"18,954"
+12109,"20,118"
+12111,"39,839"
+12113,"17,183"
+12115,"38,065"
+12117,"51,321"
+12119,"10,672"
+12121,"8,299"
+12123,"4,556"
+12125,"2,291"
+12127,"79,877"
+12129,"3,746"
+12131,"10,493"
+12133,"4,646"
+13000,"1,536,069"
+13001,"4,003"
+13003,"2,006"
+13005,"3,089"
+13007,783
+13009,"9,944"
+13011,"2,511"
+13013,"9,401"
+13015,"13,667"
+13017,"4,082"
+13019,"3,515"
+13021,"36,728"
+13023,"2,334"
+13025,"3,520"
+13027,"3,665"
+13029,"3,828"
+13031,"17,369"
+13033,"5,121"
+13035,"3,889"
+13037,"1,662"
+13039,"6,375"
+13043,"2,590"
+13045,"19,466"
+13047,"7,905"
+13049,"2,670"
+13051,"45,057"
+13053,"1,525"
+13055,"4,732"
+13057,"18,338"
+13059,"31,067"
+13061,960
+13063,"45,572"
+13065,"1,827"
+13067,"71,120"
+13069,"9,921"
+13071,"11,508"
+13073,"9,942"
+13075,"3,637"
+13077,"14,806"
+13079,"2,138"
+13081,"6,605"
+13083,"2,328"
+13085,"2,258"
+13087,"5,607"
+13089,"112,844"
+13091,"4,141"
+13093,"3,283"
+13095,"24,373"
+13097,"16,770"
+13099,"2,707"
+13101,"1,038"
+13103,"5,772"
+13105,"4,312"
+13107,"5,890"
+13109,"2,899"
+13111,"3,409"
+13113,"6,424"
+13115,"17,913"
+13117,"11,978"
+13119,"4,127"
+13121,"149,652"
+13123,"4,376"
+13125,515
+13127,"14,304"
+13129,"7,877"
+13131,"4,986"
+13133,"2,904"
+13135,"97,757"
+13137,"5,585"
+13139,"25,982"
+13141,"2,190"
+13143,"4,393"
+13145,"2,774"
+13147,"4,725"
+13149,"2,187"
+13151,"22,065"
+13153,"19,675"
+13155,"1,836"
+13157,"7,670"
+13159,"2,426"
+13161,"3,147"
+13163,"3,643"
+13165,"2,474"
+13167,"2,333"
+13169,"3,641"
+13171,"2,881"
+13173,"2,085"
+13175,"10,457"
+13177,"3,121"
+13179,"9,989"
+13181,"1,409"
+13183,"3,550"
+13185,"27,533"
+13187,"4,156"
+13189,"4,489"
+13191,"2,734"
+13193,"3,371"
+13195,"4,602"
+13197,"1,999"
+13199,"4,139"
+13201,"1,356"
+13205,"5,488"
+13207,"3,446"
+13209,"1,707"
+13211,"2,196"
+13213,"6,765"
+13215,"42,476"
+13217,"14,236"
+13219,"2,477"
+13221,"1,965"
+13223,"13,225"
+13225,"5,091"
+13227,"3,364"
+13229,"3,711"
+13231,"1,920"
+13233,"7,828"
+13235,"2,244"
+13237,"3,698"
+13239,613
+13241,"2,899"
+13243,"2,232"
+13245,"45,089"
+13247,"12,585"
+13249,938
+13251,"2,765"
+13253,"2,385"
+13255,"12,754"
+13257,"4,713"
+13259,"1,601"
+13261,"7,169"
+13263,"1,382"
+13265,430
+13267,"5,677"
+13269,"1,904"
+13271,"4,366"
+13273,"2,789"
+13275,"7,862"
+13277,"8,468"
+13279,"5,934"
+13281,"1,439"
+13283,"1,760"
+13285,"14,566"
+13287,"2,104"
+13289,"1,794"
+13291,"3,550"
+13293,"5,262"
+13295,"10,520"
+13297,"11,157"
+13299,"7,354"
+13301,"1,457"
+13303,"4,966"
+13305,"5,627"
+13307,520
+13309,"2,010"
+13311,"3,826"
+13313,"17,059"
+13315,"2,097"
+13317,"2,216"
+13319,"2,074"
+13321,"4,383"
+15000,"132,201"
+15001,"29,604"
+15003,"79,084"
+15005,.
+15007,"7,172"
+15009,"16,342"
+16000,"211,937"
+16001,"47,955"
+16003,597
+16005,"11,846"
+16007,698
+16009,"1,297"
+16011,"5,670"
+16013,"1,860"
+16015,875
+16017,"5,920"
+16019,"11,982"
+16021,"1,834"
+16023,437
+16025,101
+16027,"33,022"
+16029,630
+16031,"2,954"
+16033,127
+16035,"1,242"
+16037,609
+16039,"3,384"
+16041,"1,103"
+16043,"1,661"
+16045,"2,315"
+16047,"2,247"
+16049,"2,400"
+16051,"2,603"
+16053,"3,222"
+16055,"16,542"
+16057,"6,030"
+16059,"1,257"
+16061,557
+16063,675
+16065,"7,360"
+16067,"2,917"
+16069,"4,727"
+16071,483
+16073,"1,821"
+16075,"2,992"
+16077,"1,099"
+16079,"2,143"
+16081,939
+16083,"11,332"
+16085,901
+16087,"1,571"
+17000,"1,568,670"
+17001,"8,608"
+17003,"1,889"
+17005,"1,993"
+17007,"4,676"
+17009,685
+17011,"3,506"
+17013,499
+17015,"1,647"
+17017,"1,635"
+17019,"37,106"
+17021,"4,270"
+17023,"1,697"
+17025,"1,721"
+17027,"2,910"
+17029,"9,377"
+17031,"746,194"
+17033,"2,404"
+17035,"1,102"
+17037,"13,876"
+17039,"1,823"
+17041,"1,907"
+17043,"56,794"
+17045,"2,344"
+17047,697
+17049,"3,256"
+17051,"3,604"
+17053,"1,482"
+17055,"7,468"
+17057,"4,890"
+17059,955
+17061,"1,895"
+17063,"3,543"
+17065,"1,046"
+17067,"2,079"
+17069,850
+17071,753
+17073,"5,318"
+17075,"3,538"
+17077,"15,952"
+17079,"1,128"
+17081,"6,247"
+17083,"2,164"
+17085,"1,980"
+17087,"1,660"
+17089,"48,756"
+17091,"15,750"
+17093,"5,993"
+17095,"7,485"
+17097,"52,630"
+17099,"15,216"
+17101,"2,341"
+17103,"3,589"
+17105,"4,330"
+17107,"3,032"
+17109,"5,008"
+17111,"18,686"
+17113,"25,273"
+17115,"14,566"
+17117,"6,152"
+17119,"37,768"
+17121,"5,952"
+17123,"1,109"
+17125,"1,842"
+17127,"2,159"
+17129,"1,054"
+17131,"1,636"
+17133,"1,644"
+17135,"4,075"
+17137,"4,197"
+17139,"1,288"
+17141,"4,866"
+17143,"27,364"
+17145,"2,932"
+17147,"1,025"
+17149,"2,403"
+17151,760
+17153,"1,260"
+17155,455
+17157,"4,402"
+17159,"2,385"
+17161,"18,069"
+17163,"41,174"
+17165,"4,332"
+17167,"29,676"
+17169,817
+17171,602
+17173,"2,214"
+17175,593
+17177,"7,389"
+17179,"11,896"
+17181,"3,183"
+17183,"14,553"
+17185,"1,572"
+17187,"1,881"
+17189,"1,111"
+17191,"2,300"
+17193,"2,072"
+17195,"7,110"
+17197,"47,639"
+17199,"9,993"
+17201,"39,766"
+17203,"2,179"
+18000,"860,753"
+18001,"5,397"
+18003,"47,818"
+18005,"8,555"
+18007,952
+18009,"1,679"
+18011,"3,707"
+18013,"1,614"
+18015,"1,910"
+18017,"5,129"
+18019,"12,285"
+18021,"2,891"
+18023,"4,185"
+18025,"1,697"
+18027,"4,340"
+18029,"4,752"
+18031,"2,905"
+18033,"4,365"
+18035,"22,020"
+18037,"3,445"
+18039,"21,670"
+18041,"3,517"
+18043,"7,971"
+18045,"2,091"
+18047,"2,111"
+18049,"2,399"
+18051,"3,399"
+18053,"11,312"
+18055,"3,696"
+18057,"12,284"
+18059,"4,075"
+18061,"3,699"
+18063,"8,120"
+18065,"5,739"
+18067,"11,727"
+18069,"3,570"
+18071,"5,467"
+18073,"3,244"
+18075,"2,942"
+18077,"4,108"
+18079,"3,469"
+18081,"13,267"
+18083,"6,587"
+18085,"8,000"
+18087,"3,025"
+18089,"76,220"
+18091,"15,005"
+18093,"5,979"
+18095,"21,478"
+18097,"163,573"
+18099,"5,290"
+18101,"1,251"
+18103,"4,538"
+18105,"28,462"
+18107,"4,510"
+18109,"6,799"
+18111,"1,515"
+18113,"4,560"
+18115,533
+18117,"2,750"
+18119,"3,021"
+18121,"2,194"
+18123,"2,130"
+18125,"1,257"
+18127,"17,078"
+18129,"2,290"
+18131,"1,538"
+18133,"3,921"
+18135,"3,739"
+18137,"3,053"
+18139,"1,965"
+18141,"41,378"
+18143,"3,814"
+18145,"3,666"
+18147,"2,086"
+18149,"3,900"
+18151,"3,634"
+18153,"2,710"
+18155,"1,714"
+18157,"31,692"
+18159,"1,331"
+18161,758
+18163,"30,495"
+18165,"2,026"
+18167,"18,964"
+18169,"3,913"
+18171,807
+18173,"4,180"
+18175,"3,707"
+18177,"10,521"
+18179,"2,348"
+18181,"2,501"
+18183,"2,822"
+19000,"328,629"
+19001,705
+19003,451
+19005,"1,495"
+19007,"2,060"
+19009,584
+19011,"1,977"
+19013,"19,469"
+19015,"1,883"
+19017,"1,661"
+19019,"1,880"
+19021,"2,458"
+19023,"1,296"
+19025,"1,120"
+19027,"1,822"
+19029,"1,550"
+19031,"1,267"
+19033,"4,507"
+19035,"1,048"
+19037,"1,130"
+19039,"1,012"
+19041,"1,470"
+19043,"1,671"
+19045,"6,207"
+19047,"1,974"
+19049,"3,834"
+19051,"1,072"
+19053,"1,233"
+19055,"1,571"
+19057,"5,218"
+19059,"1,268"
+19061,"9,131"
+19063,922
+19065,"2,540"
+19067,"1,827"
+19069,"1,108"
+19071,833
+19073,922
+19075,716
+19077,995
+19079,"1,289"
+19081,891
+19083,"1,856"
+19085,"1,390"
+19087,"2,125"
+19089,910
+19091,888
+19093,614
+19095,"1,139"
+19097,"2,229"
+19099,"3,163"
+19101,"2,358"
+19103,"21,574"
+19105,"1,834"
+19107,"1,154"
+19109,"1,363"
+19111,"4,621"
+19113,"19,688"
+19115,"1,095"
+19117,"1,148"
+19119,877
+19121,"1,174"
+19123,"2,809"
+19125,"2,514"
+19127,"4,927"
+19129,"1,349"
+19131,948
+19133,988
+19135,839
+19137,"1,239"
+19139,"4,522"
+19141,"1,040"
+19143,597
+19145,"1,987"
+19147,916
+19149,"1,796"
+19151,862
+19153,"45,028"
+19155,"9,661"
+19157,"1,916"
+19159,714
+19161,968
+19163,"19,061"
+19165,954
+19167,"2,301"
+19169,"14,508"
+19171,"1,594"
+19173,707
+19175,"1,759"
+19177,"1,000"
+19179,"4,919"
+19181,"2,950"
+19183,"2,070"
+19185,"1,060"
+19187,"5,071"
+19189,949
+19191,"1,621"
+19193,"13,330"
+19195,628
+19197,"1,259"
+20000,"335,371"
+20001,"2,020"
+20003,"1,027"
+20005,"2,158"
+20007,554
+20009,"4,027"
+20011,"2,609"
+20013,"1,431"
+20015,"6,515"
+20017,282
+20019,550
+20021,"3,129"
+20023,334
+20025,232
+20027,825
+20029,"1,074"
+20031,824
+20033,191
+20035,"5,867"
+20037,"7,021"
+20039,404
+20041,"1,829"
+20043,"1,075"
+20045,"17,779"
+20047,318
+20049,387
+20051,"4,199"
+20053,613
+20055,"4,794"
+20057,"4,273"
+20059,"2,645"
+20061,"3,931"
+20063,252
+20065,316
+20067,912
+20069,447
+20071,132
+20073,921
+20075,343
+20077,787
+20079,"3,021"
+20081,404
+20083,196
+20085,"1,440"
+20087,"1,584"
+20089,361
+20091,"30,974"
+20093,405
+20095,863
+20097,271
+20099,"3,027"
+20101,158
+20103,"5,490"
+20105,351
+20107,"1,355"
+20109,269
+20111,"5,055"
+20113,"2,341"
+20115,"1,225"
+20117,"1,032"
+20119,412
+20121,"2,403"
+20123,700
+20125,"5,266"
+20127,601
+20129,289
+20131,810
+20133,"2,389"
+20135,309
+20137,566
+20139,"1,812"
+20141,437
+20143,652
+20145,737
+20147,612
+20149,"2,312"
+20151,"1,026"
+20153,291
+20155,"7,927"
+20157,535
+20159,"1,104"
+20161,"13,072"
+20163,539
+20165,367
+20167,968
+20169,"6,313"
+20171,369
+20173,"72,015"
+20175,"3,217"
+20177,"20,386"
+20179,286
+20181,764
+20183,458
+20185,542
+20187,205
+20189,569
+20191,"2,687"
+20193,853
+20195,326
+20197,515
+20199,168
+20201,536
+20203,242
+20205,"1,303"
+20207,481
+20209,"30,151"
+21000,"738,563"
+21001,"4,044"
+21003,"4,508"
+21005,"2,329"
+21007,"1,257"
+21009,"9,477"
+21011,"2,812"
+21013,"9,494"
+21015,"9,250"
+21017,"3,295"
+21019,"9,179"
+21021,"4,130"
+21023,"1,273"
+21025,"4,592"
+21027,"3,537"
+21029,"7,345"
+21031,"2,152"
+21033,"1,988"
+21035,"5,914"
+21037,"9,700"
+21039,721
+21041,"2,155"
+21043,"7,430"
+21045,"3,818"
+21047,"12,545"
+21049,"5,009"
+21051,"7,754"
+21053,"2,673"
+21055,"1,602"
+21057,"1,503"
+21059,"15,714"
+21061,"2,036"
+21063,"1,917"
+21065,"3,498"
+21067,"50,981"
+21069,"2,499"
+21071,"11,536"
+21073,"6,663"
+21075,"1,663"
+21077,"1,282"
+21079,"2,943"
+21081,"3,391"
+21083,"6,396"
+21085,"5,724"
+21087,"2,021"
+21089,"5,609"
+21091,"1,065"
+21093,"13,394"
+21095,"10,875"
+21097,"2,834"
+21099,"3,683"
+21101,"7,288"
+21103,"2,418"
+21105,821
+21107,"8,521"
+21109,"4,160"
+21111,"105,999"
+21113,"7,559"
+21115,"5,144"
+21117,"19,618"
+21119,"5,033"
+21121,"9,789"
+21123,"2,093"
+21125,"14,386"
+21127,"5,101"
+21129,"2,147"
+21131,"3,123"
+21133,"6,798"
+21135,"3,358"
+21137,"5,065"
+21139,"1,406"
+21141,"4,780"
+21143,"1,008"
+21145,"9,743"
+21147,"5,404"
+21149,"1,491"
+21151,"14,330"
+21153,"3,974"
+21155,"2,793"
+21157,"3,739"
+21159,"3,591"
+21161,"3,019"
+21163,"3,127"
+21165,"1,609"
+21167,"2,850"
+21169,"2,335"
+21171,"2,542"
+21173,"4,845"
+21175,"3,418"
+21177,"5,632"
+21179,"4,413"
+21181,"1,318"
+21183,"4,180"
+21185,"3,106"
+21187,"1,683"
+21189,"1,594"
+21191,"2,099"
+21193,"6,706"
+21195,"16,502"
+21197,"2,973"
+21199,"15,049"
+21201,438
+21203,"3,484"
+21205,"5,043"
+21207,"4,087"
+21209,"5,552"
+21211,"4,955"
+21213,"2,550"
+21215,"1,370"
+21217,"4,365"
+21219,"2,162"
+21221,"2,011"
+21223,"1,144"
+21225,"2,581"
+21227,"19,562"
+21229,"1,792"
+21231,"5,055"
+21233,"1,852"
+21235,"9,131"
+21237,"2,129"
+21239,"2,415"
+22000,"893,827"
+22001,"14,206"
+22003,"4,444"
+22005,"15,316"
+22007,"4,212"
+22009,"9,243"
+22011,"5,170"
+22013,"3,369"
+22015,"20,997"
+22017,"62,114"
+22019,"28,177"
+22021,"2,190"
+22023,909
+22025,"2,504"
+22027,"5,145"
+22029,"5,086"
+22031,"6,162"
+22033,"82,191"
+22035,"2,820"
+22037,"3,501"
+22039,"7,609"
+22041,"5,464"
+22043,"4,067"
+22045,"16,887"
+22047,"6,689"
+22049,"3,635"
+22051,"74,274"
+22053,"5,952"
+22055,"41,306"
+22057,"15,279"
+22059,"2,519"
+22061,"11,963"
+22063,"15,669"
+22065,"3,788"
+22067,"6,937"
+22069,"11,137"
+22071,"99,613"
+22073,"37,173"
+22075,"3,741"
+22077,"4,167"
+22079,"25,427"
+22081,"1,944"
+22083,"5,407"
+22085,"5,219"
+22087,"9,166"
+22089,"5,953"
+22091,"2,373"
+22093,"3,532"
+22095,"7,777"
+22097,"21,032"
+22099,"10,246"
+22101,"10,249"
+22103,"28,338"
+22105,"26,919"
+22107,"1,603"
+22109,"21,712"
+22111,"3,623"
+22113,"10,118"
+22115,"8,662"
+22117,"10,371"
+22119,"7,727"
+22121,"3,471"
+22123,"2,234"
+22125,"2,113"
+22127,"2,982"
+23000,"147,413"
+23001,"12,975"
+23003,"9,499"
+23005,"22,900"
+23007,"3,950"
+23009,"5,914"
+23011,"14,707"
+23013,"4,099"
+23015,"3,827"
+23017,"7,636"
+23019,"20,627"
+23021,"2,562"
+23023,"3,416"
+23025,"7,941"
+23027,"5,111"
+23029,"6,473"
+23031,"15,776"
+24000,"556,549"
+24001,"10,883"
+24003,"34,314"
+24005,"67,176"
+24009,"5,415"
+24011,"4,499"
+24013,"8,298"
+24015,"9,862"
+24017,"11,823"
+24019,"4,962"
+24021,"16,626"
+24023,"3,377"
+24025,"17,620"
+24027,"18,895"
+24029,"2,312"
+24031,"73,280"
+24033,"76,564"
+24035,"3,799"
+24037,"9,386"
+24039,"5,083"
+24041,"3,347"
+24043,"19,017"
+24045,"14,696"
+24047,"5,050"
+24510,"130,267"
+25000,"692,943"
+25001,"15,846"
+25003,"12,744"
+25005,"60,780"
+25007,"1,299"
+25009,"78,610"
+25011,"7,218"
+25013,"77,905"
+25015,"14,206"
+25017,"124,404"
+25019,637
+25021,"45,495"
+25023,"36,645"
+25025,"134,360"
+25027,"82,794"
+26000,"1,373,358"
+26001,"1,488"
+26003,"1,057"
+26005,"10,969"
+26007,"3,865"
+26009,"2,564"
+26011,"2,326"
+26013,"1,237"
+26015,"5,253"
+26017,"14,920"
+26019,"1,627"
+26021,"26,055"
+26023,"5,219"
+26025,"24,904"
+26027,"6,065"
+26029,"2,598"
+26031,"3,557"
+26033,"5,570"
+26035,"6,721"
+26037,"5,718"
+26039,"2,267"
+26041,"4,436"
+26043,"3,022"
+26045,"9,278"
+26047,"2,766"
+26049,"73,568"
+26051,"4,136"
+26053,"2,588"
+26055,"8,468"
+26057,"6,919"
+26059,"6,222"
+26061,"4,961"
+26063,"4,122"
+26065,"53,746"
+26067,"6,823"
+26069,"4,194"
+26071,"1,458"
+26073,"15,385"
+26075,"19,950"
+26077,"35,561"
+26079,"2,984"
+26081,"66,316"
+26083,255
+26085,"2,515"
+26087,"7,531"
+26089,"1,512"
+26091,"9,679"
+26093,"9,991"
+26095,982
+26097,"1,511"
+26099,"96,264"
+26101,"3,110"
+26103,"10,446"
+26105,"3,798"
+26107,"8,107"
+26109,"2,683"
+26111,"8,792"
+26113,"2,100"
+26115,"17,416"
+26117,"9,013"
+26119,"1,280"
+26121,"25,478"
+26123,"6,848"
+26125,"95,968"
+26127,"3,816"
+26129,"3,334"
+26131,905
+26133,"3,367"
+26135,"1,482"
+26137,"2,891"
+26139,"22,831"
+26141,"1,944"
+26143,"4,419"
+26145,"32,447"
+26147,"19,533"
+26149,"7,807"
+26151,"5,900"
+26153,"1,151"
+26155,"7,467"
+26157,"7,375"
+26159,"9,501"
+26161,"44,394"
+26163,"392,205"
+26165,"4,425"
+27000,"517,348"
+27001,"1,880"
+27003,"18,795"
+27005,"3,909"
+27007,"8,329"
+27009,"3,820"
+27011,602
+27013,"10,319"
+27015,"1,927"
+27017,"3,158"
+27019,"4,046"
+27021,"4,397"
+27023,"1,241"
+27025,"3,305"
+27027,"7,264"
+27029,"1,298"
+27031,471
+27033,"1,256"
+27035,"6,220"
+27037,"24,329"
+27039,"1,202"
+27041,"2,707"
+27043,"1,618"
+27045,"2,113"
+27047,"3,526"
+27049,"3,650"
+27051,534
+27053,"129,217"
+27055,"1,398"
+27057,"2,387"
+27059,"3,089"
+27061,"4,955"
+27063,839
+27065,"1,485"
+27067,"4,431"
+27069,389
+27071,"1,559"
+27073,641
+27075,869
+27077,358
+27079,"2,145"
+27081,578
+27083,"3,027"
+27085,"2,733"
+27087,"1,152"
+27089,873
+27091,"2,174"
+27093,"2,070"
+27095,"2,782"
+27097,"3,413"
+27099,"4,142"
+27101,672
+27103,"2,778"
+27105,"2,768"
+27107,818
+27109,"12,737"
+27111,"5,895"
+27113,"1,423"
+27115,"3,355"
+27117,856
+27119,"3,536"
+27121,867
+27123,"74,390"
+27125,412
+27127,"1,492"
+27129,"1,488"
+27131,"6,499"
+27133,859
+27135,"1,250"
+27137,"27,827"
+27139,"5,759"
+27141,"3,931"
+27143,"1,128"
+27145,"16,561"
+27147,"3,392"
+27149,893
+27151,"1,063"
+27153,"3,221"
+27155,416
+27157,"1,496"
+27159,"2,079"
+27161,"1,834"
+27163,"10,617"
+27165,"1,193"
+27167,575
+27169,"6,485"
+27171,"7,204"
+27173,957
+28000,"573,717"
+28001,"9,288"
+28003,"6,936"
+28005,"2,866"
+28007,"4,378"
+28009,"1,792"
+28011,"9,765"
+28013,"3,107"
+28015,"1,715"
+28017,"3,031"
+28019,"1,807"
+28021,"3,335"
+28023,"3,276"
+28025,"4,895"
+28027,"7,860"
+28029,"6,249"
+28031,"4,328"
+28033,"15,440"
+28035,"16,401"
+28037,"1,583"
+28039,"3,760"
+28041,"2,368"
+28043,"4,246"
+28045,"7,921"
+28047,"39,266"
+28049,"46,575"
+28051,"6,855"
+28053,"3,166"
+28055,401
+28057,"3,253"
+28059,"20,359"
+28061,"3,934"
+28063,"2,337"
+28065,"3,208"
+28067,"14,122"
+28069,"2,664"
+28071,"10,190"
+28073,"9,431"
+28075,"14,922"
+28077,"2,490"
+28079,"4,573"
+28081,"11,739"
+28083,"11,770"
+28085,"6,136"
+28087,"12,805"
+28089,"11,031"
+28091,"6,013"
+28093,"7,666"
+28095,"6,434"
+28097,"2,335"
+28099,"6,478"
+28101,"4,204"
+28103,"3,645"
+28105,"11,489"
+28107,"7,668"
+28109,"9,265"
+28111,"2,439"
+28113,"10,796"
+28115,"4,569"
+28117,"4,307"
+28119,"2,915"
+28121,"13,642"
+28123,"6,154"
+28125,"1,548"
+28127,"6,077"
+28129,"2,608"
+28131,"2,727"
+28133,"7,966"
+28135,"4,104"
+28137,"4,494"
+28139,"3,855"
+28141,"3,437"
+28143,"2,882"
+28145,"4,099"
+28147,"3,740"
+28149,"9,873"
+28151,"14,854"
+28153,"4,661"
+28155,"2,230"
+28157,"2,558"
+28159,"4,013"
+28161,"2,626"
+28163,"7,775"
+29000,"793,001"
+29001,"5,760"
+29003,"1,378"
+29005,615
+29007,"4,030"
+29009,"5,678"
+29011,"1,716"
+29013,"2,301"
+29015,"3,230"
+29017,"1,795"
+29019,"25,432"
+29021,"13,197"
+29023,"9,488"
+29025,"1,227"
+29027,"5,033"
+29029,"6,139"
+29031,"10,828"
+29033,"1,208"
+29035,"1,278"
+29037,"9,435"
+29039,"2,377"
+29041,920
+29043,"8,373"
+29045,"1,052"
+29047,"17,794"
+29049,"2,229"
+29051,"8,399"
+29053,"1,849"
+29055,"4,590"
+29057,"1,234"
+29059,"3,032"
+29061,"1,123"
+29063,"1,406"
+29065,"3,076"
+29067,"2,673"
+29069,"7,204"
+29071,"10,588"
+29073,"1,713"
+29075,912
+29077,"45,036"
+29079,"1,710"
+29081,"1,400"
+29083,"3,446"
+29085,"1,805"
+29087,596
+29089,"1,259"
+29091,"8,783"
+29093,"2,241"
+29095,"94,910"
+29097,"19,719"
+29099,"23,704"
+29101,"6,393"
+29103,723
+29105,"5,434"
+29107,"3,977"
+29109,"6,038"
+29111,"1,478"
+29113,"5,436"
+29115,"1,620"
+29117,"2,166"
+29119,"4,315"
+29121,"1,880"
+29123,"2,233"
+29125,"1,215"
+29127,"4,694"
+29129,524
+29131,"3,720"
+29133,"3,329"
+29135,"1,757"
+29137,"1,146"
+29139,"1,675"
+29141,"3,893"
+29143,"4,369"
+29145,"7,517"
+29147,"3,213"
+29149,"2,522"
+29151,"1,217"
+29153,"1,954"
+29155,"4,369"
+29157,"1,837"
+29159,"6,639"
+29161,"7,661"
+29163,"2,656"
+29165,"6,187"
+29167,"4,568"
+29169,"5,469"
+29171,782
+29173,976
+29175,"3,791"
+29177,"2,315"
+29179,"1,255"
+29181,"3,197"
+29183,"20,661"
+29185,"1,857"
+29186,"1,885"
+29187,"10,499"
+29189,"97,993"
+29195,"3,321"
+29197,705
+29199,755
+29201,"7,644"
+29203,"2,923"
+29205,916
+29207,"4,938"
+29209,"4,866"
+29211,988
+29213,"7,401"
+29215,"5,041"
+29217,"3,077"
+29219,"3,444"
+29221,"5,422"
+29223,"2,996"
+29225,"5,817"
+29227,295
+29229,"4,390"
+29510,"64,108"
+30000,"130,616"
+30001,"1,238"
+30003,"3,535"
+30005,"1,727"
+30007,574
+30009,999
+30011,155
+30013,"9,411"
+30015,825
+30017,"1,465"
+30019,173
+30021,907
+30023,"1,342"
+30025,270
+30027,"1,396"
+30029,"10,824"
+30031,"10,195"
+30033,212
+30035,"3,487"
+30037,151
+30039,405
+30041,"2,511"
+30043,983
+30045,249
+30047,"5,612"
+30049,"5,474"
+30051,429
+30053,"3,001"
+30055,248
+30057,805
+30059,285
+30061,612
+30063,"16,351"
+30065,787
+30067,"2,087"
+30069,74
+30071,585
+30073,"1,020"
+30075,209
+30077,973
+30079,130
+30081,"5,275"
+30083,957
+30085,"2,838"
+30087,"1,577"
+30089,"2,363"
+30091,372
+30093,"5,487"
+30095,798
+30097,362
+30099,796
+30101,660
+30103,79
+30105,864
+30107,383
+30109,107
+30111,"15,983"
+31000,"198,984"
+31001,"3,658"
+31003,704
+31005,63
+31007,87
+31009,70
+31011,483
+31013,"1,241"
+31015,242
+31017,363
+31019,"6,052"
+31021,736
+31023,671
+31025,"1,517"
+31027,692
+31029,361
+31031,673
+31033,976
+31035,657
+31037,962
+31039,733
+31041,"1,301"
+31043,"2,525"
+31045,"1,359"
+31047,"2,688"
+31049,227
+31051,494
+31053,"4,829"
+31055,"62,619"
+31057,265
+31059,440
+31061,406
+31063,328
+31065,525
+31067,"2,274"
+31069,292
+31071,229
+31073,182
+31075,65
+31077,288
+31079,"7,247"
+31081,585
+31083,353
+31085,149
+31087,384
+31089,"1,088"
+31091,56
+31093,635
+31095,811
+31097,524
+31099,539
+31101,982
+31103,140
+31105,489
+31107,"1,034"
+31109,"33,985"
+31111,"4,008"
+31113,68
+31115,96
+31117,63
+31119,"4,432"
+31121,787
+31123,678
+31125,411
+31127,813
+31129,483
+31131,"1,429"
+31133,342
+31135,267
+31137,774
+31139,668
+31141,"2,807"
+31143,357
+31145,"1,124"
+31147,"1,011"
+31149,200
+31151,"1,411"
+31153,"9,108"
+31155,"1,562"
+31157,"4,733"
+31159,"1,173"
+31161,737
+31163,353
+31165,205
+31167,467
+31169,567
+31171,97
+31173,"1,664"
+31175,501
+31177,"1,458"
+31179,"1,030"
+31181,440
+31183,75
+31185,"1,307"
+32000,"392,857"
+32001,"2,747"
+32003,"305,802"
+32005,"3,931"
+32007,"5,476"
+32009,124
+32011,175
+32013,"1,748"
+32015,628
+32017,678
+32019,"5,779"
+32021,768
+32023,"6,778"
+32027,873
+32029,278
+32031,"50,261"
+32033,"1,131"
+32510,"5,679"
+33000,"100,550"
+33001,"4,953"
+33003,"4,424"
+33005,"6,687"
+33007,"3,415"
+33009,"7,770"
+33011,"31,832"
+33013,"10,392"
+33015,"15,533"
+33017,"11,176"
+33019,"4,369"
+34000,"882,132"
+34001,"38,092"
+34003,"62,037"
+34005,"28,202"
+34007,"58,696"
+34009,"9,486"
+34011,"26,129"
+34013,"123,806"
+34015,"19,238"
+34017,"96,125"
+34019,"4,793"
+34021,"40,622"
+34023,"69,518"
+34025,"45,085"
+34027,"24,225"
+34029,"60,406"
+34031,"82,865"
+34033,"8,215"
+34035,"17,396"
+34037,"7,372"
+34039,"52,052"
+34041,"7,770"
+35000,"388,790"
+35001,"97,103"
+35003,754
+35005,"11,885"
+35006,"7,316"
+35007,"2,320"
+35009,"9,114"
+35011,400
+35013,"55,541"
+35015,"9,492"
+35017,"5,490"
+35019,872
+35021,104
+35023,"1,050"
+35025,"10,704"
+35027,"3,040"
+35028,691
+35029,"6,635"
+35031,"27,143"
+35033,"1,025"
+35035,"11,742"
+35037,"1,968"
+35039,"11,221"
+35041,"4,545"
+35043,"21,684"
+35045,"28,936"
+35047,"7,793"
+35049,"17,838"
+35051,"2,877"
+35053,"4,580"
+35055,"7,405"
+35057,"3,955"
+35059,616
+35061,"12,951"
+36000,"2,735,578"
+36001,"33,186"
+36003,"6,925"
+36005,"400,473"
+36007,"32,094"
+36009,"11,836"
+36011,"9,246"
+36013,"21,835"
+36015,"12,391"
+36017,"5,910"
+36019,"10,146"
+36021,"6,233"
+36023,"6,890"
+36025,"7,661"
+36027,"28,178"
+36029,"130,831"
+36031,"3,778"
+36033,"8,454"
+36035,"8,400"
+36037,"6,075"
+36039,"5,620"
+36041,436
+36043,"8,679"
+36045,"16,133"
+36047,"518,422"
+36049,"3,267"
+36051,"6,966"
+36053,"7,179"
+36055,"105,493"
+36057,"8,632"
+36059,"83,380"
+36061,"262,605"
+36063,"25,656"
+36065,"35,154"
+36067,"61,647"
+36069,"9,905"
+36071,"40,379"
+36073,"5,845"
+36075,"18,492"
+36077,"7,227"
+36079,"5,305"
+36081,"285,222"
+36083,"17,698"
+36085,"56,434"
+36087,"43,147"
+36089,"18,544"
+36091,"14,898"
+36093,"19,369"
+36095,"4,186"
+36097,"2,464"
+36099,"3,810"
+36101,"12,161"
+36103,"102,014"
+36105,"10,891"
+36107,"4,764"
+36109,"17,027"
+36111,"23,481"
+36113,"6,184"
+36115,"6,823"
+36117,"10,866"
+36119,"81,192"
+36121,"4,128"
+36123,"3,311"
+37000,"1,468,032"
+37001,"22,721"
+37003,"4,182"
+37005,"2,274"
+37007,"5,039"
+37009,"4,267"
+37011,"2,806"
+37013,"10,260"
+37015,"4,896"
+37017,"6,869"
+37019,"15,429"
+37021,"28,715"
+37023,"14,482"
+37025,"22,816"
+37027,"13,222"
+37029,848
+37031,"9,050"
+37033,"4,117"
+37035,"19,427"
+37037,"7,305"
+37039,"4,760"
+37041,"2,434"
+37043,"1,685"
+37045,"17,958"
+37047,"12,220"
+37049,"15,942"
+37051,"58,888"
+37053,"2,785"
+37055,"3,364"
+37057,"24,941"
+37059,"5,117"
+37061,"12,119"
+37063,"47,090"
+37065,"13,222"
+37067,"60,638"
+37069,"10,129"
+37071,"32,751"
+37073,"1,802"
+37075,"1,518"
+37077,"7,037"
+37079,"5,107"
+37081,"73,862"
+37083,"14,009"
+37085,"21,178"
+37087,"8,779"
+37089,"12,263"
+37091,"5,225"
+37093,"8,464"
+37095,"1,016"
+37097,"19,691"
+37099,"6,656"
+37101,"29,365"
+37103,"2,115"
+37105,"8,760"
+37107,"13,882"
+37109,"10,218"
+37111,"7,138"
+37113,"5,585"
+37115,"3,619"
+37117,"4,645"
+37119,"120,634"
+37121,"2,466"
+37123,"4,719"
+37125,"10,303"
+37127,"14,560"
+37129,"34,283"
+37131,"4,647"
+37133,"23,452"
+37135,"18,210"
+37137,"2,082"
+37139,"7,579"
+37141,"7,548"
+37143,"2,406"
+37145,"5,882"
+37147,"37,388"
+37149,"2,529"
+37151,"22,342"
+37153,"10,795"
+37155,"37,204"
+37157,"14,628"
+37159,"20,790"
+37161,"10,557"
+37163,"12,925"
+37165,"8,570"
+37167,"7,367"
+37169,"6,373"
+37171,"11,479"
+37173,"2,226"
+37175,"5,010"
+37177,870
+37179,"20,824"
+37181,"10,217"
+37183,"93,924"
+37185,"3,966"
+37187,"2,947"
+37189,"10,129"
+37191,"24,577"
+37193,"12,516"
+37195,"14,481"
+37197,"5,022"
+37199,"2,903"
+38000,"74,057"
+38001,215
+38003,"1,094"
+38005,"1,948"
+38007,86
+38009,628
+38011,262
+38013,193
+38015,"6,666"
+38017,"14,859"
+38019,352
+38021,493
+38023,223
+38025,444
+38027,237
+38029,450
+38031,254
+38033,183
+38035,"9,893"
+38037,360
+38039,192
+38041,273
+38043,323
+38045,414
+38047,241
+38049,646
+38051,300
+38053,"1,066"
+38055,862
+38057,518
+38059,"2,513"
+38061,981
+38063,312
+38065,181
+38067,563
+38069,454
+38071,"1,352"
+38073,386
+38075,189
+38077,"1,535"
+38079,"3,884"
+38081,293
+38083,220
+38085,"1,541"
+38087,93
+38089,"2,668"
+38091,148
+38093,"1,880"
+38095,225
+38097,587
+38099,"1,098"
+38101,"6,670"
+38103,425
+38105,"2,184"
+39000,"1,575,401"
+39001,"5,092"
+39003,"14,723"
+39005,"5,837"
+39007,"18,127"
+39009,"16,259"
+39011,"3,936"
+39013,"7,114"
+39015,"7,219"
+39017,"39,242"
+39019,"3,518"
+39021,"4,190"
+39023,"20,082"
+39025,"17,597"
+39027,"5,314"
+39029,"14,948"
+39031,"5,665"
+39033,"6,357"
+39035,"221,287"
+39037,"4,693"
+39039,"3,547"
+39041,"9,502"
+39043,"9,065"
+39045,"13,614"
+39047,"4,370"
+39049,"201,260"
+39051,"3,430"
+39053,"5,528"
+39055,"5,933"
+39057,"15,587"
+39059,"7,042"
+39061,"128,431"
+39063,"7,150"
+39065,"4,613"
+39067,"1,916"
+39069,"2,194"
+39071,"7,134"
+39073,"4,074"
+39075,"3,885"
+39077,"8,555"
+39079,"5,707"
+39081,"11,251"
+39083,"6,165"
+39085,"19,693"
+39087,"11,563"
+39089,"15,130"
+39091,"4,951"
+39093,"40,404"
+39095,"75,376"
+39097,"3,743"
+39099,"40,879"
+39101,"9,699"
+39103,"10,629"
+39105,"4,531"
+39107,"2,793"
+39109,"9,387"
+39111,"2,080"
+39113,"81,984"
+39115,"2,961"
+39117,"3,849"
+39119,"12,470"
+39121,"1,893"
+39123,"3,561"
+39125,"1,902"
+39127,"5,585"
+39129,"6,355"
+39131,"5,536"
+39133,"18,263"
+39135,"4,017"
+39137,"2,146"
+39139,"15,169"
+39141,"11,584"
+39143,"6,477"
+39145,"15,481"
+39147,"7,146"
+39149,"3,897"
+39151,"51,852"
+39153,"68,434"
+39155,"30,109"
+39157,"11,589"
+39159,"2,780"
+39161,"3,147"
+39163,"2,566"
+39165,"10,548"
+39167,"8,560"
+39169,"14,456"
+39171,"3,830"
+39173,"13,328"
+39175,"1,912"
+40000,"600,911"
+40001,"5,905"
+40003,765
+40005,"2,504"
+40007,650
+40009,"3,422"
+40011,"1,652"
+40013,"8,219"
+40015,"5,733"
+40017,"10,231"
+40019,"8,014"
+40021,"9,987"
+40023,"3,842"
+40025,372
+40027,"31,096"
+40029,"1,226"
+40031,"18,665"
+40033,"1,062"
+40035,"2,683"
+40037,"11,514"
+40039,"4,051"
+40041,"7,734"
+40043,645
+40045,527
+40047,"8,404"
+40049,"4,707"
+40051,"7,074"
+40053,545
+40055,"1,216"
+40057,631
+40059,415
+40061,"2,584"
+40063,"2,775"
+40065,"4,240"
+40067,"1,384"
+40069,"1,929"
+40071,"7,168"
+40073,"1,518"
+40075,"2,207"
+40077,"1,710"
+40079,"10,751"
+40081,"5,616"
+40083,"5,571"
+40085,"1,328"
+40087,"4,078"
+40089,"8,390"
+40091,"3,860"
+40093,903
+40095,"2,540"
+40097,"6,923"
+40099,"2,094"
+40101,"16,243"
+40103,"1,424"
+40105,"1,721"
+40107,"2,689"
+40109,"122,953"
+40111,"6,767"
+40113,"7,642"
+40115,"6,007"
+40117,"3,005"
+40119,"17,537"
+40121,"7,376"
+40123,"6,561"
+40125,"10,514"
+40127,"2,203"
+40129,614
+40131,"9,039"
+40133,"5,350"
+40135,"8,360"
+40137,"6,387"
+40139,"3,415"
+40141,"1,641"
+40143,"91,757"
+40145,"7,778"
+40147,"7,277"
+40149,"1,755"
+40151,"1,171"
+40153,"2,664"
+41000,"534,846"
+41001,"2,772"
+41003,"13,776"
+41005,"34,173"
+41007,"4,715"
+41009,"6,326"
+41011,"12,456"
+41013,"3,062"
+41015,"3,493"
+41017,"17,932"
+41019,"16,135"
+41021,205
+41023,"1,082"
+41025,"1,122"
+41027,"2,444"
+41029,"30,774"
+41031,"3,927"
+41033,"15,143"
+41035,"12,659"
+41037,"1,405"
+41039,"60,773"
+41041,"7,812"
+41043,"17,676"
+41045,"6,045"
+41047,"50,264"
+41049,"1,578"
+41051,"114,241"
+41053,"12,025"
+41055,214
+41057,"3,631"
+41059,"11,330"
+41061,"3,391"
+41063,937
+41065,"3,567"
+41067,"46,428"
+41069,274
+41071,"11,056"
+42000,"1,548,557"
+42001,"8,041"
+42003,"132,929"
+42005,"8,359"
+42007,"18,164"
+42009,"5,864"
+42011,"47,405"
+42013,"17,382"
+42015,"7,956"
+42017,"38,058"
+42019,"15,242"
+42021,"19,126"
+42023,683
+42025,"7,871"
+42027,"24,611"
+42029,"31,826"
+42031,"5,979"
+42033,"11,130"
+42035,"5,954"
+42037,"8,348"
+42039,"12,031"
+42041,"17,244"
+42043,"32,684"
+42045,"53,255"
+42047,"2,937"
+42049,"41,288"
+42051,"22,854"
+42053,"1,028"
+42055,"14,759"
+42057,"1,821"
+42059,"4,965"
+42061,"6,045"
+42063,"11,763"
+42065,"6,096"
+42067,"2,940"
+42069,"29,008"
+42071,"52,380"
+42073,"11,300"
+42075,"14,717"
+42077,"44,362"
+42079,"42,326"
+42081,"13,968"
+42083,"6,614"
+42085,"13,040"
+42087,"5,810"
+42089,"15,190"
+42091,"47,041"
+42093,"1,739"
+42095,"29,356"
+42097,"12,580"
+42099,"4,331"
+42101,"388,221"
+42103,"5,023"
+42105,"2,734"
+42107,"16,381"
+42109,"4,311"
+42111,"8,795"
+42113,826
+42115,"5,326"
+42117,"5,936"
+42119,"4,445"
+42121,"7,206"
+42123,"5,377"
+42125,"18,913"
+42127,"6,117"
+42129,"34,404"
+42131,"3,176"
+42133,"40,966"
+44000,"125,208"
+44001,"3,543"
+44003,"13,853"
+44005,"7,164"
+44007,"90,056"
+44009,"10,592"
+45000,"750,359"
+45001,"4,850"
+45003,"24,465"
+45005,"2,892"
+45007,"28,083"
+45009,"3,631"
+45011,"5,833"
+45013,"19,418"
+45015,"25,085"
+45017,"2,646"
+45019,"51,780"
+45021,"11,258"
+45023,"6,178"
+45025,"9,993"
+45027,"7,526"
+45029,"8,325"
+45031,"14,391"
+45033,"9,004"
+45035,"15,362"
+45037,"4,146"
+45039,"4,287"
+45041,"25,235"
+45043,"10,418"
+45045,"61,200"
+45047,"12,431"
+45049,"4,548"
+45051,"52,862"
+45053,"5,348"
+45055,"9,309"
+45057,"12,319"
+45059,"14,138"
+45061,"4,075"
+45063,"33,761"
+45065,"1,560"
+45067,"8,522"
+45069,"6,717"
+45071,"7,080"
+45073,"12,237"
+45075,"20,595"
+45077,"17,775"
+45079,"64,234"
+45081,"3,625"
+45083,"41,025"
+45085,"19,818"
+45087,"4,871"
+45089,"8,050"
+45091,"29,456"
+46000,"107,522"
+46003,289
+46005,"2,782"
+46007,"1,190"
+46009,727
+46011,"3,998"
+46013,"4,141"
+46015,741
+46017,860
+46019,"1,366"
+46021,134
+46023,"2,238"
+46025,391
+46027,"2,391"
+46029,"3,114"
+46031,"1,773"
+46033,957
+46035,"2,424"
+46037,842
+46039,390
+46041,"2,018"
+46043,338
+46045,396
+46047,910
+46049,302
+46051,704
+46053,686
+46055,228
+46057,521
+46059,339
+46061,298
+46063,132
+46065,"1,742"
+46067,784
+46069,130
+46071,"1,174"
+46073,247
+46075,128
+46077,494
+46079,"1,222"
+46081,"3,331"
+46083,"1,956"
+46085,853
+46087,495
+46089,349
+46091,556
+46093,"2,476"
+46095,771
+46097,259
+46099,"16,492"
+46101,689
+46102,"5,913"
+46103,"13,866"
+46105,374
+46107,202
+46109,"1,763"
+46111,317
+46115,629
+46117,227
+46119,116
+46121,"5,036"
+46123,"1,010"
+46125,829
+46127,903
+46129,661
+46135,"2,351"
+46137,"1,557"
+47000,"980,394"
+47001,"11,482"
+47003,"7,976"
+47005,"2,970"
+47007,"2,793"
+47009,"15,425"
+47011,"17,369"
+47013,"7,495"
+47015,"2,106"
+47017,"5,187"
+47019,"11,454"
+47021,"4,380"
+47023,"2,694"
+47025,"6,801"
+47027,"1,889"
+47029,"8,085"
+47031,"8,105"
+47033,"2,525"
+47035,"8,237"
+47037,"97,343"
+47039,"2,227"
+47041,"3,342"
+47043,"5,893"
+47045,"6,360"
+47047,"5,517"
+47049,"4,198"
+47051,"5,866"
+47053,"7,906"
+47055,"4,345"
+47057,"4,197"
+47059,"11,888"
+47061,"3,025"
+47063,"10,533"
+47065,"44,007"
+47067,"1,831"
+47069,"4,963"
+47071,"4,753"
+47073,"9,331"
+47075,"3,573"
+47077,"4,161"
+47079,"5,828"
+47081,"3,950"
+47083,"1,258"
+47085,"2,478"
+47087,"2,062"
+47089,"7,304"
+47091,"3,855"
+47093,"62,320"
+47095,"1,983"
+47097,"5,010"
+47099,"6,684"
+47101,"2,074"
+47103,"4,356"
+47105,"6,496"
+47107,"11,621"
+47109,"4,372"
+47111,"4,072"
+47113,"16,341"
+47115,"4,407"
+47117,"3,814"
+47119,"9,474"
+47121,"2,070"
+47123,"8,035"
+47125,"25,124"
+47127,619
+47129,"3,890"
+47131,"6,178"
+47133,"3,847"
+47135,"1,650"
+47137,844
+47139,"2,582"
+47141,"14,277"
+47143,"5,064"
+47145,"7,955"
+47147,"8,070"
+47149,"31,372"
+47151,"4,932"
+47153,"2,416"
+47155,"12,135"
+47157,"173,777"
+47159,"2,516"
+47161,"2,134"
+47163,"24,258"
+47165,"15,921"
+47167,"8,449"
+47169,"1,448"
+47171,"2,860"
+47173,"3,645"
+47175,986
+47177,"8,628"
+47179,"18,442"
+47181,"3,051"
+47183,"7,006"
+47185,"4,219"
+47187,"8,667"
+47189,"11,336"
+48000,"4,080,377"
+48001,"8,388"
+48003,"2,293"
+48005,"16,969"
+48007,"4,544"
+48009,882
+48011,193
+48013,"8,217"
+48015,"3,153"
+48017,"1,191"
+48019,"2,627"
+48021,"9,462"
+48023,620
+48025,"6,597"
+48027,"46,542"
+48029,"299,023"
+48031,"1,224"
+48033,74
+48035,"2,866"
+48037,"13,959"
+48039,"31,735"
+48041,"49,752"
+48043,"1,298"
+48045,233
+48047,"2,509"
+48049,"6,099"
+48051,"2,946"
+48053,"4,722"
+48055,"5,892"
+48057,"3,497"
+48059,"1,936"
+48061,"116,191"
+48063,"2,588"
+48065,510
+48067,"5,614"
+48069,"1,337"
+48071,"3,914"
+48073,"8,467"
+48075,"1,133"
+48077,"1,218"
+48079,695
+48081,432
+48083,"2,103"
+48085,"56,725"
+48087,528
+48089,"3,101"
+48091,"12,473"
+48093,"2,003"
+48095,412
+48097,"5,104"
+48099,"8,556"
+48101,293
+48103,541
+48105,591
+48107,"1,300"
+48109,489
+48111,826
+48113,"382,477"
+48115,"2,475"
+48117,"3,286"
+48119,915
+48121,"58,411"
+48123,"3,445"
+48125,400
+48127,"3,217"
+48129,621
+48131,"3,037"
+48133,"2,961"
+48135,"20,860"
+48137,439
+48139,"14,521"
+48141,"172,972"
+48143,"6,016"
+48145,"4,280"
+48147,"4,047"
+48149,"2,675"
+48151,569
+48153,"1,172"
+48155,214
+48157,"60,772"
+48159,"1,583"
+48161,"2,896"
+48163,"4,524"
+48165,"3,087"
+48167,"39,606"
+48169,"1,114"
+48171,"2,851"
+48173,127
+48175,"1,136"
+48177,"3,420"
+48179,"3,466"
+48181,"17,242"
+48183,"19,769"
+48185,"4,528"
+48187,"14,624"
+48189,"6,234"
+48191,725
+48193,"1,322"
+48195,640
+48197,714
+48199,"7,175"
+48201,"733,605"
+48203,"11,315"
+48205,408
+48207,"1,071"
+48209,"25,221"
+48211,397
+48213,"13,666"
+48215,"251,593"
+48217,"5,229"
+48219,"3,584"
+48221,"6,074"
+48223,"4,950"
+48225,"4,533"
+48227,"5,409"
+48229,789
+48231,"15,389"
+48233,"2,715"
+48235,141
+48237,"1,345"
+48239,"2,316"
+48241,"6,898"
+48243,281
+48245,"44,734"
+48247,"1,413"
+48249,"9,579"
+48251,"17,019"
+48253,"3,084"
+48255,"2,700"
+48257,"11,316"
+48259,"3,160"
+48261,63
+48263,94
+48265,"6,597"
+48267,812
+48269,41
+48271,684
+48273,"7,504"
+48275,743
+48277,"7,915"
+48279,"2,601"
+48281,"2,742"
+48283,"1,731"
+48285,"2,365"
+48287,"2,124"
+48289,"2,759"
+48291,"12,132"
+48293,"4,192"
+48295,448
+48297,"1,922"
+48299,"2,704"
+48301,13
+48303,"55,533"
+48305,"1,047"
+48307,"1,515"
+48309,"42,008"
+48311,89
+48313,"2,136"
+48315,"2,263"
+48317,743
+48319,527
+48321,"6,540"
+48323,"15,411"
+48325,"7,031"
+48327,430
+48329,"17,528"
+48331,"4,744"
+48333,754
+48335,"1,400"
+48337,"2,952"
+48339,"50,397"
+48341,"2,551"
+48343,"2,274"
+48345,217
+48347,"14,453"
+48349,"8,105"
+48351,"2,739"
+48353,"2,778"
+48355,"57,008"
+48357,"1,233"
+48359,238
+48361,"11,526"
+48363,"4,726"
+48365,"3,418"
+48367,"10,515"
+48369,"1,296"
+48371,"2,792"
+48373,"8,060"
+48375,"21,038"
+48377,"1,672"
+48379,"1,984"
+48381,"11,635"
+48383,419
+48385,608
+48387,"2,345"
+48389,"3,051"
+48391,"1,198"
+48393,65
+48395,"2,952"
+48397,"5,039"
+48399,"1,742"
+48401,"7,293"
+48403,"2,093"
+48405,"1,735"
+48407,"5,094"
+48409,"12,613"
+48411,913
+48413,485
+48415,"2,649"
+48417,469
+48419,"5,247"
+48421,378
+48423,"34,767"
+48425,901
+48427,"20,344"
+48429,"1,682"
+48431,153
+48433,208
+48435,535
+48437,"1,367"
+48439,"234,362"
+48441,"20,000"
+48443,156
+48445,"2,475"
+48447,235
+48449,"5,256"
+48451,"15,211"
+48453,"139,071"
+48455,"3,046"
+48457,"3,813"
+48459,"6,651"
+48461,505
+48463,"5,423"
+48465,"10,123"
+48467,"7,118"
+48469,"14,191"
+48471,"12,775"
+48473,"7,315"
+48475,"1,711"
+48477,"4,248"
+48479,"74,061"
+48481,"6,627"
+48483,769
+48485,"20,057"
+48487,"2,031"
+48489,"6,371"
+48491,"32,931"
+48493,"4,414"
+48495,"1,095"
+48497,"7,211"
+48499,"6,470"
+48501,"1,020"
+48503,"2,787"
+48505,"4,282"
+48507,"3,642"
+49000,"296,138"
+49001,583
+49003,"4,253"
+49005,"18,068"
+49007,"3,016"
+49009,69
+49011,"18,584"
+49013,"2,625"
+49015,"1,324"
+49017,484
+49019,"1,036"
+49021,"7,821"
+49023,"1,136"
+49025,796
+49027,"1,582"
+49029,488
+49031,231
+49033,220
+49035,"103,384"
+49037,"3,895"
+49039,"3,861"
+49041,"2,601"
+49043,"1,988"
+49045,"4,541"
+49047,"4,434"
+49049,"62,063"
+49051,"1,648"
+49053,"18,252"
+49055,372
+49057,"26,782"
+50000,"65,068"
+50001,"2,846"
+50003,"4,201"
+50005,"4,365"
+50007,"16,489"
+50009,911
+50011,"4,308"
+50013,571
+50015,"2,902"
+50017,"2,943"
+50019,"3,962"
+50021,"6,106"
+50023,"5,252"
+50025,"4,827"
+50027,"5,385"
+51000,"876,438"
+51001,"5,715"
+51003,"8,015"
+51005,"2,160"
+51007,"1,466"
+51009,"3,855"
+51011,"1,855"
+51013,"13,284"
+51015,"6,411"
+51017,428
+51019,"6,949"
+51021,772
+51023,"2,102"
+51025,"3,093"
+51027,"5,734"
+51029,"2,600"
+51031,"6,157"
+51033,"2,859"
+51035,"4,947"
+51036,835
+51037,"2,073"
+51041,"22,626"
+51043,953
+51045,590
+51047,"4,900"
+51049,"1,498"
+51051,"3,569"
+51053,"2,781"
+51057,"1,482"
+51059,"75,911"
+51061,"3,947"
+51063,"1,939"
+51065,"1,688"
+51067,"7,338"
+51069,"5,723"
+51071,"1,900"
+51073,"3,598"
+51075,"1,340"
+51077,"2,779"
+51079,"1,603"
+51081,"1,970"
+51083,"6,036"
+51085,"5,655"
+51087,"30,836"
+51089,"8,183"
+51091,275
+51093,"3,087"
+51095,"5,049"
+51097,862
+51099,"1,753"
+51101,"1,135"
+51103,"1,365"
+51105,"6,270"
+51107,"11,895"
+51109,"3,851"
+51111,"2,299"
+51113,"1,488"
+51115,842
+51117,"5,222"
+51119,"1,406"
+51121,"20,468"
+51125,"1,959"
+51127,"1,165"
+51131,"2,157"
+51133,"1,761"
+51135,"2,914"
+51137,"3,231"
+51139,"3,618"
+51141,"2,518"
+51143,"7,601"
+51145,"1,488"
+51147,"4,392"
+51149,"3,590"
+51153,"28,074"
+51155,"4,882"
+51157,651
+51159,"1,343"
+51161,"6,681"
+51163,"2,787"
+51165,"6,611"
+51167,"5,396"
+51169,"3,689"
+51171,"4,047"
+51173,"5,305"
+51175,"2,375"
+51177,"9,160"
+51179,"6,522"
+51181,833
+51183,"1,967"
+51185,"7,163"
+51187,"3,583"
+51191,"7,308"
+51193,"2,742"
+51195,"8,285"
+51197,"3,959"
+51199,"3,321"
+51510,"15,922"
+51520,"3,206"
+51530,826
+51540,"9,333"
+51550,"21,928"
+51570,"1,718"
+51580,861
+51590,"9,679"
+51595,"1,180"
+51600,"1,827"
+51610,498
+51620,"1,674"
+51630,"3,627"
+51640,"1,363"
+51650,"20,069"
+51660,"10,837"
+51670,"4,434"
+51678,"1,069"
+51680,"13,132"
+51683,"3,595"
+51685,"1,169"
+51690,"2,879"
+51700,"29,521"
+51710,"44,181"
+51720,863
+51730,"6,804"
+51735,600
+51740,"16,935"
+51750,"4,213"
+51760,"51,609"
+51770,"18,940"
+51775,"2,567"
+51790,"3,072"
+51800,"10,067"
+51810,"36,669"
+51820,"3,282"
+51830,"2,396"
+51840,"3,395"
+53000,"799,675"
+53001,"3,040"
+53003,"2,867"
+53005,"23,587"
+53007,"10,059"
+53009,"12,090"
+53011,"48,088"
+53013,537
+53015,"17,302"
+53017,"5,578"
+53019,"1,297"
+53021,"11,904"
+53023,305
+53025,"13,838"
+53027,"12,780"
+53029,"7,467"
+53031,"3,886"
+53033,"200,415"
+53035,"21,357"
+53037,"6,185"
+53039,"3,139"
+53041,"11,610"
+53043,"1,322"
+53045,"8,825"
+53047,"8,415"
+53049,"3,612"
+53051,"2,153"
+53053,"87,596"
+53055,"1,697"
+53057,"14,061"
+53059,"1,410"
+53061,"58,157"
+53063,"69,334"
+53065,"6,589"
+53067,"29,034"
+53069,518
+53071,"7,607"
+53073,"28,131"
+53075,"9,161"
+53077,"44,726"
+54000,"326,502"
+54001,"3,278"
+54003,"13,394"
+54005,"4,741"
+54007,"3,114"
+54009,"2,864"
+54011,"23,726"
+54013,"1,794"
+54015,"2,360"
+54017,"1,525"
+54019,"9,268"
+54021,"1,632"
+54023,"1,664"
+54025,"6,381"
+54027,"3,891"
+54029,"4,337"
+54031,"1,951"
+54033,"11,220"
+54035,"4,867"
+54037,"5,751"
+54039,"32,592"
+54041,"2,922"
+54043,"5,304"
+54045,"9,401"
+54047,"5,793"
+54049,"8,882"
+54051,"5,823"
+54053,"5,258"
+54055,"12,298"
+54057,"3,590"
+54059,"7,423"
+54061,"16,945"
+54063,"2,193"
+54065,"2,277"
+54067,"4,978"
+54069,"5,072"
+54071,"1,054"
+54073,889
+54075,"1,526"
+54077,"5,496"
+54079,"5,854"
+54081,"14,153"
+54083,"5,172"
+54085,"1,772"
+54087,"2,938"
+54089,"3,429"
+54091,"2,620"
+55093,"1,088"
+55095,"1,389"
+55097,"5,252"
+55099,"8,125"
+55101,"2,321"
+55103,"3,137"
+55105,"1,105"
+55107,"15,268"
+55109,"5,402"
+55000,"640,174"
+55001,"2,785"
+55003,"2,238"
+55005,"5,822"
+55007,"1,826"
+55009,"24,743"
+55011,"1,228"
+55013,"1,928"
+55015,"2,706"
+55017,"6,158"
+55019,"4,013"
+55021,"4,241"
+55023,"1,908"
+55025,"59,174"
+55027,"7,001"
+55029,"2,092"
+55031,"4,859"
+55033,"4,789"
+55035,"14,304"
+55037,520
+55039,"8,544"
+55041,"1,321"
+55043,"6,385"
+55045,"2,932"
+55047,"1,858"
+55049,"2,052"
+55051,841
+55053,"2,552"
+55055,"7,012"
+55057,"3,700"
+55059,"18,729"
+55061,"1,614"
+55063,"13,535"
+55065,"1,801"
+55067,"2,624"
+55069,"2,791"
+55071,"7,178"
+55073,"13,353"
+55075,"5,255"
+55077,"1,941"
+55078,"1,256"
+55079,"177,959"
+55081,"5,093"
+55083,"3,339"
+55085,"3,262"
+55087,"13,045"
+55089,"4,244"
+55091,761
+55093,"3,093"
+55095,"3,970"
+55097,"7,973"
+55099,"1,493"
+55101,"20,857"
+55103,"2,242"
+55105,"19,338"
+55107,"2,053"
+55109,"3,944"
+55111,"6,266"
+55113,"2,731"
+55115,"4,664"
+55117,"8,789"
+55119,"2,083"
+55121,"2,532"
+55123,"5,157"
+55125,"2,979"
+55127,"10,618"
+55129,"1,993"
+55131,"7,124"
+55133,"19,090"
+55135,"5,269"
+55137,"2,819"
+55139,"18,076"
+55141,"7,704"
+56000,"61,319"
+56001,"7,075"
+56003,"1,433"
+56005,"4,271"
+56007,"1,723"
+56009,"1,260"
+56011,565
+56013,"6,291"
+56015,"1,572"
+56017,556
+56019,792
+56021,"9,294"
+56023,"1,464"
+56025,"8,631"
+56027,290
+56029,"2,694"
+56031,881
+56033,"2,673"
+56035,643
+56037,"4,253"
+56039,"1,348"
+56041,"2,067"
+56043,845
+56045,699
