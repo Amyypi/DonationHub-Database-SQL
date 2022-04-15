@@ -8,7 +8,7 @@ cur.execute("DROP TABLE IF EXISTS states")
 cur.execute("DROP TABLE IF EXISTS counties")
 cur.execute("DROP TABLE IF EXISTS poverty")
 cur.execute("DROP TABLE IF EXISTS unemployment")
-#cur.execute("DROP TABLE IF EXISTS charities")
+cur.execute("DROP TABLE IF EXISTS charities")
  
 # Creating the tables
 cur.execute('''CREATE TABLE states(
@@ -35,20 +35,18 @@ cur.execute('''CREATE TABLE unemployment(
         RATE INT,
         FOREIGN KEY(COUNTYID) REFERENCES counties(ID));''')
 
-"""
 cur.execute('''CREATE TABLE charities(
         COUNTYID INT,
         ID INT PRIMARY KEY,
         NAME TEXT,
         FOREIGN KEY(COUNTYID) REFERENCES counties(ID));''')
-"""
 
 #Inserting data into the tables
 a_file = open("StatePopulations.csv")
 b_file = open("CountyPopulations.csv")
 c_file = open("poverty.csv")
 d_file = open("unemployment.csv")
-#e_file = open("charities.csv")
+e_file = open("charities.csv")
 
 rows = csv.reader(a_file)
 cur.executemany("INSERT INTO states (ID,NAME,ABBREVIATION,POP) VALUES (?,?,?,?);", rows)
@@ -58,8 +56,8 @@ rows = csv.reader(c_file)
 cur.executemany("INSERT OR IGNORE INTO poverty (COUNTYID,POVERTY) VALUES (?,?);", rows)
 rows = csv.reader(d_file)
 cur.executemany("INSERT OR IGNORE INTO unemployment (COUNTYID,NUMOFPEOPLE,RATE) VALUES (?,?,?);", rows)
-#rows = csv.reader(e_file)
-#cur.executemany("INSERT OR IGNORE INTO charities (STATEID,ID,NAME) VALUES (?,?,?);", rows)
+rows = csv.reader(e_file)
+cur.executemany("INSERT OR IGNORE INTO charities (COUNTYID,ID,NAME) VALUES (?,?,?);", rows)
 
 con.commit()
 con.close()
