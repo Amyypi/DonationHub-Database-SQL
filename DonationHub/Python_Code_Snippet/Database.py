@@ -25,12 +25,12 @@ cur.execute('''CREATE TABLE counties(
         FOREIGN KEY(STATEID) REFERENCES states(ID));''')
 
 cur.execute('''CREATE TABLE poverty(
-        COUNTYID INT,
+        COUNTYID INT PRIMARY KEY,
         POVERTY INT,
         FOREIGN KEY(COUNTYID) REFERENCES counties(ID));''')
 
 cur.execute('''CREATE TABLE unemployment(
-        COUNTYID INT,
+        COUNTYID INT PRIMARY KEY,
         NUMOFPEOPLE INT,
         RATE INT,
         FOREIGN KEY(COUNTYID) REFERENCES counties(ID));''')
@@ -55,11 +55,11 @@ cur.executemany("INSERT INTO states (ID,NAME,ABBREVIATION,POP) VALUES (?,?,?,?);
 rows = csv.reader(b_file)
 cur.executemany("INSERT INTO counties (STATEID,ID,NAME,POP) VALUES (?,?,?,?);", rows)
 rows = csv.reader(c_file)
-cur.executemany("INSERT INTO poverty (COUNTYID,POVERTY) VALUES (?,?);", rows)
+cur.executemany("INSERT OR IGNORE INTO poverty (COUNTYID,POVERTY) VALUES (?,?);", rows)
 rows = csv.reader(d_file)
-cur.executemany("INSERT INTO unemployment (COUNTYID,NUMOFPEOPLE,RATE) VALUES (?,?,?);", rows)
+cur.executemany("INSERT OR IGNORE INTO unemployment (COUNTYID,NUMOFPEOPLE,RATE) VALUES (?,?,?);", rows)
 #rows = csv.reader(e_file)
-#cur.executemany("INSERT INTO charities (STATEID,ID,NAME) VALUES (?,?,?);", rows)
+#cur.executemany("INSERT OR IGNORE INTO charities (STATEID,ID,NAME) VALUES (?,?,?);", rows)
 
 con.commit()
 con.close()
