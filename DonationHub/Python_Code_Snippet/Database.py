@@ -25,21 +25,22 @@ cur.execute('''CREATE TABLE counties(
         FOREIGN KEY(STATEID) REFERENCES states(ID));''')
 
 cur.execute('''CREATE TABLE poverty(
-        COUNTYID INT PRIMARY KEY,
+        COUNTYID INT,
         POVERTY INT,
-        FOREIGN KEY(COUNTYID) REFERENCES county(ID));''')
+        FOREIGN KEY(COUNTYID) REFERENCES counties(ID));''')
 
 cur.execute('''CREATE TABLE unemployment(
-        COUNTYID INT PRIMARY KEY,
+        COUNTYID INT,
         NUMOFPEOPLE INT,
         RATE INT,
-        FOREIGN KEY(COUNTYID) REFERENCES county(ID));''')
+        FOREIGN KEY(COUNTYID) REFERENCES counties(ID));''')
+
 """
 cur.execute('''CREATE TABLE charities(
         COUNTYID INT,
         ID INT PRIMARY KEY,
         NAME TEXT,
-        FOREIGN KEY(COUNTYID) REFERENCES county(ID));''')
+        FOREIGN KEY(COUNTYID) REFERENCES counties(ID));''')
 """
 
 #Inserting data into the tables
