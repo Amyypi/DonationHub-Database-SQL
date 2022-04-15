@@ -36,10 +36,10 @@ cur.execute('''CREATE TABLE unemployment(
         FOREIGN KEY(COUNTYID) REFERENCES counties(ID));''')
 
 cur.execute('''CREATE TABLE charities(
-        COUNTYID INT,
+        STATEID INT,
         ID INT PRIMARY KEY,
         NAME TEXT,
-        FOREIGN KEY(COUNTYID) REFERENCES counties(ID));''')
+        FOREIGN KEY(STATEID) REFERENCES states(ID));''')
 
 #Inserting data into the tables
 a_file = open("StatePopulations.csv")
@@ -57,7 +57,7 @@ cur.executemany("INSERT OR IGNORE INTO poverty (COUNTYID,POVERTY) VALUES (?,?);"
 rows = csv.reader(d_file)
 cur.executemany("INSERT OR IGNORE INTO unemployment (COUNTYID,NUMOFPEOPLE,RATE) VALUES (?,?,?);", rows)
 rows = csv.reader(e_file)
-cur.executemany("INSERT OR IGNORE INTO charities (COUNTYID,ID,NAME) VALUES (?,?,?);", rows)
+cur.executemany("INSERT OR IGNORE INTO charities (STATEID,ID,NAME) VALUES (?,?,?);", rows)
 
 con.commit()
 con.close()
