@@ -55,7 +55,7 @@ cur.executemany("INSERT INTO counties (STATEID,ID,COUNTYNAME,COUNTYPOP) VALUES (
 rows = csv.reader(c_file)
 cur.executemany("INSERT OR IGNORE INTO poverty (COUNTYID,POVERTY_ESTIMATE) VALUES (?,?);", rows)
 rows = csv.reader(d_file)
-cur.executemany("INSERT OR IGNORE INTO unemployment (COUNTYID,UNEMPLOYED_PEOPLE,UNEMPLOYED_RATE) VALUES (?,?,?);", rows)
+cur.executemany("INSERT OR IGNORE INTO unemployment (COUNTYID,UNEMPLOYED_PEOPLE,UNEMPLOYMENT_RATE) VALUES (?,?,?);", rows)
 rows = csv.reader(e_file)
 cur.executemany("INSERT OR IGNORE INTO charities (STATEID,ID,ORGANIZATION_NAME) VALUES (?,?,?);", rows)
 
