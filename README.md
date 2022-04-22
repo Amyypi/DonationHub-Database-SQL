@@ -34,6 +34,7 @@ DonationHub strives to increase efforts to help out the people in need with vari
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [SQLAlchemy](https://www.sqlalchemy.org/)
+* [Django](https://www.djangoproject.com/)
 
 <p> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://d2knvm16wkt3ia.cloudfront.net/assets/svg-icon/flask.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a> </a></p>
 
@@ -47,9 +48,11 @@ https://github.com/UMBC-CMSC461-SP2022/project-donationshub
  
 Through terminal (or VSCode’s terminal), move into the workspace folder. From there, you can do the following steps to install the virtual environment and the rest of the dependents. From there you should be able to run the site: 
 
-### Flask and Python
+### Flask, Python, and Django
 
 <i>To learn more about Flask, [here](https://www.askpython.com/python-modules/flask/create-hello-world-in-flask) is a tutorial of how to setup and create a Hello World app in flask (This is not required for this project, but will help you understand flask).</i> Otherwise just ignore and follow the next few steps to install + setup for this project. 
+
+You will also need to download Django, please refer to this site [here](https://www.djangoproject.com/download/).
 
 If you're using Vscode,  please install the <i>sqlite</i> extension for better view of the database tables.
 
@@ -71,11 +74,12 @@ py –m venv venv
 py -m pip install flask 
 py -m pip install flask-sqlalchemy 
 py -m pip install requests 
+py -m pip install Django==4.0.4
 ```
 
 4. Once you’ve installed these dependents, create a flask command that will be used to specify how to load the application (assuming you’re using bash, otherwise check out the flask site): 
 ```
-set FLASK_APP=app.py 
+set FLASK_APP=run.py 
 flask run 
 ```
 (Make sure you’re within the DonationHub folder that has app.py)
@@ -113,10 +117,11 @@ source <name of environment>/bin/activate
 python -m pip install flask
 python -m pip install flask-sqlalchemy
 python -m pip install requests
+python -m pip install Django==4.0.4
 ```
 4. Once you've installed these dependents, create a flask command that will be used to specify how to load the application <i>(assuming you're using bash, otherwise check out the [flask site](https://flask.palletsprojects.com/en/2.0.x/cli/)</i>:
 ```
-export FLASK_APP=app.py
+export FLASK_APP=run.py
 flask run
 ```
 (Make sure you’re within the DonationHub folder that has app.py)

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+.body-container{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.site-navbar{
+  color:black;  
+  padding: .5rem;
+  padding-bottom: -25px;
+  margin-bottom: 2rem;
+  border-bottom-style: solid;
+  border-bottom-color: gray;
+  border-bottom-width: 1px;
+  padding-left:3rem;
+  padding-right:3rem;
+
+}
+
+.container-navbar div{
+    margin:0;
+    padding:0;
+    height: 25px;
+}
+
