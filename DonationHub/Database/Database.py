@@ -59,5 +59,18 @@ cur.executemany("INSERT OR IGNORE INTO unemployment (COUNTYID,UNEMPLOYED_PEOPLE,
 rows = csv.reader(e_file)
 cur.executemany("INSERT OR IGNORE INTO charities (STATEID,ORGID,ORGANIZATION_NAME) VALUES (?,?,?);", rows)
 
+'''
+sqlite_select_query = """SELECT * from charities"""
+cur.execute(sqlite_select_query)
+records = cur.fetchall()
+print("Total rows are:  ", len(records))
+print("Printing each row")
+for row in records:
+        print("State Id: ", row[0])
+        print("Charity ID: ", row[1])
+        print("Organization Name: ", row[2])
+        print("\n")
+'''
+
 con.commit()
 con.close()
