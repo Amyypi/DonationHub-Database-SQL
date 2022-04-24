@@ -1,5 +1,4 @@
 import pandas as pd
-import csv
 
 def Total(file,colIndex):
         fp = file
