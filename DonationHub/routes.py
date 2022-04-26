@@ -6,20 +6,18 @@ from DonationHub import app, db
 from DonationHub.models import charities, counties, poverty, states, unemployment
 import requests
 
-#@app.route('/')
-#def main():
-#	return render_template('DataDashboard.html')
-
-#db.create_all()
-
-# Info: https://datatables.net/reference/option/
 ##################################
-#  Unemployment table page
+#  Default Page
 ##################################
 @app.route('/')
 def index():
     return render_template('unemployment_table.html', title='Unemployment Data')
 
+
+# Info: https://datatables.net/reference/option/
+##################################
+#  Unemployment table page
+##################################
 @app.route('/api/unemploymentData')
 def data():
     query = unemployment.query
@@ -68,4 +66,4 @@ def data():
 if __name__ == '__main__':
     app.run()
 
-print("Running routes.py\n");
+print("Running routes.py\n")
