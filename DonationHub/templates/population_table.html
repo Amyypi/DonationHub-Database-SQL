@@ -1,0 +1,36 @@
+{% extends 'DataDashboard.html' %}
+
+{% block content %}
+  <table id="data" class="table table-striped">
+    <thead>
+      <tr>
+        <th>STATE FIPS</th>
+        <th>STATE NAME</th>
+        <th>STATE ABBREVIATION</th>
+        <th>STATE POPULATION</th>
+        <th>COUNTY FIPS</th>
+        <th>COUNTY NAME</th>
+        <th>COUNTY POPULATION</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  $(document).ready(function () {
+    $('#data').DataTable({
+      ajax: '/api/unemploymentData',
+      serverSide: true,
+      columns: [
+        {data: 'COUNTYID', orderable: true, search: false},
+        {data: 'UNEMPLOYED_PEOPLE', orderable: true, search: false},
+        {data: 'UNEMPLOYMENT_RATE', orderable: true, search: false}
+      ],
+    });
+  });
+</script>
+
+{% endblock %}

@@ -52,8 +52,6 @@ Through terminal (or VSCode’s terminal), move into the workspace folder. From 
 
 <i>To learn more about Flask, [here](https://www.askpython.com/python-modules/flask/create-hello-world-in-flask) is a tutorial of how to setup and create a Hello World app in flask (This is not required for this project, but will help you understand flask).</i> Otherwise just ignore and follow the next few steps to install + setup for this project. 
 
-You will also need to download Django, please refer to this site [here](https://www.djangoproject.com/download/).
-
 If you're using Vscode,  please install the <i>sqlite</i> extension for better view of the database tables.
 
 **Windows:**
@@ -73,9 +71,11 @@ py –m venv venv
 ```
 py -m pip install flask 
 py -m pip install flask-sqlalchemy 
+py -m pip install pandas
 py -m pip install requests 
 py -m pip install Django==4.0.4
 ```
+You will also need to download Django, please refer to this site [here](https://www.djangoproject.com/download/). (It might say that you have Django 4.0.4 version is unavailable, in that case please just donwload the recent version of Django.)
 
 4. Once you’ve installed these dependents, create a flask command that will be used to specify how to load the application (assuming you’re using bash, otherwise check out the flask site): 
 ```
@@ -116,9 +116,12 @@ source <name of environment>/bin/activate
 ```
 python -m pip install flask
 python -m pip install flask-sqlalchemy
+python -m pip install pandas
 python -m pip install requests
 python -m pip install Django==4.0.4
 ```
+You will also need to download Django, please refer to this site [here](https://www.djangoproject.com/download/). (It might say that you have Django 4.0.4 version is unavailable, in that case please just donwload the recent version of Django.)
+
 4. Once you've installed these dependents, create a flask command that will be used to specify how to load the application <i>(assuming you're using bash, otherwise check out the [flask site](https://flask.palletsprojects.com/en/2.0.x/cli/)</i>:
 ```
 export FLASK_APP=run.py
