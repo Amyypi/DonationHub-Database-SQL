@@ -65,7 +65,7 @@ def data():
     # response
     return {
         'data': [unemployment.to_dict() for unemployment in query],
-   #    'recordsFiltered': total_filtered,
+       'recordsFiltered': total_filtered,
         'recordsTotal': unemployment.query.count(),
         'draw': request.args.get('draw', type=int),
     }
