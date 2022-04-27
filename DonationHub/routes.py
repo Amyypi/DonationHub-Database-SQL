@@ -4,6 +4,9 @@ from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.exc import IntegrityError
 from DonationHub import app, db
 from DonationHub.models import charities, counties, poverty, states, unemployment
+#from DonationHub.backend import table_queries, computations
+from DonationHub.BackEnd.backend import *
+
 import requests
 
 ##################################
@@ -11,7 +14,12 @@ import requests
 ##################################
 @app.route('/')
 def index():
-    return render_template('unemployment_table.html', title='Unemployment Data')
+    #Count_example= Count(['Maryland','Alaska'])
+    #unemployment_result = db.session.query(states, counties, unemployment, ).join(counties).join(unemployment).all()
+    state_list = states.query
+    county_list = counties.query
+    #print(Count_example)
+    return render_template('unemployment_table.html', title='Unemployment Data', state_list=state_list, county_list=county_list)
 
 
 # Info: https://datatables.net/reference/option/

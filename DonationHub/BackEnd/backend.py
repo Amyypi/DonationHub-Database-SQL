@@ -12,6 +12,7 @@ charities = 5
 con = sqlite3.connect("data.db")
 cur = con.cursor()
 
+#class table_queries():
 # View and Retrieve Data
 def getOnlyStateAndCountyTable(stateLst,countyLst):
         query1 = "create temp table tb(STATEID INT, STATENAME TEXT, ABBREVIATION TEXT, STATEPOP INT,COUNTYID INT, COUNTYNAME TEXT, COUNTYPOP INT)"
@@ -73,6 +74,7 @@ def getDefaultTable(stateLst,countyLst):
         records = cur.fetchall()
         return records
 
+#class computations():
 # Computations
 def getData(dataset,colIndex):
         df = pd.DataFrame(dataset)
@@ -80,11 +82,11 @@ def getData(dataset,colIndex):
         data = list(column)
         return data
 
-def Total(data):
-        return sum(data)
-
 def Average(data):
         return mean(data)
+
+def Total(data):
+        return sum(data)
 
 def Count(data):
         return len(data)
@@ -121,15 +123,18 @@ def getTotalCharities(records):
         data = getData(records,unemploymentRate)
         return Count(data)
 
-def main():
-        states = ['Maryland','Alaska']
-        counties = ["Howard","Baltimore"]
-        records = getOnlyUnemploymentTable(states,counties)
-        a = getTotalUnEmployedPeople(records)
-        print(a)
-        df = pd.DataFrame(records)
-        df.to_csv("sol.csv")
-        con.commit()
-        con.close()
+def test_count():
+        return 1
 
-main()
+
+#def main():
+        #states = ['Maryland','Alaska']
+        #counties = ["Howard","Baltimore"]
+        #records = getOnlyUnemploymentTable(states,counties)
+        #a = getTotalUnEmployedPeople(records)
+        #print(a)
+        #df = pd.DataFrame(records)
+        #df.to_csv("sol.csv")
+        #con.commit()
+        #con.close()
+#main()

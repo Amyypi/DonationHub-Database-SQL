@@ -22,6 +22,14 @@
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/dataTables.bootstrap5.css">
 	<link rel="stylesheet" type="text/css" href="static/stylesheet.css">
+	
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.min.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/js/bootstrap-select.min.js"></script>
+
+
 </head>
 <body>
 	<!-- Nav Bar -->
@@ -46,14 +54,47 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-lg-9">
-					{% block content %} {% endblock %}
+					<!-- State select dropdown -->
+					<div class="row" id="dropdown-row">
+						<div class="col-sm-3">
+							<form method="post" id="multiple_select_form">
+								<select name="s_list" id="s_list" class="form-control selectpicker" data-live-search="true" multiple>
+									{% for row in state_list %}
+									<option value="{{row.STATENAME}}">{{row.STATENAME}}</option>
+									{% endfor %}
+								</select>
+							</form>
+						</div>
+						<div class="col-sm-3">
+							<form method="post" id="multiple_select_form">
+								<select name="c_list" id="c_list" class="form-control selectpicker" data-live-search="true" multiple>
+									{% for row in county_list %}
+									<option value="{{row.COUNTYNAME}}">{{row.COUNTYNAME}}</option>
+									{% endfor %}
+								</select>
+							</form>
+						</div>
+						<div class="col-sm-2">
+							<input style="margin-top: .5rem" type="submit" name="submit" class="btn btn-info" value="Submit" />
+						</div>
+					</div>
+					<div class="row">
+						{% block content %} {% endblock %}
+					</div>
 				</div>
+				<!-- Counry select dropdown -->
 				<div class="col-lg-3">
 					<h3>calculations here</h3>
 				</div>
 			</div>
 		</div>
 	</div>
+	<script>
+		$(document).ready(function(){
+			$('.selectpicker').selectpicker();
+		});
+	</script>
+
 	<script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/dataTables.bootstrap5.js"></script>
