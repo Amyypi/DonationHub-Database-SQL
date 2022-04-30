@@ -1,5 +1,7 @@
 from flask import Flask, render_template, request
 from flask_sqlalchemy import SQLAlchemy
+from flask_wtf import FlaskForm
+from wtforms import SelectField
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data.db'
@@ -45,7 +47,10 @@ class unemployment(db.Model):
         'UNEMPLOYED_PEOPLE': self.UNEMPLOYED_PEOPLE,
         'UNEMPLOYMENT_RATE': self.UNEMPLOYMENT_RATE,
     	}
-	
+
+class Form(FlaskForm):
+    state = SelectField('state', choices=[])
+    county = SelectField('county', choices=[])
 
 ## You can also do this in routes.py within specific functions. but just for easier view - I wrote this down here: 
 
