@@ -74,6 +74,8 @@ py -m pip install flask-sqlalchemy
 py -m pip install pandas
 py -m pip install requests 
 py -m pip install Django==4.0.4
+py -m pip install flask-WTF
+py -m pip install wtforms
 ```
 You will also need to download Django, please refer to this site [here](https://www.djangoproject.com/download/). (It might say that you have Django 4.0.4 version is unavailable, in that case please just donwload the recent version of Django.)
 
@@ -119,6 +121,8 @@ python -m pip install flask-sqlalchemy
 python -m pip install pandas
 python -m pip install requests
 python -m pip install Django==4.0.4
+python -m pip install flask-WTF
+python -m pip install wtforms
 ```
 You will also need to download Django, please refer to this site [here](https://www.djangoproject.com/download/). (It might say that you have Django 4.0.4 version is unavailable, in that case please just donwload the recent version of Django.)
 
