@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+html{
+  height:1490px;
 
+}
 
 .body-container{
     margin-left: 3rem;
@@ -19,6 +22,10 @@
 
 }
 
+#drop-down{
+  margin: 0;
+}
+
 .container-navbar div{
     margin:0;
     padding:0;
@@ -27,4 +34,51 @@
 
 #dropdown-row{
   margin-bottom: 2rem;
+  margin-left: 0;
+  padding-left: 0;
+}
+#dropdown-col{
+  margin-left: 0;
+  padding-left: 0;
+
+}
+
+#dropdown-button{
+  margin-left: 0;
+  padding-left: 0;
+
+}
+
+.table{
+  border-spacing: 0;
+  margin: 1rem;
+  background: white;
+}
+
+.table_row:nth-child(even){
+  background:#f7f7f7
+}
+
+.table_header{
+  text-align: left;
+}
+
+.table_cell{
+  padding: 8px;
+}
+
+#table{
+  border: 1px solid white;
+  width:100%;
+  height: 100%;
+  overflow: scroll;
+}
+
+#Calc p{
+  font-size: 2rem;
+}
+
+#submit-btn{
+
+  margin-top:2.5rem;
 }

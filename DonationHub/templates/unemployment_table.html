@@ -1,35 +1,32 @@
 {% extends 'DataDashboard.html' %}
 
 {% block content %}
-  <!-- <h1>Count_example: {{Count_example }}</h1> -->
-  <table id="data" class="table table-striped">
-    <thead>
-      <tr>
-        <th>COUNTYID</th>
-        <th>UNEMPLOYED_PEOPLE</th>
-        <th>UNEMPLOYMENT_RATE</th>
-      </tr>
-    </thead>
-    <tbody>
-    </tbody>
+
+  <table class="table">
+    <tr class="table_header">
+      {% for header in headings %}
+          <th>{{ header }}</th>
+      {% endfor %}
+    </tr>
+    
+    {% for row in result %}
+    <tr class="table_row">
+      {% for result in row%}
+        <td class="table_cell">{{ result }}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
   </table>
+{% endblock %}
+
+{% block body %}
+<p>Total unemployed people: {{ tot_unemp_people }}</p>
+<p>Average unemployed people: {{ avg_unemp_people }}</p>
+<p>Average unemployed rate:{{ avg_unemp_rate }}</p>
 {% endblock %}
 
 {% block scripts %}
 <script>
-  $(document).ready(function () {
-    $('#data').DataTable({
-      ajax: '/api/unemploymentData',
-      serverSide: true,
-      columns: [
-        {data: 'COUNTYID', orderable: true, search: false},
-        {data: 'UNEMPLOYED_PEOPLE', orderable: true, search: false},
-        {data: 'UNEMPLOYMENT_RATE', orderable: true, search: false}
-      ],
-    });
-  });
-
-
   
 </script>
 

@@ -81,8 +81,7 @@ You will also need to download Django, please refer to this site [here](https://
 
 4. Once you’ve installed these dependents, create a flask command that will be used to specify how to load the application (assuming you’re using bash, otherwise check out the flask site): 
 ```
-set FLASK_APP=run.py 
-flask run 
+python routes.py
 ```
 (Make sure you’re within the DonationHub folder that has app.py)
 
@@ -128,8 +127,7 @@ You will also need to download Django, please refer to this site [here](https://
 
 4. Once you've installed these dependents, create a flask command that will be used to specify how to load the application <i>(assuming you're using bash, otherwise check out the [flask site](https://flask.palletsprojects.com/en/2.0.x/cli/)</i>:
 ```
-export FLASK_APP=run.py
-flask run
+python routes.py
 ```
 (Make sure you’re within the DonationHub folder that has app.py)
 

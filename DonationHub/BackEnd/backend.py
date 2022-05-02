@@ -9,8 +9,9 @@ unemployedPeople = 7
 unemploymentRate = 8
 charities = 5
 
-con = sqlite3.connect("data.db")
+con = sqlite3.connect("data.db", check_same_thread=False )
 cur = con.cursor()
+
 
 #class table_queries():
 # View and Retrieve Data
@@ -27,6 +28,7 @@ def getOnlyStateAndCountyTable(stateLst,countyLst):
         return records
 
 def getOnlyPovertyTable(stateLst,countyLst):
+        
         query1 = "create temp table tb(STATEID INT,STATENAME TEXT,ABBREVIATION TEXT,STATEPOP INT,COUNTYID INT,COUNTYNAME TEXT,COUNTYPOP INT,POVERTY_ESTIMATE INT)"
         query2 = "insert into tb select s.*, c.COUNTYID, c.COUNTYNAME, c.COUNTYPOP, p.POVERTY_ESTIMATE from states as s natural join counties as c natural join poverty as p"
         cur.execute(query1)
@@ -39,6 +41,8 @@ def getOnlyPovertyTable(stateLst,countyLst):
         return records
 
 def getOnlyUnemploymentTable(stateLst,countyLst):
+        con = sqlite3.connect("data.db", check_same_thread=False )
+        cur = con.cursor()
         query1 = "create temp table tb(STATEID INT,STATENAME TEXT,ABBREVIATION TEXT,STATEPOP INT,COUNTYID INT,COUNTYNAME TEXT,COUNTYPOP INT,UNEMPLOYED_PEOPLE INT,UNEMPLOYMENT_RATE INT)"
         query2 = "insert into tb select s.*, c.COUNTYID, c.COUNTYNAME, c. COUNTYPOP, u.UNEMPLOYED_PEOPLE, u.UNEMPLOYMENT_RATE from states as s natural join counties as c natural join unemployment as u"
         cur.execute(query1)
@@ -48,6 +52,8 @@ def getOnlyUnemploymentTable(stateLst,countyLst):
         query4 = f"SELECT * FROM tb1 WHERE tb1.COUNTYNAME in ({','.join(['?']*len(countyLst))})"
         cur.execute(query4, countyLst)
         records = cur.fetchall()
+        con.commit()
+        con.close()
         return records
 
 def getOnlyCharitiesTable(stateLst,countyLst):
@@ -126,15 +132,17 @@ def getTotalCharities(records):
 def test_count():
         return 1
 
-
+#
 #def main():
-        #states = ['Maryland','Alaska']
-        #counties = ["Howard","Baltimore"]
-        #records = getOnlyUnemploymentTable(states,counties)
-        #a = getTotalUnEmployedPeople(records)
-        #print(a)
-        #df = pd.DataFrame(records)
-        #df.to_csv("sol.csv")
-        #con.commit()
-        #con.close()
+ #       states = ['Maryland','Alaska']
+#        counties = ["Howard","Baltimore"]
+#        records = getOnlyUnemploymentTable(states,counties)
+ #       a = getTotalUnEmployedPeople(records)
+  #      print(a)
+   ##     df = pd.DataFrame(records)
+    #    df.to_csv("sol.csv")
+        
+    #    con.commit()
+    #    con.close()
+
 #main()
