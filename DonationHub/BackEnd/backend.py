@@ -80,7 +80,16 @@ def getDefaultTable(stateLst,countyLst):
         records = cur.fetchall()
         return records
 
-#class computations():
+def getCountiesList(stateLst):
+        query1 = "create temp table tb (STATEID INT, STATENAME TEXT, ABBREVIATION TEXT, STATEPOP INT,COUNTYID INT, COUNTYNAME TEXT, COUNTYPOP INT)"
+        query2 = "insert into tb select s.*, c.COUNTYID, c.COUNTYNAME, c.COUNTYPOP from states as s natural join counties as c"
+        cur.execute(query1)
+        cur.execute(query2)
+        query3 = f"SELECT tb.COUNTYNAME FROM tb WHERE tb.STATENAME in ({','.join(['?']*len(stateLst))})"
+        cur.execute(query3,stateLst)
+        records = cur.fetchall()
+        return records
+
 # Computations
 def getData(dataset,colIndex):
         df = pd.DataFrame(dataset)
