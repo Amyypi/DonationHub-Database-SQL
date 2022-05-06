@@ -23,7 +23,7 @@ html{
 }
 
 #drop-down{
-  margin: 0;
+  color: black;
 }
 
 .container-navbar div{
@@ -44,8 +44,7 @@ html{
 }
 
 #dropdown-button{
-  margin-left: 0;
-  padding-left: 0;
+  color: black;
 
 }
 
@@ -75,10 +74,17 @@ html{
 }
 
 #Calc p{
-  font-size: 2rem;
+  font-size: 1.1em;
+}
+
+.bold{
+  font-weight: bold;
 }
 
 #submit-btn{
-
   margin-top:2.5rem;
+}
+
+select {
+  width: 40%;
 }
