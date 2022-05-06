@@ -83,7 +83,7 @@ def getDefaultTable(stateLst,countyLst):
         con = sqlite3.connect("data.db", check_same_thread=False )
         cur = con.cursor()
         query1 = "create temp table tb(STATEID INT,STATENAME TEXT,ABBREVIATION TEXT,STATEPOP INT,COUNTYID INT,COUNTYNAME TEXT,COUNTYPOP INT, POVERTY_ESTIMATE INT,UNEMPLOYED_PEOPLE INT, UNEMPLOYMENT_RATE INT)"
-        query2 = "insert into tb select s.*, c.COUNTYID, c.COUNTYNAME, c.COUNTYPOP, p.POVERTY_ESTIMATE, u.UNEMPLOYED_PEOPLE, u.UNEMPLOYMENT_RATE from states as s natural join counties as c natural join natural join poverty as p unemployment as u"
+        query2 = "insert into tb select s.*, c.COUNTYID, c.COUNTYNAME, c.COUNTYPOP, p.POVERTY_ESTIMATE, u.UNEMPLOYED_PEOPLE, u.UNEMPLOYMENT_RATE from states as s natural join counties as c natural join poverty as p natural join unemployment as u"
         cur.execute(query1)
         cur.execute(query2)
         query3 = f"create temp table tb1 as SELECT * FROM tb WHERE tb.STATENAME in ({','.join(['?']*len(stateLst))})"
