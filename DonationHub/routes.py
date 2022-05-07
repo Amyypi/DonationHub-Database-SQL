@@ -1,21 +1,17 @@
 from flask import Flask, render_template, url_for, flash, redirect, request, jsonify, json
 from sqlalchemy import func, select
 from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy.exc import IntegrityError
 from models import charities, counties, poverty, states, unemployment, Form
 from BackEnd.backend import *
 from flask_wtf import FlaskForm
 from wtforms import SelectField, SelectMultipleField, Form
 from wtforms.fields import SelectMultipleField, SubmitField
 from statistics import mean
-
 import sqlite3
 import pandas as pd
-import requests
 
 #initialize the flask app
 app = Flask(__name__)
-#app.config['JSONIFY_PRETTYPRINT_REGULAR'] = False
 
 #tell sqlalchemy where the database file is
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
@@ -62,7 +58,6 @@ def index():
     for state_info in state_na:
         stateObj = state_info.STATENAME
         stateArray.append(stateObj)
-    #print(stateArray)
 
     # put counties in a list
     count_na = db.session.query(counties.COUNTYNAME).all()
@@ -71,9 +66,6 @@ def index():
         countyObj = county_info.COUNTYNAME
         countyArray.append(countyObj)
     choices = countyArray
-
-    form_data = form.select_multiple_field.data
-    print(form_data)
 
     # Make table
     result = getDefaultTable(stateArray,choices)
@@ -123,7 +115,7 @@ def default_county():
 
     # Make table
     result = getDefaultTable(stateArray,countyArray)
-    print(result)
+
     # Computations
     tot_counties = getCountiesTotalPopulation(result)
     avg_counties = getCountiesAveragePopulation(result)
@@ -160,7 +152,6 @@ def population_state():
     for state_info in state_na:
         stateObj = state_info.STATENAME
         stateArray.append(stateObj)
-    #print(stateArray)
 
     # put counties in a list
     count_na = db.session.query(counties.COUNTYNAME).all()
@@ -169,9 +160,6 @@ def population_state():
         countyObj = county_info.COUNTYNAME
         countyArray.append(countyObj)
     choices = countyArray
-
-    form_data = form.select_multiple_field.data
-    print(form_data)
 
     # Make table
     result = getOnlyStateAndCountyTable(stateArray,choices)
@@ -212,7 +200,6 @@ def population_county():
 
     # Make table
     result = getOnlyStateAndCountyTable(stateArray,countyArray)
-    print(result)
     # Computations
     tot_counties = getCountiesTotalPopulation(result)
     avg_counties = getCountiesAveragePopulation(result)
@@ -245,7 +232,6 @@ def unemployment_state():
     for state_info in state_na:
         stateObj = state_info.STATENAME
         stateArray.append(stateObj)
-    #print(stateArray)
 
     # put counties in a list
     count_na = db.session.query(counties.COUNTYNAME).all()
@@ -254,9 +240,6 @@ def unemployment_state():
         countyObj = county_info.COUNTYNAME
         countyArray.append(countyObj)
     choices = countyArray
-
-    form_data = form.select_multiple_field.data
-    print(form_data)
 
     # Make table
     result = getOnlyUnemploymentTable(stateArray,choices)
@@ -275,7 +258,6 @@ def unemployment_county():
     stateArray = []
     statename = state.STATENAME
     stateArray.append(statename)
-    print("county in post", county_l)
 
     countyArray = []
     for county_info in county_l:
@@ -329,7 +311,6 @@ def poverty_state():
     for state_info in state_na:
         stateObj = state_info.STATENAME
         stateArray.append(stateObj)
-    #print(stateArray)
 
     # put counties in a list
     count_na = db.session.query(counties.COUNTYNAME).all()
@@ -338,9 +319,6 @@ def poverty_state():
         countyObj = county_info.COUNTYNAME
         countyArray.append(countyObj)
     choices = countyArray
-
-    form_data = form.select_multiple_field.data
-    print(form_data)
 
     # Make table
     result = getOnlyPovertyTable(stateArray,choices)
@@ -381,7 +359,7 @@ def poverty_county():
 
     # Make table
     result = getOnlyPovertyTable(stateArray,countyArray)
-    print(result)
+
     # Computations
     tot_poverty = getTotalPovertyEstimates(result)
     avg_poverty = getAveragePovertyEstimates(result)
@@ -420,10 +398,6 @@ def charities_state():
     for state_info in state_na:
         stateObj = state_info.STATENAME
         stateArray.append(stateObj)
-    #print(stateArray)
-
-    form_data = form.select_multiple_field.data
-    print(form_data)
 
     # Make table
     result = getOnlyCharitiesTable(stateArray)
