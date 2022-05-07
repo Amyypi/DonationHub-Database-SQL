@@ -1,5 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url("https://use.typekit.net/ngb7erh.css");
+html{
+  height:1490px;
+  font-family: neue-haas-unica, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
+#page-title{
+  font-family: neue-haas-unica, sans-serif;
+  font-weight: 800;
+  font-size: 1.5em;
+  font-style: normal;
+}
 
 .body-container{
     margin-left: 3rem;
@@ -8,15 +20,23 @@
 
 .site-navbar{
   color:black;  
-  padding: .5rem;
-  padding-bottom: -25px;
-  margin-bottom: 2rem;
-  border-bottom-style: solid;
-  border-bottom-color: gray;
-  border-bottom-width: 1px;
-  padding-left:3rem;
-  padding-right:3rem;
+  padding:0;
+  margin: 0;
+}
 
+#navbar{
+  margin: 0;
+  padding: 0;
+
+}
+
+.container-fluid{
+  padding: 0;
+  margin: 0;
+}
+
+#drop-down{
+  color: black;
 }
 
 .container-navbar div{
@@ -25,3 +45,99 @@
     height: 25px;
 }
 
+#dropdown-row{
+  margin-bottom: 2rem;
+  margin-left: 0;
+  padding-left: 0;
+}
+#dropdown-col{
+  margin-left: 0;
+  padding-left: 0;
+
+}
+
+#drop-down{
+  margin-left:0;
+}
+
+#dropdown-button{
+  color: black;
+
+}
+
+.table{
+  border-spacing: 0;
+  margin: 1rem;
+  background: white;
+}
+
+.table_row:nth-child(even){
+  background:#f7f7f7
+}
+
+.table_header{
+  text-align: left;
+}
+
+.table_cell{
+  padding: 8px;
+}
+
+#table{
+  border: 1px solid white;
+  width:100%;
+  height: 100%;
+  overflow: scroll;
+}
+
+#Calc p{
+  font-size: 1.1em;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+#submit-btn{
+  margin-top:2.5rem;
+}
+
+select {
+  width: 40%;
+}
+
+#navigationID:hover{
+  color: #10AFAA;
+}
+
+.button-group{
+  display: inline-flex;
+  float:right;
+  padding-top: 2.2rem;
+
+}
+
+.button{
+  padding: 10px;
+  padding-left: 35px;
+  padding-right: 35px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: #D5EEEE;
+  color: black;
+}
+
+.button:hover{
+  background: #10AFAA;
+  color: white;
+}
+
+#submit-btn{
+  padding: 1rem;
+  margin-left: 1rem;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background: #10AFAA;
+}

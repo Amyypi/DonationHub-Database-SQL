@@ -74,13 +74,14 @@ py -m pip install flask-sqlalchemy
 py -m pip install pandas
 py -m pip install requests 
 py -m pip install Django==4.0.4
+py -m pip install flask-WTF
+py -m pip install wtforms
 ```
 You will also need to download Django, please refer to this site [here](https://www.djangoproject.com/download/). (It might say that you have Django 4.0.4 version is unavailable, in that case please just donwload the recent version of Django.)
 
 4. Once you’ve installed these dependents, create a flask command that will be used to specify how to load the application (assuming you’re using bash, otherwise check out the flask site): 
 ```
-set FLASK_APP=run.py 
-flask run 
+python routes.py
 ```
 (Make sure you’re within the DonationHub folder that has app.py)
 
@@ -119,13 +120,14 @@ python -m pip install flask-sqlalchemy
 python -m pip install pandas
 python -m pip install requests
 python -m pip install Django==4.0.4
+python -m pip install flask-WTF
+python -m pip install wtforms
 ```
 You will also need to download Django, please refer to this site [here](https://www.djangoproject.com/download/). (It might say that you have Django 4.0.4 version is unavailable, in that case please just donwload the recent version of Django.)
 
 4. Once you've installed these dependents, create a flask command that will be used to specify how to load the application <i>(assuming you're using bash, otherwise check out the [flask site](https://flask.palletsprojects.com/en/2.0.x/cli/)</i>:
 ```
-export FLASK_APP=run.py
-flask run
+python routes.py
 ```
 (Make sure you’re within the DonationHub folder that has app.py)
 
