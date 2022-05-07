@@ -38,7 +38,7 @@ class Form(FlaskForm):
     submit = SubmitField()
 
 ########################################
-# Default 
+# Default (done)
 ########################################
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -135,6 +135,90 @@ def default_county():
 
     return render_template('default_table_county.html', county_list=county_l, result=result, headings=headings, tot_poverty=tot_poverty, tot_counties=tot_counties, avg_poverty=avg_poverty, avg_counties=avg_counties, tot_unemp_people=tot_unemp_people, avg_unemp_people=avg_unemp_people, avg_unemp_rate=avg_unemp_rate)
 
+########################################
+# Population 
+########################################
+@app.route('/population_state', methods=['GET', 'POST'])
+def population_state():
+    # Headings for the table
+    headings = ("State FIPS","State Name","Abbreviation","State Population", "County FIPS","County Name","County Population")
+    # Make dropdown for state options
+    form = Form()
+    form.state.choices = [(state.STATEID, state.STATENAME) for state in states.query.all()]
+
+    # SELECT 
+    if request.method == 'POST':
+        state_l = states.query.filter_by(STATEID=form.state.data).first()
+        stateArray = []
+        stateObj = state_l.STATENAME
+        stateArray.append(stateObj)
+        return redirect(url_for('population_county', state_l=stateArray))
+
+     # put states in a list
+    state_na = db.session.query(states.STATENAME).all()
+    stateArray = []
+    for state_info in state_na:
+        stateObj = state_info.STATENAME
+        stateArray.append(stateObj)
+    #print(stateArray)
+
+    # put counties in a list
+    count_na = db.session.query(counties.COUNTYNAME).all()
+    countyArray = []
+    for county_info in count_na:
+        countyObj = county_info.COUNTYNAME
+        countyArray.append(countyObj)
+    choices = countyArray
+
+    form_data = form.select_multiple_field.data
+    print(form_data)
+
+    # Make table
+    result = getOnlyStateAndCountyTable(stateArray,choices)
+    # Computations
+    tot_counties = getCountiesTotalPopulation(result)
+    avg_counties = getCountiesAveragePopulation(result)
+    
+    return render_template('population_table_state.html', form=form, result=result, headings=headings, tot_counties=tot_counties, avg_counties=avg_counties )
+
+
+@app.route('/population_county', methods=['GET', 'POST'])
+def population_county():
+    state_l = request.args['state_l']
+    headings = ("State FIPS","State Name","Abbreviation","State Population", "County FIPS","County Name","County Population")
+    state = states.query.filter(states.STATENAME==state_l).first()
+    county_l = counties.query.filter(counties.STATEID==state.STATEID).all()
+
+    stateArray = []
+    statename = state.STATENAME
+    stateArray.append(statename)
+
+    countyArray = []
+    for county_info in county_l:
+        countyObj = county_info.COUNTYNAME
+        countyArray.append(countyObj)
+
+    if request.method == 'POST':
+        # Retrieve county selection from dropdown
+        county_list = request.form.getlist('c_list')
+
+        # Make table
+        result = getOnlyStateAndCountyTable(stateArray,county_list)
+        # Computations
+        tot_counties = getCountiesTotalPopulation(result)
+        avg_counties = getCountiesAveragePopulation(result)
+
+        return render_template('population_table_county.html', county_list=county_l, result=result, headings=headings, tot_counties=tot_counties, avg_counties=avg_counties)
+
+    # Make table
+    result = getOnlyStateAndCountyTable(stateArray,countyArray)
+    print(result)
+    # Computations
+    tot_counties = getCountiesTotalPopulation(result)
+    avg_counties = getCountiesAveragePopulation(result)
+
+    return render_template('population_table_county.html', county_list=county_l, result=result, headings=headings, tot_counties=tot_counties, avg_counties=avg_counties)
+
 
 ########################################
 # Unemployment 
@@ -219,6 +303,135 @@ def unemployment_county():
     avg_unemp_rate = getAverageUnEmploymentRate(result)
 
     return render_template('unemployment_table_county.html', county_list=county_l, result=result, headings=headings, tot_unemp_people=tot_unemp_people, avg_unemp_people=avg_unemp_people, avg_unemp_rate=avg_unemp_rate)
+
+########################################
+# Poverty 
+########################################
+@app.route('/poverty_state', methods=['GET', 'POST'])
+def poverty_state():
+    # Headings for the table
+    headings = ("State FIPS","State Name","Abbreviation","State Population", "County FIPS","County Name","County Population", "Poverty Estimate")
+    # Make dropdown for state options
+    form = Form()
+    form.state.choices = [(state.STATEID, state.STATENAME) for state in states.query.all()]
+
+    # SELECT 
+    if request.method == 'POST':
+        state_l = states.query.filter_by(STATEID=form.state.data).first()
+        stateArray = []
+        stateObj = state_l.STATENAME
+        stateArray.append(stateObj)
+        return redirect(url_for('poverty_county', state_l=stateArray))
+
+     # put states in a list
+    state_na = db.session.query(states.STATENAME).all()
+    stateArray = []
+    for state_info in state_na:
+        stateObj = state_info.STATENAME
+        stateArray.append(stateObj)
+    #print(stateArray)
+
+    # put counties in a list
+    count_na = db.session.query(counties.COUNTYNAME).all()
+    countyArray = []
+    for county_info in count_na:
+        countyObj = county_info.COUNTYNAME
+        countyArray.append(countyObj)
+    choices = countyArray
+
+    form_data = form.select_multiple_field.data
+    print(form_data)
+
+    # Make table
+    result = getOnlyPovertyTable(stateArray,choices)
+    # Computations
+    tot_poverty = getTotalPovertyEstimates(result)
+    avg_poverty = getAveragePovertyEstimates(result)
+    
+    return render_template('poverty_table_state.html', form=form, result=result, headings=headings, tot_poverty=tot_poverty, avg_poverty=avg_poverty )
+
+
+@app.route('/poverty_county', methods=['GET', 'POST'])
+def poverty_county():
+    state_l = request.args['state_l']
+    headings = ("State FIPS","State Name","Abbreviation","State Population", "County FIPS","County Name","County Population", "Poverty Estimate")
+    state = states.query.filter(states.STATENAME==state_l).first()
+    county_l = counties.query.filter(counties.STATEID==state.STATEID).all()
+
+    stateArray = []
+    statename = state.STATENAME
+    stateArray.append(statename)
+
+    countyArray = []
+    for county_info in county_l:
+        countyObj = county_info.COUNTYNAME
+        countyArray.append(countyObj)
+
+    if request.method == 'POST':
+        # Retrieve county selection from dropdown
+        county_list = request.form.getlist('c_list')
+
+        # Make table
+        result = getOnlyPovertyTable(stateArray,county_list)
+        # Computations
+        tot_poverty = getTotalPovertyEstimates(result)
+        avg_poverty = getAveragePovertyEstimates(result)
+
+        return render_template('poverty_table_county.html', county_list=county_l, result=result, headings=headings, tot_poverty=tot_poverty, avg_poverty=avg_poverty)
+
+    # Make table
+    result = getOnlyPovertyTable(stateArray,countyArray)
+    print(result)
+    # Computations
+    tot_poverty = getTotalPovertyEstimates(result)
+    avg_poverty = getAveragePovertyEstimates(result)
+
+    return render_template('poverty_table_county.html', county_list=county_l, result=result, headings=headings, tot_poverty=tot_poverty, avg_poverty=avg_poverty)
+
+########################################
+# Charities -- wait till Anshika fix
+########################################
+@app.route('/charities_state', methods=['GET', 'POST'])
+def charities_state():
+    # Headings for the table
+    headings = ("State FIPS","State Name","Abbreviation","State Population", "Organization ID", "Organization Name")
+    # Make dropdown for state options
+    form = Form()
+    form.state.choices = [(state.STATEID, state.STATENAME) for state in states.query.all()]
+
+    # SELECT 
+    if request.method == 'POST':
+        state_l = states.query.filter_by(STATEID=form.state.data).first()
+        stateArray = []
+        stateObj = state_l.STATENAME
+        stateArray.append(stateObj)
+
+        # Make table
+        result = getOnlyCharitiesTable(stateArray)
+        # Computations
+        tot_charities = getTotalCharities(result)
+
+        return render_template('charities_table.html', form=form, result=result, headings=headings, tot_charities=tot_charities)
+
+
+     # put states in a list
+    state_na = db.session.query(states.STATENAME).all()
+    stateArray = []
+    for state_info in state_na:
+        stateObj = state_info.STATENAME
+        stateArray.append(stateObj)
+    #print(stateArray)
+
+    form_data = form.select_multiple_field.data
+    print(form_data)
+
+    # Make table
+    result = getOnlyCharitiesTable(stateArray)
+    # Computations
+    tot_charities = getTotalCharities(result)
+    
+    return render_template('charities_table.html', form=form, result=result, headings=headings, tot_charities=tot_charities)
+
 
 if __name__ == '__main__':
     app.run()

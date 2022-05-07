@@ -63,13 +63,9 @@ def getOnlyUnemploymentTable(stateLst,countyLst):
         con.close()
         return records
 
-<<<<<<< HEAD
 def getOnlyCharitiesTable(stateLst):
-=======
-def getOnlyCharitiesTable(stateLst,countyLst):
         con = sqlite3.connect("data.db", check_same_thread=False )
         cur = con.cursor()
->>>>>>> 066c4456cea4d0ec7fcb629ccfb5c5f246941078
         query1 = "create temp table tb(STATEID INT,STATENAME TEXT,ABBREVIATION TEXT,STATEPOP INT,ORGID INT,ORGANIZATION_NAME TEXT)"
         query2 = "insert into tb select s.*, c.ORGID, c.ORGANIZATION_NAME from states as s natural join charities as c"
         cur.execute(query1)
@@ -160,18 +156,9 @@ def getAverageUnEmploymentRate(records):
 
 # Charities Computation
 def getTotalCharities(records):
-        data = getData(records,unemploymentRate)
+        data = getData(records,charities)
         return Count(data)
 
-<<<<<<< HEAD
-def main():
-        states = ['Maryland','Alaska']
-        records = getOnlyCharitiesTable(states)
-        df = pd.DataFrame(records)
-        df.to_csv("sol.csv")
-        con.commit()
-        con.close()
-=======
 #
 #def main():
  #       states = ['Maryland','Alaska']
@@ -184,6 +171,5 @@ def main():
         
     #    con.commit()
     #    con.close()
->>>>>>> 066c4456cea4d0ec7fcb629ccfb5c5f246941078
 
 #main()
