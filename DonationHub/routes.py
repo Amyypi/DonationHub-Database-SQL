@@ -38,6 +38,11 @@ class Form(FlaskForm):
 ########################################
 @app.route('/', methods=['GET', 'POST'])
 def index():
+    return redirect(url_for('default_state'))
+
+
+@app.route('/default_state', methods=['GET', 'POST'])
+def default_state():
     # Headings for the table
     headings = ("State FIPS","State Name","Abbreviation","State Population", "County FIPS","County Name","County Population", "Poverty Estimate", "Unemployed People","Unemployed Rate")
     # Make dropdown for state options

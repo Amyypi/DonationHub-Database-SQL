@@ -90,7 +90,7 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="button-group">
-						<p style="align-items:center;"><a href="{{ url_for('unemployment_state') }}"><button class="button">Default</button></a></p>
+						<p style="align-items:center;"><a href="{{ url_for('default_state') }}"><button class="button">Default</button></a></p>
 						<p style="align-items:center;"><a href="{{ url_for('population_state') }}"><button class="button">Population</button></a></p>
 						<p style="align-items:center;"><a href="{{ url_for('unemployment_state') }}"><button class="button">Unemployment</button></a></p>
 						<p style="align-items:center;"><a href="{{ url_for('poverty_state') }}"><button class="button">Poverty</button></a></p>
@@ -101,7 +101,7 @@
 
 			<div class="row">
 				<div class="col-lg-2" id="Calc">
-					<h2>calculations:</h2>
+					<h2>Statistics:</h2>
 					{% block content %} {% endblock %}
 				</div>
 				<div class="col-lg-10">
