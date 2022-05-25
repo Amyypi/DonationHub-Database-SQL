@@ -1,5 +1,6 @@
 <h1>DonationHub</h1>
 Team: Anshika Patel, Amy Phan, and Parth Patel.
+
 Time: Spring 2022 Semester
 
 ## Introduction:
